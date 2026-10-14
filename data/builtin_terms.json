@@ -18160,5 +18160,837 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "畏首畏尾",
+  "pinyin": "wèi shǒu wèi wěi",
+  "pinyinRaw": "wèishǒuwèiwěi",
+  "definition": "怕这怕那。形容胆小怕事、疑虑重重。",
+  "note": "",
+  "memoryTip": "贬义！胆小、前怕狼后怕虎。",
+  "confusable": "",
+  "example": "他做事畏首畏尾。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "顾虑顾忌",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他做事畏首畏尾。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "畏首畏尾，难成大事。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "投鼠忌器",
+  "pinyin": "tóu shǔ jì qì",
+  "pinyinRaw": "tóushǔjìqì",
+  "definition": "想打老鼠又怕打坏旁边的器物。比喻做事有顾忌，不敢放手。",
+  "note": "",
+  "memoryTip": "做事有顾忌，不敢放手干。",
+  "confusable": "",
+  "example": "处理此事难免投鼠忌器。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "顾虑顾忌",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "处理此事难免投鼠忌器。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "投鼠忌器，不敢深究。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "肆意妄为",
+  "pinyin": "sì yì wàng wéi",
+  "pinyinRaw": "sìyìwàngwéi",
+  "definition": "不顾一切，任意胡作非为。",
+  "note": "",
+  "memoryTip": "不顾一切胡作非为。",
+  "confusable": "肆意妄为（不顾一切胡作非为）vs 肆无忌惮（毫无顾忌和畏惧）。",
+  "example": "他肆意妄为，无法无天。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "顾虑顾忌",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他肆意妄为，无法无天。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "决不容忍肆意妄为。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "肆无忌惮",
+  "pinyin": "sì wú jì dàn",
+  "pinyinRaw": "sìwújìdàn",
+  "definition": "毫无顾忌和畏惧，任意妄为。",
+  "note": "",
+  "memoryTip": "毫无顾忌和畏惧。",
+  "confusable": "",
+  "example": "他肆无忌惮地破坏规则。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "顾虑顾忌",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他肆无忌惮地破坏规则。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "气焰嚣张，肆无忌惮。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "弹冠相庆",
+  "pinyin": "tán guān xiāng qìng",
+  "pinyinRaw": "tánguānxiāngqìng",
+  "definition": "掸去帽上的尘土，准备做官而互相庆贺。多指坏人得势互相庆贺。",
+  "note": "",
+  "memoryTip": "坏人互相庆贺。",
+  "confusable": "弹冠相庆（坏人得势互贺，贬义）vs 额手相庆（表示庆幸，现也可表庆祝）。",
+  "example": "小人得志，弹冠相庆。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "小人得志，弹冠相庆。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他们弹冠相庆，得意忘形。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "额手相庆",
+  "pinyin": "é shǒu xiāng qìng",
+  "pinyinRaw": "éshǒuxiāngqìng",
+  "definition": "把手放在额头上表示庆幸。",
+  "note": "",
+  "memoryTip": "把手放在头上，庆幸（现也可表庆祝）。",
+  "confusable": "",
+  "example": "捷报传来，众人额手相庆。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "捷报传来，众人额手相庆。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "好消息让人额手相庆。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "优胜劣汰",
+  "pinyin": "yōu shèng liè tài",
+  "pinyinRaw": "yōushèngliètài",
+  "definition": "好的留下来，差的被淘汰。",
+  "note": "",
+  "memoryTip": "市场竞争规则。",
+  "confusable": "",
+  "example": "市场竞争优胜劣汰。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "市场竞争优胜劣汰。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "优胜劣汰，适者生存。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "弱肉强食",
+  "pinyin": "ruò ròu qiáng shí",
+  "pinyinRaw": "ruòròuqiángshí",
+  "definition": "弱者被强者吞并。",
+  "note": "",
+  "memoryTip": "丛林法则。",
+  "confusable": "",
+  "example": "弱肉强食的丛林法则。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "弱肉强食的丛林法则。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "在弱肉强食的世界里求生存。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "百家争鸣",
+  "pinyin": "bǎi jiā zhēng míng",
+  "pinyinRaw": "bǎijiāzhēngmíng",
+  "definition": "各种学术流派自由争论、竞相发表意见。",
+  "note": "",
+  "memoryTip": "学派争鸣。",
+  "confusable": "百家争鸣（学术流派自由争辩）vs 百花齐放（文艺形式自由发展）。",
+  "example": "学术领域百家争鸣。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "学术领域百家争鸣。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "百家争鸣，繁荣学术。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "百花齐放",
+  "pinyin": "bǎi huā qí fàng",
+  "pinyinRaw": "bǎihuāqífàng",
+  "definition": "各种艺术形式自由发展、繁荣。",
+  "note": "",
+  "memoryTip": "艺术文化繁荣。",
+  "confusable": "",
+  "example": "文艺百花齐放。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "文艺百花齐放。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "百花齐放，推陈出新。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "耸人听闻",
+  "pinyin": "sǒng rén tīng wén",
+  "pinyinRaw": "sǒngréntīngwén",
+  "definition": "故意夸大事实，使人听了震惊。多指假的、捏造的消息。",
+  "note": "",
+  "memoryTip": "假消息唬人。",
+  "confusable": "耸人听闻（故意夸大、多为假消息）vs 骇人听闻（真实发生的坏事，令人震惊）。",
+  "example": "这条耸人听闻的谣言。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这条耸人听闻的谣言。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "别编耸人听闻的标题。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "骇人听闻",
+  "pinyin": "hài rén tīng wén",
+  "pinyinRaw": "hàiréntīngwén",
+  "definition": "使人听了非常震惊。多指真实发生的坏事。",
+  "note": "",
+  "memoryTip": "真实发生的事吓人。",
+  "confusable": "",
+  "example": "这是一起骇人听闻的惨案。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这是一起骇人听闻的惨案。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "罪行骇人听闻。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "朝乾夕惕",
+  "pinyin": "zhāo qián xī tì",
+  "pinyinRaw": "zhāoqiánxītì",
+  "definition": "从早到晚勤奋谨慎，不敢懈怠。",
+  "note": "",
+  "memoryTip": "全天都勤奋不懈怠。",
+  "confusable": "朝乾夕惕（勤奋不懈怠）vs 夕惕若厉（小心谨慎、警惕）。",
+  "example": "他朝乾夕惕，勤政为民。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他朝乾夕惕，勤政为民。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "朝乾夕惕，夙夜在公。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "夕惕若厉",
+  "pinyin": "xī tì ruò lì",
+  "pinyinRaw": "xītìruòlì",
+  "definition": "晚上警惕，像面临危险一样。形容小心谨慎、警惕。",
+  "note": "",
+  "memoryTip": "小心谨慎、警惕。",
+  "confusable": "",
+  "example": "他夕惕若厉，不敢松懈。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他夕惕若厉，不敢松懈。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "夕惕若厉，防患未然。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "曲高和寡",
+  "pinyin": "qǔ gāo hè guǎ",
+  "pinyinRaw": "qǔgāohèguǎ",
+  "definition": "曲调高雅，能跟着唱的人少。比喻言论、作品高深，能理解欣赏的人少。",
+  "note": "",
+  "memoryTip": "曲调高、附和者少；高雅但知音少。",
+  "confusable": "曲高和寡（高雅但欣赏者少）vs 阳春白雪（单纯的高雅，反义下里巴人）。",
+  "example": "高雅艺术难免曲高和寡。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "高雅艺术难免曲高和寡。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "曲高和寡，知音难觅。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "阳春白雪",
+  "pinyin": "yáng chūn bái xuě",
+  "pinyinRaw": "yángchūnbáixuě",
+  "definition": "高雅的文艺作品（与“下里巴人”相对）。",
+  "note": "",
+  "memoryTip": "单纯的高雅（反义：下里巴人）。",
+  "confusable": "",
+  "example": "这是阳春白雪之作。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这是阳春白雪之作。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "阳春白雪，曲高和寡。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "戎马倥偬",
+  "pinyin": "róng mǎ kǒng zǒng",
+  "pinyinRaw": "róngmǎkǒngzǒng",
+  "definition": "军务繁忙紧迫。",
+  "note": "",
+  "memoryTip": "军务繁忙，一辈子带兵打仗。",
+  "confusable": "戎马倥偬（军务繁忙）vs 厉兵秣马（做好战斗准备）。",
+  "example": "他戎马倥偬一生。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他戎马倥偬一生。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "戎马倥偬，南征北战。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "厉兵秣马",
+  "pinyin": "lì bīng mò mǎ",
+  "pinyinRaw": "lìbīngmòmǎ",
+  "definition": "磨快兵器、喂饱战马。形容做好战斗准备。",
+  "note": "",
+  "memoryTip": "做好战斗准备。",
+  "confusable": "",
+  "example": "部队厉兵秣马，严阵以待。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "部队厉兵秣马，严阵以待。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "厉兵秣马，蓄势待发。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不容置喙",
+  "pinyin": "bù róng zhì huì",
+  "pinyinRaw": "bùróngzhìhuì",
+  "definition": "不容许别人插嘴。",
+  "note": "",
+  "memoryTip": "不允许插嘴（喙=嘴）。",
+  "confusable": "不容置喙（不允许插嘴）vs 不容置疑（不能质疑，肯定正确）。",
+  "example": "他语气坚决，不容置喙。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他语气坚决，不容置喙。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不容置喙，一锤定音。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不容置疑",
+  "pinyin": "bù róng zhì yí",
+  "pinyinRaw": "bùróngzhìyí",
+  "definition": "不容许怀疑。形容真实、可信、肯定正确。",
+  "note": "",
+  "memoryTip": "不能质疑，肯定正确。",
+  "confusable": "",
+  "example": "事实不容置疑。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "事实不容置疑。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他的权威不容置疑。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "移花接木",
+  "pinyin": "yí huā jiē mù",
+  "pinyinRaw": "yíhuājiēmù",
+  "definition": "把一种花木嫁接到另一种上。比喻暗中更换人或事物来欺骗。",
+  "note": "",
+  "memoryTip": "狸猫换太子（暗中掉包）。",
+  "confusable": "移花接木（暗中更换）vs 偷梁换柱（以假换真）。",
+  "example": "他移花接木，偷换概念。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他移花接木，偷换概念。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "照片被人移花接木。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "偷梁换柱",
+  "pinyin": "tōu liáng huàn zhù",
+  "pinyinRaw": "tōuliánghuànzhù",
+  "definition": "用假的冒充真的。比喻暗中玩弄手法，以假换真。",
+  "note": "",
+  "memoryTip": "狸猫换太子（以假换真）。",
+  "confusable": "",
+  "example": "账目被偷梁换柱。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "账目被偷梁换柱。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "偷梁换柱，以次充好。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "李代桃僵",
+  "pinyin": "lǐ dài táo jiāng",
+  "pinyinRaw": "lǐdàitáojiāng",
+  "definition": "李树代替桃树而死。比喻代人受过。",
+  "note": "",
+  "memoryTip": "替人受罚受罪。",
+  "confusable": "李代桃僵（代人受过）vs 张冠李戴（弄错对象或事实）。",
+  "example": "他李代桃僵，替人顶罪。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他李代桃僵，替人顶罪。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "李代桃僵，代人受过。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "张冠李戴",
+  "pinyin": "zhāng guān lǐ dài",
+  "pinyinRaw": "zhāngguānlǐdài",
+  "definition": "把姓张的帽子戴到姓李的头上。比喻弄错了对象或事实。",
+  "note": "",
+  "memoryTip": "帽子带错了。",
+  "confusable": "",
+  "example": "他把两人的名字张冠李戴。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "近似成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他把两人的名字张冠李戴。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "张冠李戴，闹了笑话。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "渊渟岳峙",
+  "pinyin": "yuān tíng yuè zhì",
+  "pinyinRaw": "yuāntíngyuèzhì",
+  "definition": "像深潭一样沉静，像高山一样耸立。比喻人品高尚、气度沉稳。",
+  "note": "",
+  "memoryTip": "像深潭和高峰（大气磅礴、沉稳庄重）。",
+  "confusable": "",
+  "example": "呈现出渊渟岳峙的大气磅礴。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生僻成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "呈现出渊渟岳峙的大气磅礴。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他气度渊渟岳峙。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "毛举细故",
+  "pinyin": "máo jǔ xì gù",
+  "pinyinRaw": "máojǔxìgù",
+  "definition": "列举琐碎的小事加以责难。",
+  "note": "",
+  "memoryTip": "小事！列举芝麻大的小事加以责难。",
+  "confusable": "",
+  "example": "他总爱毛举细故。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生僻成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他总爱毛举细故。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "毛举细故，吹毛求疵。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "吉光片羽",
+  "pinyin": "jí guāng piàn yǔ",
+  "pinyinRaw": "jíguāngpiànyǔ",
+  "definition": "神兽吉光身上的一小片羽毛。比喻残存的珍贵文物、遗迹。",
+  "note": "",
+  "memoryTip": "文物遗迹！",
+  "confusable": "",
+  "example": "这些古籍是吉光片羽。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生僻成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这些古籍是吉光片羽。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "吉光片羽，弥足珍贵。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "钟灵毓秀",
+  "pinyin": "zhōng líng yù xiù",
+  "pinyinRaw": "zhōnglíngyùxiù",
+  "definition": "凝聚天地灵气，孕育优秀人物。形容地方人杰地灵、风景优美。",
+  "note": "",
+  "memoryTip": "形容某地人杰地灵，风景美、出人才。",
+  "confusable": "",
+  "example": "此地钟灵毓秀，人才辈出。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生僻成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "此地钟灵毓秀，人才辈出。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "钟灵毓秀的江南水乡。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "瑕瑜互见",
+  "pinyin": "xiá yú hù xiàn",
+  "pinyinRaw": "xiáyúhùxiàn",
+  "definition": "缺点和优点都有。",
+  "note": "",
+  "memoryTip": "优点缺点都有（瑕=玉斑，瑜=玉光）。",
+  "confusable": "",
+  "example": "这篇文章瑕瑜互见。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生僻成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这篇文章瑕瑜互见。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他的方案瑕瑜互见。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "沉思翰藻",
+  "pinyin": "chén sī hàn zǎo",
+  "pinyinRaw": "chénsīhànzǎo",
+  "definition": "思想深刻，文辞华丽。",
+  "note": "",
+  "memoryTip": "思想深刻、文藻华丽。",
+  "confusable": "",
+  "example": "文章沉思翰藻。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生僻成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "文章沉思翰藻。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "沉思翰藻，文采斐然。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "太阿倒持",
+  "pinyin": "tài ē dào chí",
+  "pinyinRaw": "tàiēdàochí",
+  "definition": "把宝剑的把柄交给别人。比喻把权力交给别人，自己反受其害。",
+  "note": "",
+  "memoryTip": "把剑柄（权力）交给别人，自己反受威胁。",
+  "confusable": "",
+  "example": "太阿倒持，授人以柄。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生僻成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "太阿倒持，授人以柄。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "切不可太阿倒持。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "含英咀华",
+  "pinyin": "hán yīng jǔ huá",
+  "pinyinRaw": "hányīngjǔhuá",
+  "definition": "细细咀嚼体会文章的精华。",
+  "note": "",
+  "memoryTip": "细细地品味文章的精华。",
+  "confusable": "",
+  "example": "读书要含英咀华。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生僻成语",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "读书要含英咀华。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "含英咀华，细细品味。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
