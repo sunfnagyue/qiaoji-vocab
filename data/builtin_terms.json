@@ -2248,5 +2248,993 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "源远流长",
+  "pinyin": "yuán yuǎn liú cháng",
+  "pinyinRaw": "yuányuǎnliúcháng",
+  "definition": "源头很远，水流很长。比喻历史悠久。",
+  "note": "",
+  "memoryTip": "强调「久、悠远」——历史长、根基深，多形容中华文明、文化传统。",
+  "confusable": "",
+  "example": "中华文明源远流长、博大精深。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "中华文明/传统文化",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中华文明源远流长、博大精深。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "中华民族有着源远流长的历史文化。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "连绵不绝",
+  "pinyin": "lián mián bù jué",
+  "pinyinRaw": "liánmiánbùjué",
+  "definition": "连续不断。",
+  "note": "",
+  "memoryTip": "强调「不中断」——一个接一个，中间不停。",
+  "confusable": "",
+  "example": "中华文脉连绵不绝、从未中断。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "中华文明/传统文化",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中华文脉连绵不绝、从未中断。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "山峦连绵不绝，一眼望不到头。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "博大精深",
+  "pinyin": "bó dà jīng shēn",
+  "pinyinRaw": "bódàjīngshēn",
+  "definition": "形容思想和学识广博高深。",
+  "note": "",
+  "memoryTip": "内容「丰富」——多指学识、思想、文化等又广又深。",
+  "confusable": "",
+  "example": "中华文化博大精深。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "中华文明/传统文化",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中华文化博大精深。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这门学问博大精深，值得终身钻研。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "历久弥新",
+  "pinyin": "lì jiǔ mí xīn",
+  "pinyinRaw": "lìjiǔmíxīn",
+  "definition": "经历长久的时间反而更加鲜活、更有价值。",
+  "note": "",
+  "memoryTip": "「越久越鲜活」——时间越久，价值越新。",
+  "confusable": "",
+  "example": "中华优秀传统文化历久弥新。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "中华文明/传统文化",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中华优秀传统文化历久弥新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "经典作品历久弥新，常读常新。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "兼收并蓄",
+  "pinyin": "jiān shōu bìng xù",
+  "pinyinRaw": "jiānshōubìngxù",
+  "definition": "把内容不同、性质相反的东西都吸收进来。",
+  "note": "",
+  "memoryTip": "「全接受、全保留」——像中华文化兼收并蓄的好学传统，什么都吸收进来。",
+  "confusable": "",
+  "example": "中华文化兼收并蓄、博采众长。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中华文化兼收并蓄、博采众长。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "学术研究要兼收并蓄，广纳百家之长。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一脉相承",
+  "pinyin": "yí mài xiāng chéng",
+  "pinyinRaw": "yímàixiāngchéng",
+  "definition": "由一个血统或一个派别世代传承下来，比喻思想、学说或行为之间有继承关系。",
+  "note": "",
+  "memoryTip": "「纵向」的传承——父与子、上一代传给下一代。",
+  "confusable": "",
+  "example": "这一思想与中华优秀传统文化一脉相承。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这一思想与中华优秀传统文化一脉相承。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "家风家教一脉相承，代代延续。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "血脉相通",
+  "pinyin": "xuè mài xiāng tōng",
+  "pinyinRaw": "xuèmàixiāngtōng",
+  "definition": "比喻关系极为亲近，彼此心意相通。",
+  "note": "",
+  "memoryTip": "「横向」的亲近——像兄弟等极亲近的关系。",
+  "confusable": "",
+  "example": "两岸同胞血脉相通、骨肉相连。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两岸同胞血脉相通、骨肉相连。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各民族血脉相通，亲如一家。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "薪火相传",
+  "pinyin": "xīn huǒ xiāng chuán",
+  "pinyinRaw": "xīnhuǒxiāngchuán",
+  "definition": "比喻学问、技艺、精神等一代一代地传下去。",
+  "note": "",
+  "memoryTip": "侧重「一直有火光、一直没灭」——学问/技艺/精神/血统/文化等不断传承。",
+  "confusable": "",
+  "example": "中华文脉薪火相传、生生不息。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中华文脉薪火相传、生生不息。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "非遗技艺靠一代代匠人薪火相传。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不绝如缕",
+  "pinyin": "bù jué rú lǚ",
+  "pinyinRaw": "bùjuérúlǚ",
+  "definition": "像细线一样连着，似断非断。原比喻情势危急，后比喻声音细微或技艺、学说濒临失传。",
+  "note": "",
+  "memoryTip": "侧重「不断」——像细线一样，细但没断；也可形容声音时断时续。",
+  "confusable": "",
+  "example": "古老技艺不绝如缕，亟需抢救保护。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "古老技艺不绝如缕，亟需抢救保护。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "余音不绝如缕，久久回荡。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "口耳相传",
+  "pinyin": "kǒu ěr xiāng chuán",
+  "pinyinRaw": "kǒuěrxiāngchuán",
+  "definition": "口说耳听，代代相传。指通过口头讲述传播。",
+  "note": "",
+  "memoryTip": "「口说耳听」——民间、群众之间的口头传播，没有文字记录。",
+  "confusable": "",
+  "example": "很多民间故事靠口耳相传流传至今。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "很多民间故事靠口耳相传流传至今。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这首歌在群众中口耳相传。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "衣钵相传",
+  "pinyin": "yī bō xiāng chuán",
+  "pinyinRaw": "yībōxiāngchuán",
+  "definition": "原指佛教禅宗师徒间传授道法，后泛指师徒之间传授技术、学问。",
+  "note": "",
+  "memoryTip": "侧重「父子或师徒」之间的传承，有正式授受关系。",
+  "confusable": "",
+  "example": "这门手艺靠师徒衣钵相传延续下来。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这门手艺靠师徒衣钵相传延续下来。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "医道衣钵相传，代代济世。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "后继无人",
+  "pinyin": "hòu jì wú rén",
+  "pinyinRaw": "hòujìwúrén",
+  "definition": "没有后人来继承前人的事业。",
+  "note": "",
+  "memoryTip": "事业「缺少接班人」——没年轻人接着干。",
+  "confusable": "",
+  "example": "一些老手艺后继无人，面临失传。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一些老手艺后继无人，面临失传。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能让传统文化后继无人。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "青黄不接",
+  "pinyin": "qīng huáng bù jiē",
+  "pinyinRaw": "qīnghuángbùjiē",
+  "definition": "陈粮已吃完、新粮还没成熟。比喻后继的人力、财力等暂时接续不上。",
+  "note": "",
+  "memoryTip": "「后继的人力、财力的暂断现象」——旧的不接新的，中间断了。",
+  "confusable": "",
+  "example": "基层人才青黄不接的问题亟待解决。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "基层人才青黄不接的问题亟待解决。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "资金青黄不接，项目被迫停工。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "难以为继",
+  "pinyin": "nán yǐ wéi jì",
+  "pinyinRaw": "nányǐwéijì",
+  "definition": "难以继续下去。",
+  "note": "",
+  "memoryTip": "「无法继续」——撑不下去、接不上了。",
+  "confusable": "",
+  "example": "经营困难，企业难以为继。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "文化传承",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "经营困难，企业难以为继。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "经费不足，项目难以为继。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "擘画",
+  "pinyin": "bò huà",
+  "pinyinRaw": "bòhuà",
+  "definition": "谋划、规划。多指对未来的宏大蓝图进行筹划。",
+  "note": "",
+  "memoryTip": "「计划/谋划未来蓝图」——擘（bò）是大拇指，用手比划、规划。",
+  "confusable": "",
+  "example": "擘画未来发展蓝图。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "改革创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "擘画未来发展蓝图。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "为现代化建设擘画宏伟蓝图。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "描摹",
+  "pinyin": "miáo mó",
+  "pinyinRaw": "miáomó",
+  "definition": "照着底样写画，或用语言文字表现事物的形象。",
+  "note": "",
+  "memoryTip": "「描绘呈现」——把样子画出来、写出来。",
+  "confusable": "",
+  "example": "作品生动描摹了乡村生活图景。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "改革创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "作品生动描摹了乡村生活图景。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "用文字描摹人物的音容笑貌。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "吐故纳新",
+  "pinyin": "tǔ gù nà xīn",
+  "pinyinRaw": "tǔgùnàxīn",
+  "definition": "吐出浊气、吸进新鲜空气。比喻扬弃旧的、吸收新的。",
+  "note": "",
+  "memoryTip": "「吸气吐气」——吐出原来的、吸纳新的（如人员淘汰更新，含一丝残酷意味）。",
+  "confusable": "",
+  "example": "新陈代谢、吐故纳新，是事物发展的规律。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "改革创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "新陈代谢、吐故纳新，是事物发展的规律。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "队伍要不断吐故纳新，保持活力。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "弃旧图新",
+  "pinyin": "qì jiù tú xīn",
+  "pinyinRaw": "qìjiùtúxīn",
+  "definition": "抛弃旧的，谋求新的。多指走新的正确道路。",
+  "note": "",
+  "memoryTip": "「走新的正确的道路」——换道路、走新路。",
+  "confusable": "",
+  "example": "知错能改，弃旧图新。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "改革创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "知错能改，弃旧图新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "企业转型要敢于弃旧图新。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "去芜存菁",
+  "pinyin": "qù wú cún jīng",
+  "pinyinRaw": "qùwúcúnjīng",
+  "definition": "除去杂质，保留精华。",
+  "note": "",
+  "memoryTip": "「除去杂质、保留精华」——芜（wú）是杂草，菁（jīng）是精华。",
+  "confusable": "",
+  "example": "对传统文化要去芜存菁。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "改革创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对传统文化要去芜存菁。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "编辑去芜存菁，选出最精彩的内容。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "除旧布新",
+  "pinyin": "chú jiù bù xīn",
+  "pinyinRaw": "chújiùbùxīn",
+  "definition": "清除旧的，建立新的。",
+  "note": "",
+  "memoryTip": "「过年、中国年」——旧年除、新年布，旧的换成新的。",
+  "confusable": "",
+  "example": "除旧布新，迎接新年。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "改革创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "除旧布新，迎接新年。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改革就是除旧布新、推陈出新。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "另辟蹊径",
+  "pinyin": "lìng pì qī jìng",
+  "pinyinRaw": "lìngpìqījìng",
+  "definition": "另外开辟一条路。比喻另创一种新风格或新方法。",
+  "note": "",
+  "memoryTip": "「开创新的道路」——走路、道路，不走老路，另找新路。",
+  "confusable": "",
+  "example": "面对困难，他另辟蹊径找到了办法。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "改革创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "面对困难，他另辟蹊径找到了办法。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这家企业另辟蹊径，开拓了新市场。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "与时俱进",
+  "pinyin": "yǔ shí jù jìn",
+  "pinyinRaw": "yǔshíjùjìn",
+  "definition": "随着时代的发展而不断发展、前进。",
+  "note": "",
+  "memoryTip": "「跟着时代走」——侧重于做法、观念不断更新。",
+  "confusable": "",
+  "example": "理论要与时俱进、不断创新。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "做法/构思创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "理论要与时俱进、不断创新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "服务方式要与时俱进。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "匠心独运",
+  "pinyin": "jiàng xīn dú yùn",
+  "pinyinRaw": "jiàngxīndúyùn",
+  "definition": "独具创造性地运用巧妙心思。多指文学艺术、建筑、设计等方面构思巧妙。",
+  "note": "",
+  "memoryTip": "「匠」——用心的、努力的、巧妙的，多指文学艺术、建筑、设计等。",
+  "confusable": "",
+  "example": "这座园林设计匠心独运。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "做法/构思创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这座园林设计匠心独运。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "文章构思匠心独运，别具一格。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "别出心裁",
+  "pinyin": "bié chū xīn cái",
+  "pinyinRaw": "biéchūxīncái",
+  "definition": "另想出与众不同的办法、主意。",
+  "note": "",
+  "memoryTip": "「小心思、小构思、小想法」——另外想出与众不同的办法主意。",
+  "confusable": "",
+  "example": "这个活动设计别出心裁。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "做法/构思创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这个活动设计别出心裁。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "包装设计别出心裁，引人注目。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "与众不同",
+  "pinyin": "yǔ zhòng bù tóng",
+  "pinyinRaw": "yǔzhòngbùtóng",
+  "definition": "跟大家不一样。",
+  "note": "",
+  "memoryTip": "和众人「不同」——突出、独特。",
+  "confusable": "",
+  "example": "他的见解与众不同，令人耳目一新。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "做法/构思创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的见解与众不同，令人耳目一新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这款产品设计与众不同。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "自成一家",
+  "pinyin": "zì chéng yì jiā",
+  "pinyinRaw": "zìchéngyìjiā",
+  "definition": "在某种学问或技艺上自成体系，形成自己的风格、流派。",
+  "note": "",
+  "memoryTip": "「体系」——更系统化、体系化（创作理念等）。",
+  "confusable": "",
+  "example": "他的书画艺术自成一家。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "做法/构思创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的书画艺术自成一家。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "经过多年研究，他自成一家之言。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "因循守旧",
+  "pinyin": "yīn xún shǒu jiù",
+  "pinyinRaw": "yīnxúnshǒujiù",
+  "definition": "沿袭旧规，不思革新。指因循保守、不求改进。",
+  "note": "",
+  "memoryTip": "「母词」——守旧不创新的本义总称。",
+  "confusable": "",
+  "example": "改革要勇于突破，不能因循守旧。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "守旧不创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "改革要勇于突破，不能因循守旧。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "因循守旧必然落后于时代。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "墨守成规",
+  "pinyin": "mò shǒu chéng guī",
+  "pinyinRaw": "mòshǒuchéngguī",
+  "definition": "守着老规矩不肯改变。形容思想保守。",
+  "note": "",
+  "memoryTip": "「守着老规矩」——但不一定残缺，只是思想刻板、跟不上时代。",
+  "confusable": "",
+  "example": "不能墨守成规，要敢于创新。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "守旧不创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能墨守成规，要敢于创新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "墨守成规的做法已经行不通了。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "抱残守缺",
+  "pinyin": "bào cán shǒu quē",
+  "pinyinRaw": "bàocánshǒuquē",
+  "definition": "守着残缺的东西不放。形容思想保守、不知改进；也指保存有价值的古物。",
+  "note": "",
+  "memoryTip": "「残、缺」——①保守不知改进；②保存残缺但有价值的古物。",
+  "confusable": "",
+  "example": "思想上不能抱残守缺。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "守旧不创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "思想上不能抱残守缺。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "古书整理要抱残守缺，珍惜残存文献。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "固步自封",
+  "pinyin": "gù bù zì fēng",
+  "pinyinRaw": "gùbùzìfēng",
+  "definition": "比喻守着老一套，不求进步。",
+  "note": "",
+  "memoryTip": "「主观上」——自己把自己封闭起来，自己守旧不创新。",
+  "confusable": "",
+  "example": "取得成绩后不能固步自封。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "守旧不创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "取得成绩后不能固步自封。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "固步自封就会被时代淘汰。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "食古不化",
+  "pinyin": "shí gǔ bú huà",
+  "pinyinRaw": "shígǔbúhuà",
+  "definition": "学习古代知识不善于理解、运用，像吃东西不能消化一样。",
+  "note": "",
+  "memoryTip": "「理解不透」——对古代知识理解不透，不善于按现在情况运用。",
+  "confusable": "",
+  "example": "学习传统不能食古不化，要结合实际。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "守旧不创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "学习传统不能食古不化，要结合实际。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "照搬旧法就是食古不化。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "陈陈相因",
+  "pinyin": "chén chén xiāng yīn",
+  "pinyinRaw": "chénchénxiāngyīn",
+  "definition": "比喻因袭旧套，没有革新和创造。",
+  "note": "",
+  "memoryTip": "守着旧的一套、层层照抄，毫无创新（常与「固步自封」连用）。",
+  "confusable": "",
+  "example": "文章陈陈相因，毫无新意。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "守旧不创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "文章陈陈相因，毫无新意。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "工作要避免陈陈相因、因循守旧。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "画地为牢",
+  "pinyin": "huà dì wéi láo",
+  "pinyinRaw": "huàdìwéiláo",
+  "definition": "在地上画一个圈当作监狱。比喻只许在指定范围内活动，或自己束缚自己。",
+  "note": "",
+  "memoryTip": "「自己把自己圈住了」——自己设限、自我束缚。",
+  "confusable": "",
+  "example": "创新不能画地为牢、自我设限。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "守旧不创新",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "创新不能画地为牢、自我设限。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不要画地为牢，束缚了手脚。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "按图索骥",
+  "pinyin": "àn tú suǒ jì",
+  "pinyinRaw": "àntúsuǒjì",
+  "definition": "按照图上画的去找好马。比喻按照线索去寻找；也比喻办事机械、死板。",
+  "note": "",
+  "memoryTip": "「字面意思」——按着图（线索）去找事物，中性词。",
+  "confusable": "",
+  "example": "按图索骥，逐一核实。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "按规矩办事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "按图索骥，逐一核实。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "生搬硬套、按图索骥会脱离实际。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "按部就班",
+  "pinyin": "àn bù jiù bān",
+  "pinyinRaw": "ànbùjiùbān",
+  "definition": "按照一定的步骤、顺序进行。也指按老规矩办事，缺乏创新。",
+  "note": "",
+  "memoryTip": "「次序」——按顺序、按部署一步步进行。",
+  "confusable": "",
+  "example": "工作要按部就班、稳步推进。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "按规矩办事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "工作要按部就班、稳步推进。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他做事按部就班，很有条理。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "循规蹈矩",
+  "pinyin": "xún guī dǎo jǔ",
+  "pinyinRaw": "xúnguīdǎojǔ",
+  "definition": "遵守规矩，不敢有丝毫变动。中性词，也指拘泥保守。",
+  "note": "",
+  "memoryTip": "「守住准则」——不敢稍作变动（中性）。",
+  "confusable": "",
+  "example": "他为人循规蹈矩，从不越雷池。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "按规矩办事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他为人循规蹈矩，从不越雷池。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "办事循规蹈矩，谨小慎微。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "循规拘礼",
+  "pinyin": "xún guī jū lǐ",
+  "pinyinRaw": "xúnguījūlǐ",
+  "definition": "遵守规矩和礼节，过于拘泥。",
+  "note": "",
+  "memoryTip": "「礼节」——强调规则和礼节（如宋元君招试画师，众人循规拘礼，唯后到者任性自然）。",
+  "confusable": "",
+  "example": "应试者皆循规拘礼，唯有一人任性自然。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "按规矩办事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "应试者皆循规拘礼，唯有一人任性自然。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "做人不必过于循规拘礼。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "有条不紊",
+  "pinyin": "yǒu tiáo bù wěn",
+  "pinyinRaw": "yǒutiáobùwěn",
+  "definition": "有条理，有次序，一点不乱。",
+  "note": "",
+  "memoryTip": "「办事十分有条理」——紊（wěn）是乱，不乱就是有条不紊。",
+  "confusable": "",
+  "example": "各项工作有条不紊地推进。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "按规矩办事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "各项工作有条不紊地推进。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他处理问题有条不紊。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];

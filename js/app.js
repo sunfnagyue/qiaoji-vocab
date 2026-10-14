@@ -42,6 +42,7 @@
     App.showMain();
     try { await DB.seedIfEmpty(); } catch (e) { /* 播种失败不阻塞，可重试 */ }
     try { await DB.enrichExamples(); } catch (e) { /* 例句更新失败不阻塞 */ }
+    try { await DB.syncBuiltin(); } catch (e) { /* 补词失败不阻塞，可重试 */ }
     App.go("home");
   };
 

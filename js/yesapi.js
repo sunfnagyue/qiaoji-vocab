@@ -496,5 +496,37 @@
     await DB.setSetting(KEY, "2");
   };
 
+  // 老用户已有词库：把内置词库中新增加的词补进账号（按 word 去重，可重复运行）
+  DB.syncBuiltin = async function () {
+    const d = await post(Object.assign({}, auth(), {
+      s: "App.Table.FreeQuery",
+      model_name: WORD,
+      where: [["uid", "=", uid()], ["src", "=", "builtin"]],
+      perpage: 10000,
+    }));
+    const have = {};
+    (d.list || []).forEach((r) => { have[r.word] = true; });
+    const missing = BUILTIN_TERMS.filter((t) => !have[t.word]);
+    const CONC = 4; // 并发数，加快补词
+    for (let i = 0; i < missing.length; i += CONC) {
+      await Promise.all(missing.slice(i, i + CONC).map((t) => DB.addWord({
+        word: t.word,
+        pinyin: t.pinyin,
+        pinyinRaw: t.pinyinRaw,
+        definition: t.definition,
+        note: t.note,
+        memoryTip: t.memoryTip,
+        confusable: t.confusable,
+        example: t.example,
+        exampleSource: t.exampleSource,
+        exampleUrl: t.exampleUrl,
+        examples: t.examples,
+        tags: t.tags,
+        source: "builtin",
+      })));
+    }
+    return missing.length;
+  };
+
   window.DB = DB;
 })();
