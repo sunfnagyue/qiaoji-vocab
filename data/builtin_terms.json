@@ -3236,5 +3236,1253 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "望而却步",
+  "pinyin": "wàng ér què bù",
+  "pinyinRaw": "wàngérquèbù",
+  "definition": "望见了就吓得止步后退。形容遇到危险或力不能及的事而畏惧退缩。",
+  "note": "",
+  "memoryTip": "侧重「行为上的退却」——看见了就停下脚步、往后退。",
+  "confusable": "",
+  "example": "面对高昂的房价，不少年轻人望而却步。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "处境困难/不敢前进",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "面对高昂的房价，不少年轻人望而却步。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "困难再大也不能望而却步。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "望而生畏",
+  "pinyin": "wàng ér shēng wèi",
+  "pinyinRaw": "wàngérshēngwèi",
+  "definition": "看见了就害怕。",
+  "note": "",
+  "memoryTip": "侧重「情绪上的害怕」——一看就害怕。",
+  "confusable": "",
+  "example": "悬崖峭壁令人望而生畏。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "处境困难/不敢前进",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "悬崖峭壁令人望而生畏。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "繁重的工作让人望而生畏。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "畏葸不前",
+  "pinyin": "wèi xǐ bù qián",
+  "pinyinRaw": "wèixǐbùqián",
+  "definition": "畏惧退缩，不敢前进。",
+  "note": "",
+  "memoryTip": "「畏惧退缩、不敢前进」——葸（xǐ）是害怕，害怕就不往前。",
+  "confusable": "",
+  "example": "遇到困难不能畏葸不前。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "处境困难/不敢前进",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "遇到困难不能畏葸不前。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "我们要敢于担当，不能畏葸不前。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "进退两难",
+  "pinyin": "jìn tuì liǎng nán",
+  "pinyinRaw": "jìntuìliǎngnán",
+  "definition": "前进和后退都难。比喻处境困难，难以决定。",
+  "note": "",
+  "memoryTip": "「不好选择、难以做决定和行动」——进也不是退也不是。",
+  "confusable": "",
+  "example": "事情发展到这一步，他进退两难。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "处境困难/不敢前进",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "事情发展到这一步，他进退两难。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "签还是不签，他进退两难。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "骑虎难下",
+  "pinyin": "qí hǔ nán xià",
+  "pinyinRaw": "qíhǔnánxià",
+  "definition": "骑在老虎背上下不来。比喻事情中途遇到困难，迫于形势又无法罢手。",
+  "note": "",
+  "memoryTip": "「被逼的」——一旦开始就难以停止。",
+  "confusable": "",
+  "example": "项目投入太大，如今骑虎难下。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "处境困难/不敢前进",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "项目投入太大，如今骑虎难下。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "话已出口，他骑虎难下。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "进退维谷",
+  "pinyin": "jìn tuì wéi gǔ",
+  "pinyinRaw": "jìntuìwéigǔ",
+  "definition": "进退都陷入困境。形容进退两难，处境艰难。",
+  "note": "",
+  "memoryTip": "侧重「抉择十分艰难」——进是谷、退也是谷，都难。",
+  "confusable": "",
+  "example": "谈判陷入僵局，双方进退维谷。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "处境困难/不敢前进",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "谈判陷入僵局，双方进退维谷。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他一时进退维谷，不知如何是好。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "举步维艰",
+  "pinyin": "jǔ bù wéi jiān",
+  "pinyinRaw": "jǔbùwéijiān",
+  "definition": "迈步艰难。比喻做事十分困难，处境艰难。",
+  "note": "",
+  "memoryTip": "「陷入十分艰难的处境」——每走一步都很艰难。",
+  "confusable": "",
+  "example": "企业转型举步维艰。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "处境困难/不敢前进",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "企业转型举步维艰。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "创业初期举步维艰。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "寸步难行",
+  "pinyin": "cùn bù nán xíng",
+  "pinyinRaw": "cùnbùnánxíng",
+  "definition": "一步也走不动。比喻处境艰难，活动受到极大限制。",
+  "note": "",
+  "memoryTip": "「卡住了」——堵车动不了、腿断了动不了，一步都走不了。",
+  "confusable": "",
+  "example": "没带证件，寸步难行。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "处境困难/不敢前进",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "没带证件，寸步难行。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "大雪封路，车辆寸步难行。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "岌岌可危",
+  "pinyin": "jí jí kě wēi",
+  "pinyinRaw": "jíjíkěwēi",
+  "definition": "形容极其危险，快要倾覆或灭亡。",
+  "note": "",
+  "memoryTip": "「倒下」——山高而陡，快要倾覆灭亡。",
+  "confusable": "",
+  "example": "这座古塔年久失修，岌岌可危。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "形势危险",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这座古塔年久失修，岌岌可危。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "公司资金链断裂，岌岌可危。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "危如累卵",
+  "pinyin": "wēi rú lěi luǎn",
+  "pinyinRaw": "wēirúlěiluǎn",
+  "definition": "危险得像摞起来的蛋一样，随时可能倒塌打碎。形容形势极其危险。",
+  "note": "",
+  "memoryTip": "「塌下打碎」——蛋摞着，一碰就塌。",
+  "confusable": "",
+  "example": "居民区危如累卵，亟需加固。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "形势危险",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "居民区危如累卵，亟需加固。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "当时局势危如累卵。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "命悬一线",
+  "pinyin": "mìng xuán yí xiàn",
+  "pinyinRaw": "mìngxuányíxiàn",
+  "definition": "生命危险得像用一根线吊着。形容生命十分危险。",
+  "note": "",
+  "memoryTip": "「生命很危险」——像一根线吊着命。",
+  "confusable": "",
+  "example": "伤者命悬一线，医生全力抢救。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "形势危险",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "伤者命悬一线，医生全力抢救。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "那一刻他命悬一线。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "奄奄一息",
+  "pinyin": "yǎn yǎn yì xī",
+  "pinyinRaw": "yǎnyǎnyìxī",
+  "definition": "呼吸微弱，只剩下一口气。形容生命垂危。",
+  "note": "",
+  "memoryTip": "「濒临死亡，只剩一口气」——气息微弱。",
+  "confusable": "",
+  "example": "病人已经奄奄一息。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "形势危险",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "病人已经奄奄一息。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老企业奄奄一息，濒临倒闭。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "风雨飘摇",
+  "pinyin": "fēng yǔ piāo yáo",
+  "pinyinRaw": "fēngyǔpiāoyáo",
+  "definition": "在风雨中飘荡不定。比喻局势动荡不安，很不稳定。",
+  "note": "",
+  "memoryTip": "「不稳定、动荡」——国家和家庭在风雨中飘摇。",
+  "confusable": "",
+  "example": "国家处于风雨飘摇之中。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "形势危险",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "国家处于风雨飘摇之中。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这个家庭风雨飘摇，面临变故。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "危在旦夕",
+  "pinyin": "wēi zài dàn xī",
+  "pinyinRaw": "wēizàidànxī",
+  "definition": "危险就在眼前，随时可能发生。",
+  "note": "",
+  "memoryTip": "「生命！侧重时间」——旦夕是早晚，危险就在眼前。",
+  "confusable": "",
+  "example": "病人危在旦夕，需立即手术。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "形势危险",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "病人危在旦夕，需立即手术。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "古城危在旦夕，亟待保护。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "危若朝露",
+  "pinyin": "wēi ruò cháo lù",
+  "pinyinRaw": "wēiruòcháolù",
+  "definition": "危险得像早晨的露水，太阳一出来就要消失。形容面临灭亡的危险。",
+  "note": "",
+  "memoryTip": "「朝露」——太阳一出现就消失，比喻面临死亡、转瞬即逝。",
+  "confusable": "",
+  "example": "当时革命命悬一线、危若朝露。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "形势危险",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "当时革命命悬一线、危若朝露。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "形势危若朝露，须当机立断。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "层出不穷",
+  "pinyin": "céng chū bù qióng",
+  "pinyinRaw": "céngchūbùqióng",
+  "definition": "接连不断地出现，没有穷尽。",
+  "note": "",
+  "memoryTip": "「太多」——新技术、新模式、热点一个接一个出现。",
+  "confusable": "",
+  "example": "新技术、新模式层出不穷。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "新技术、新模式层出不穷。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "网络热点层出不穷。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "方兴未艾",
+  "pinyin": "fāng xīng wèi ài",
+  "pinyinRaw": "fāngxīngwèiài",
+  "definition": "正在兴起发展，一时不会终止。形容事物正处于蓬勃发展阶段。",
+  "note": "",
+  "memoryTip": "「主谓结构」——夜间经济方兴未艾、产业方兴未艾。",
+  "confusable": "",
+  "example": "夜间经济方兴未艾。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "夜间经济方兴未艾。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新能源产业方兴未艾。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "风起云涌",
+  "pinyin": "fēng qǐ yún yǒng",
+  "pinyinRaw": "fēngqǐyúnyǒng",
+  "definition": "大风刮起，乌云涌现。比喻事物迅速发展，声势浩大。",
+  "note": "",
+  "memoryTip": "「像风云一样涌出」——革命、改革、量子计算、时代盛会。",
+  "confusable": "",
+  "example": "一场科技革命风起云涌。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一场科技革命风起云涌。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改革大潮风起云涌。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "异军突起",
+  "pinyin": "yì jūn tū qǐ",
+  "pinyinRaw": "yìjūntūqǐ",
+  "definition": "比喻另一支新生力量突然兴起。",
+  "note": "",
+  "memoryTip": "「突然兴起的新力量」——新秀突然崛起。",
+  "confusable": "",
+  "example": "新兴品牌异军突起，抢占市场。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "新兴品牌异军突起，抢占市场。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新能源车企异军突起。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "雨后春笋",
+  "pinyin": "yǔ hòu chūn sǔn",
+  "pinyinRaw": "yǔhòuchūnsǔn",
+  "definition": "春天下雨后竹笋长得又多又快。比喻新事物大量涌现。",
+  "note": "",
+  "memoryTip": "「大量涌现」——像春雨后的笋，多而快。",
+  "confusable": "",
+  "example": "各类创业公司如雨后春笋般涌现。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "各类创业公司如雨后春笋般涌现。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新零售门店如雨后春笋。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "横空出世",
+  "pinyin": "héng kōng chū shì",
+  "pinyinRaw": "héngkōngchūshì",
+  "definition": "形容人或事物突然出现，一出现就很了不起。",
+  "note": "",
+  "memoryTip": "「突然出现、惊艳」——像横空飞出来一样。",
+  "confusable": "",
+  "example": "一款新产品横空出世。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一款新产品横空出世。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "天才选手横空出世，震惊全场。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "应运而生",
+  "pinyin": "yìng yùn ér shēng",
+  "pinyinRaw": "yìngyùnérshēng",
+  "definition": "顺应时机、形势而产生。",
+  "note": "",
+  "memoryTip": "「顺应时机出现」——时势造英雄。",
+  "confusable": "",
+  "example": "直播电商应运而生。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "直播电商应运而生。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新业态应运而生。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "高歌猛进",
+  "pinyin": "gāo gē měng jìn",
+  "pinyinRaw": "gāogēměngjìn",
+  "definition": "放声歌唱、勇猛前进。形容情绪高涨、进展顺利。",
+  "note": "",
+  "memoryTip": "「过程顺利」——女排一路高歌猛进，打进决赛。",
+  "confusable": "",
+  "example": "女排一路高歌猛进，挺进决赛。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "女排一路高歌猛进，挺进决赛。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "项目建设高歌猛进。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如火如荼",
+  "pinyin": "rú huǒ rú tú",
+  "pinyinRaw": "rúhuǒrútú",
+  "definition": "像火那样红、像荼那样白。形容气势旺盛、气氛热烈。",
+  "note": "",
+  "memoryTip": "「固定搭配」——如火如荼地展开；～的建设场面。",
+  "confusable": "",
+  "example": "建设场面如火如荼。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "建设场面如火如荼。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "全民健身活动如火如荼地展开。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "蒸蒸日上",
+  "pinyin": "zhēng zhēng rì shàng",
+  "pinyinRaw": "zhēngzhēngrìshàng",
+  "definition": "形容事业一天天向上发展。",
+  "note": "",
+  "memoryTip": "「日益向上」——事业越来越兴旺。",
+  "confusable": "",
+  "example": "公司业务蒸蒸日上。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "公司业务蒸蒸日上。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "国家发展蒸蒸日上。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如日中天",
+  "pinyin": "rú rì zhōng tiān",
+  "pinyinRaw": "rúrìzhōngtiān",
+  "definition": "像太阳正午时那样明亮。比喻事物发展到鼎盛阶段。",
+  "note": "",
+  "memoryTip": "「发展到顶峰」——像正午的太阳。",
+  "confusable": "",
+  "example": "他的事业如日中天。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的事业如日中天。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "该行业正处于如日中天的阶段。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "势如破竹",
+  "pinyin": "shì rú pò zhú",
+  "pinyinRaw": "shìrúpòzhú",
+  "definition": "形势像劈竹子一样，节节顺利。形容气势大、进展顺利，毫无阻挡。",
+  "note": "",
+  "memoryTip": "「强调根本没有抵挡」——像劈竹一样势不可挡。",
+  "confusable": "",
+  "example": "我军势如破竹，连战连捷。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "我军势如破竹，连战连捷。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新产品势如破竹，迅速占领市场。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "突飞猛进",
+  "pinyin": "tū fēi měng jìn",
+  "pinyinRaw": "tūfēiměngjìn",
+  "definition": "形容发展、进步特别迅速。",
+  "note": "",
+  "memoryTip": "「发展迅速」——像飞一样猛进。",
+  "confusable": "",
+  "example": "科技水平突飞猛进。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "科技水平突飞猛进。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "销量突飞猛进。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一日千里",
+  "pinyin": "yí rì qiān lǐ",
+  "pinyinRaw": "yírìqiānlǐ",
+  "definition": "一天跑一千里。形容进展极快。",
+  "note": "",
+  "memoryTip": "「进步发展很快」——像一天千里。",
+  "confusable": "",
+  "example": "互联网技术一日千里。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "互联网技术一日千里。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "城市发展一日千里。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "日新月异",
+  "pinyin": "rì xīn yuè yì",
+  "pinyinRaw": "rìxīnyuèyì",
+  "definition": "每天每月都有新变化。形容发展、进步快，新事物不断出现。",
+  "note": "",
+  "memoryTip": "「新事物、新气象不断出现」——日新、月异。",
+  "confusable": "",
+  "example": "科技发展日新月异。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "科技发展日新月异。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "城市面貌日新月异。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "阪上走丸",
+  "pinyin": "bǎn shàng zǒu wán",
+  "pinyinRaw": "bǎnshàngzǒuwán",
+  "definition": "在斜坡上滚弹丸。比喻形势发展迅速或工作进展顺利。",
+  "note": "",
+  "memoryTip": "「斜坡上滚弹丸」——形势发展迅速、工作顺利。",
+  "confusable": "",
+  "example": "形势如阪上走丸，发展极快。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "形势如阪上走丸，发展极快。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改革如阪上走丸，势不可挡。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "日渐式微",
+  "pinyin": "rì jiàn shì wēi",
+  "pinyinRaw": "rìjiànshìwēi",
+  "definition": "逐渐衰落、衰微。",
+  "note": "",
+  "memoryTip": "「逐渐走向衰败」——产业等渐渐没落。",
+  "confusable": "",
+  "example": "传统制造业日渐式微。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "传统制造业日渐式微。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "某些旧行业日渐式微。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "每况愈下",
+  "pinyin": "měi kuàng yù xià",
+  "pinyinRaw": "měikuàngyùxià",
+  "definition": "情况越来越坏。",
+  "note": "",
+  "memoryTip": "「身体、精神」——情况一天比一天差。",
+  "confusable": "",
+  "example": "他的身体每况愈下。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的身体每况愈下。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "经营状况每况愈下。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "江河日下",
+  "pinyin": "jiāng hé rì xià",
+  "pinyinRaw": "jiānghérìxià",
+  "definition": "江河的水天天向下流。比喻事物一天天衰败下去。",
+  "note": "",
+  "memoryTip": "「国家、国事、国情等」——日趋衰败。",
+  "confusable": "",
+  "example": "国势江河日下。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "国势江河日下。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "行业江河日下，风光不再。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "水涨船高",
+  "pinyin": "shuǐ zhǎng chuán gāo",
+  "pinyinRaw": "shuǐzhǎngchuángāo",
+  "definition": "水位上涨，船也跟着升高。比喻事物随着它所凭借的基础的提高而提高。",
+  "note": "",
+  "memoryTip": "「凭借基础而增长」——基础高了，跟着就高。",
+  "confusable": "",
+  "example": "公众科学素质越高，科普事业也随之水涨船高。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "公众科学素质越高，科普事业也随之水涨船高。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "经济发展，生活水平水涨船高。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "此消彼长",
+  "pinyin": "cǐ xiāo bǐ cháng",
+  "pinyinRaw": "cǐxiāobǐcháng",
+  "definition": "这个下降，那个上升。指两方此起彼伏，互为消长。",
+  "note": "",
+  "memoryTip": "「这个下降、另一个上升」——一消一长。",
+  "confusable": "",
+  "example": "线上与线下此消彼长。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "线上与线下此消彼长。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新旧产业此消彼长。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "滥觞",
+  "pinyin": "làn shāng",
+  "pinyinRaw": "lànshāng",
+  "definition": "原指江河发源之处水很小，只能浮起酒杯。比喻事物的起源、开端。",
+  "note": "",
+  "memoryTip": "「表示开始、起源」——事物的发端。",
+  "confusable": "",
+  "example": "中国戏曲滥觞于上古祭祀歌舞。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中国戏曲滥觞于上古祭祀歌舞。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这种思想滥觞于先秦。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "发端",
+  "pinyin": "fā duān",
+  "pinyinRaw": "fāduān",
+  "definition": "开始、开端。",
+  "note": "",
+  "memoryTip": "「表示开始」——发（发起）+端（开端）。",
+  "confusable": "",
+  "example": "这次改革发端于基层实践。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这次改革发端于基层实践。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "事件发端于一次偶然的争论。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "发轫",
+  "pinyin": "fā rèn",
+  "pinyinRaw": "fārèn",
+  "definition": "拿掉支住车轮的木头，使车前进。比喻新事物或某种局面的开始。",
+  "note": "",
+  "memoryTip": "「表示开始」——轫（rèn）是止住车轮的木头，拿掉它车就启动。",
+  "confusable": "",
+  "example": "中国近代文学发轫于五四时期。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中国近代文学发轫于五四时期。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "事业发轫之初，困难重重。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "肇始",
+  "pinyin": "zhào shǐ",
+  "pinyinRaw": "zhàoshǐ",
+  "definition": "开始、发端。",
+  "note": "",
+  "memoryTip": "「表示开始」——肇（zhào）是开始。",
+  "confusable": "",
+  "example": "这场运动肇始于上世纪。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "事物出现发展衰落",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这场运动肇始于上世纪。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "问题肇始于管理松懈。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "相形见绌",
+  "pinyin": "xiāng xíng jiàn chù",
+  "pinyinRaw": "xiāngxíngjiànchù",
+  "definition": "相比之下，显出不足。",
+  "note": "",
+  "memoryTip": "「比较」——和 xx 比起来，xx 相形见绌。",
+  "confusable": "",
+  "example": "和他一比，我相形见绌。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "竞争比较",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "和他一比，我相形见绌。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "与先进地区相比，本地发展相形见绌。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "出类拔萃",
+  "pinyin": "chū lèi bá cuì",
+  "pinyinRaw": "chūlèibácuì",
+  "definition": "超出同类。形容才能或品德出众。",
+  "note": "",
+  "memoryTip": "「出类」——高于同类，能力或品德超群。",
+  "confusable": "",
+  "example": "他是出类拔萃的青年才俊。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "竞争比较",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他是出类拔萃的青年才俊。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "出类拔萃的人才难能可贵。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "无与伦比",
+  "pinyin": "wú yǔ lún bǐ",
+  "pinyinRaw": "wúyǔlúnbǐ",
+  "definition": "没有什么能与之相比。形容非常好。",
+  "note": "",
+  "memoryTip": "「没有人能与之相比」——独一无二的好。",
+  "confusable": "",
+  "example": "这里的风景无与伦比。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "竞争比较",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这里的风景无与伦比。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "中国高铁技术无与伦比。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "脱颖而出",
+  "pinyin": "tuō yǐng ér chū",
+  "pinyinRaw": "tuōyǐngérchū",
+  "definition": "锥尖透过布袋显露出来。比喻才能全部显露出来，在竞争中胜出。",
+  "note": "",
+  "memoryTip": "「竞争中胜出」——毛遂自荐的故事：锥子在口袋中扎出来了。",
+  "confusable": "",
+  "example": "他在公务员考试中脱颖而出。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "竞争比较",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他在公务员考试中脱颖而出。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "众多选手中他脱颖而出。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "崭露头角",
+  "pinyin": "zhǎn lù tóu jiǎo",
+  "pinyinRaw": "zhǎnlùtóujiǎo",
+  "definition": "比喻突出地显示出才能和本领。",
+  "note": "",
+  "memoryTip": "「表现突出」——年轻干部开始崭露头角；上岸后尽快崭露头角。",
+  "confusable": "",
+  "example": "年轻干部正在崭露头角。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "竞争比较",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "年轻干部正在崭露头角。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他在比赛中崭露头角。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "望其项背",
+  "pinyin": "wàng qí xiàng bèi",
+  "pinyinRaw": "wàngqíxiàngbèi",
+  "definition": "望见他的颈项和后背。比喻赶得上（多用于否定式）。",
+  "note": "",
+  "memoryTip": "「用法基本是否定」——难以望其项背、无法望其项背（≈望尘莫及）。",
+  "confusable": "",
+  "example": "他的成就令人难以望其项背。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "竞争比较",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的成就令人难以望其项背。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "我们与他还有差距，难以望其项背。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "望尘莫及",
+  "pinyin": "wàng chén mò jí",
+  "pinyinRaw": "wàngchénmòjí",
+  "definition": "只望见前面人马扬起的尘土而追赶不上。比喻远远落后。",
+  "note": "",
+  "memoryTip": "「远落后、追不上」——航天领域可不用否定用法；从望尘莫及到望其项背。",
+  "confusable": "",
+  "example": "他的水平让我望尘莫及。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "竞争比较",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的水平让我望尘莫及。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "从望尘莫及到望其项背，力争并驾齐驱。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "并驾齐驱",
+  "pinyin": "bìng jià qí qū",
+  "pinyinRaw": "bìngjiàqíqū",
+  "definition": "几匹马并排拉车前进。比喻齐头并进，不相上下。",
+  "note": "",
+  "memoryTip": "「并排走、不相上下」——赶得上了。",
+  "confusable": "",
+  "example": "两国经济并驾齐驱。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "竞争比较",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两国经济并驾齐驱。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "力争与先进水平并驾齐驱。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
