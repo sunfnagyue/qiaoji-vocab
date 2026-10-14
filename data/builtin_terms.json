@@ -6382,5 +6382,967 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "坐享其成",
+  "pinyin": "zuò xiǎng qí chéng",
+  "pinyinRaw": "zuòxiǎngqíchéng",
+  "definition": "自己不出力，坐等享受别人的劳动成果。",
+  "note": "",
+  "memoryTip": "自己不出力！享受别人的成果。",
+  "confusable": "",
+  "example": "别人辛苦，他却坐享其成。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "急功近利",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "别人辛苦，他却坐享其成。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能坐享其成，要主动作为。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "竭泽而渔",
+  "pinyin": "jié zé ér yú",
+  "pinyinRaw": "jiézééryú",
+  "definition": "把池塘的水排干去抓鱼。比喻只顾眼前利益，不顾长远。",
+  "note": "",
+  "memoryTip": "只顾眼前不顾长远（常与环境保护搭配）。",
+  "confusable": "竭泽而渔、杀鸡取卵都指只顾眼前不顾长远，常与环境保护、资源开发搭配。",
+  "example": "过度开发资源无异于竭泽而渔。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "急功近利",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "过度开发资源无异于竭泽而渔。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "保护环境，不能竭泽而渔。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "杀鸡取卵",
+  "pinyin": "shā jī qǔ luǎn",
+  "pinyinRaw": "shājīqǔluǎn",
+  "definition": "为了取出鸡蛋而杀掉鸡。比喻贪图眼前利益而不顾长远利益。",
+  "note": "",
+  "memoryTip": "同上，和竭泽而渔都常与环境保护搭配！",
+  "confusable": "",
+  "example": "砍光树木卖钱，是杀鸡取卵。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "急功近利",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "砍光树木卖钱，是杀鸡取卵。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "为短期利益杀鸡取卵不可取。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "寅吃卯粮",
+  "pinyin": "yín chī mǎo liáng",
+  "pinyinRaw": "yínchīmǎoliáng",
+  "definition": "寅年就吃了卯年的粮。比喻入不敷出，提前支用未来的收入。",
+  "note": "",
+  "memoryTip": "入不敷出！由于有困难提前预支粮食。",
+  "confusable": "",
+  "example": "过度举债就是寅吃卯粮。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "急功近利",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "过度举债就是寅吃卯粮。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能寅吃卯粮，要量入为出。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "颠沛流离",
+  "pinyin": "diān pèi liú lí",
+  "pinyinRaw": "diānpèiliúlí",
+  "definition": "生活艰难，流落他乡，无安身之所。可指人，也可指物（如图书、文物）。",
+  "note": "",
+  "memoryTip": "流落异乡！无安身之所，可指人、物等。",
+  "confusable": "",
+  "example": "战争让他颠沛流离。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生活困苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "战争让他颠沛流离。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "珍贵文物在战乱中颠沛流离。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "流离失所",
+  "pinyin": "liú lí shī suǒ",
+  "pinyinRaw": "liúlíshīsuǒ",
+  "definition": "流转离散，没有安身的地方。",
+  "note": "",
+  "memoryTip": "没地方住了！",
+  "confusable": "",
+  "example": "灾民流离失所。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生活困苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "灾民流离失所。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能让群众流离失所。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "背井离乡",
+  "pinyin": "bèi jǐng lí xiāng",
+  "pinyinRaw": "bèijǐnglíxiāng",
+  "definition": "离开家乡，到外地谋生。",
+  "note": "",
+  "memoryTip": "乡愁！思念家乡！背井离乡和“故土难返”等词并列使用很合适。",
+  "confusable": "",
+  "example": "许多人背井离乡外出打工。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生活困苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "许多人背井离乡外出打工。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "为谋生计，他背井离乡。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "民不聊生",
+  "pinyin": "mín bù liáo shēng",
+  "pinyinRaw": "mínbùliáoshēng",
+  "definition": "老百姓没有办法生活下去。形容社会动荡，人民生活困苦。",
+  "note": "",
+  "memoryTip": "整体社会环境！",
+  "confusable": "",
+  "example": "战乱年代民不聊生。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "生活困苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "战乱年代民不聊生。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "苛政导致民不聊生。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "安居乐业",
+  "pinyin": "ān jū lè yè",
+  "pinyinRaw": "ānjūlèyè",
+  "definition": "安定地生活，愉快地工作。",
+  "note": "",
+  "memoryTip": "社会稳定，人民安于所居、乐于所业。",
+  "confusable": "",
+  "example": "百姓安居乐业。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "社会安定",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "百姓安居乐业。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "让人民安居乐业是发展的目标。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "海晏河清",
+  "pinyin": "hǎi yàn hé qīng",
+  "pinyinRaw": "hǎiyànhéqīng",
+  "definition": "大海平静，黄河水清。比喻天下太平。",
+  "note": "",
+  "memoryTip": "天下太平（晏=平静）。",
+  "confusable": "",
+  "example": "如今海晏河清，国泰民安。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "社会安定",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "如今海晏河清，国泰民安。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "四海升平、海晏河清。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "安土重迁",
+  "pinyin": "ān tǔ zhòng qiān",
+  "pinyinRaw": "āntǔzhòngqiān",
+  "definition": "安于本乡本土，不愿轻易迁移。",
+  "note": "",
+  "memoryTip": "不愿走！安于本乡本土（老婆孩子热炕头就挺好）。",
+  "confusable": "",
+  "example": "农民安土重迁，不愿离开故土。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "社会安定",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "农民安土重迁，不愿离开故土。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "中国人历来安土重迁。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "国泰民安",
+  "pinyin": "guó tài mín ān",
+  "pinyinRaw": "guótàimínān",
+  "definition": "国家太平，人民安乐。",
+  "note": "",
+  "memoryTip": "国家安定、人民安乐。",
+  "confusable": "",
+  "example": "祝愿祖国国泰民安。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "社会安定",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "祝愿祖国国泰民安。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "国家富强、国泰民安。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "休戚与共",
+  "pinyin": "xiū qī yǔ gòng",
+  "pinyinRaw": "xiūqīyǔgòng",
+  "definition": "彼此有福同享、有难同当，祸福紧密相连。",
+  "note": "",
+  "memoryTip": "祸福相依、命运共同体（休=福，戚=祸）。",
+  "confusable": "休戚与共（福祸共担、命运共同体，程度最深）vs 休戚相关（祸福相关）vs 息息相关（关系密切、中性，不限祸福）。",
+  "example": "各国休戚与共，命运相连。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "关系密切",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "各国休戚与共，命运相连。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "我们与群众休戚与共。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "休戚相关",
+  "pinyin": "xiū qī xiāng guān",
+  "pinyinRaw": "xiūqīxiāngguān",
+  "definition": "彼此的祸福互相关联。",
+  "note": "",
+  "memoryTip": "祸福相关（强调祸福紧密相连）。",
+  "confusable": "",
+  "example": "企业发展与员工利益休戚相关。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "关系密切",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "企业发展与员工利益休戚相关。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两家命运休戚相关。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "息息相关",
+  "pinyin": "xī xī xiāng guān",
+  "pinyinRaw": "xīxīxiāngguān",
+  "definition": "呼吸相关联。形容关系非常密切。",
+  "note": "",
+  "memoryTip": "有关（中性，不特指祸福）。",
+  "confusable": "",
+  "example": "环境与健康息息相关。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "关系密切",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "环境与健康息息相关。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "科技发展与生活息息相关。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "同舟共济",
+  "pinyin": "tóng zhōu gòng jì",
+  "pinyinRaw": "tóngzhōugòngjì",
+  "definition": "同坐一条船渡河。比喻团结互助、同心协力，共同克服困难。",
+  "note": "",
+  "memoryTip": "面对困难！同心协力。",
+  "confusable": "",
+  "example": "面对危机，我们要同舟共济。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "团结互助",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "面对危机，我们要同舟共济。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "亿万人民同舟共济、守望相助。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "同心同德",
+  "pinyin": "tóng xīn tóng dé",
+  "pinyinRaw": "tóngxīntóngdé",
+  "definition": "思想统一，信念一致。",
+  "note": "",
+  "memoryTip": "心往一处想、力往一处使！",
+  "confusable": "",
+  "example": "全党同心同德，团结奋斗。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "团结互助",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "全党同心同德，团结奋斗。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "大家同心同德，共克时艰。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "和衷共济",
+  "pinyin": "hé zhōng gòng jì",
+  "pinyinRaw": "hézhōnggòngjì",
+  "definition": "大家一条心，共同渡过困难。",
+  "note": "",
+  "memoryTip": "团结一心，共同面对困难。",
+  "confusable": "",
+  "example": "大家和衷共济，共渡难关。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "团结互助",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大家和衷共济，共渡难关。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各民族团结和衷共济。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "相濡以沫",
+  "pinyin": "xiāng rú yǐ mò",
+  "pinyinRaw": "xiāngrúyǐmò",
+  "definition": "泉水干了，鱼用唾沫互相湿润。比喻在困境中用微薄的力量互相帮助。",
+  "note": "",
+  "memoryTip": "微薄的力量互相帮助！（侧重困境中）。",
+  "confusable": "",
+  "example": "老两口相濡以沫，白头偕老。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "团结互助",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "老两口相濡以沫，白头偕老。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "患难中他们相濡以沫。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "守望相助",
+  "pinyin": "shǒu wàng xiāng zhù",
+  "pinyinRaw": "shǒuwàngxiāngzhù",
+  "definition": "邻近的人们互相帮助、互相照应。",
+  "note": "",
+  "memoryTip": "邻里守望、互相帮助。",
+  "confusable": "",
+  "example": "邻里之间守望相助。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "团结互助",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "邻里之间守望相助。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "亿万人民同舟共济、守望相助。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "唇齿相依",
+  "pinyin": "chún chǐ xiāng yī",
+  "pinyinRaw": "chúnchǐxiāngyī",
+  "definition": "嘴唇和牙齿互相依存。比喻关系密切，互相依存。",
+  "note": "",
+  "memoryTip": "嘴唇和牙齿！互相依存。",
+  "confusable": "",
+  "example": "深圳和香港两地一衣带水，是唇齿相依的生态共同体。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "关系密切",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "深圳和香港两地一衣带水，是唇齿相依的生态共同体。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两岸唇齿相依，休戚与共。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "波诡云谲",
+  "pinyin": "bō guǐ yún jué",
+  "pinyinRaw": "bōguǐyúnjué",
+  "definition": "波浪诡异、云彩多变。比喻形势或局势变化莫测，难以捉摸。",
+  "note": "",
+  "memoryTip": "形势不可捉摸！（市场环境、国际视角、甄嬛传）。",
+  "confusable": "",
+  "example": "国际形势波诡云谲。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "局势多变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "国际形势波诡云谲。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "市场行情波诡云谲。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "风云变幻",
+  "pinyin": "fēng yún biàn huàn",
+  "pinyinRaw": "fēngyúnbiànhuàn",
+  "definition": "像风云那样变化不定。比喻局势变化动荡、复杂多变。",
+  "note": "",
+  "memoryTip": "变化动荡，局势多变！",
+  "confusable": "",
+  "example": "世界局势风云变幻。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "局势多变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "世界局势风云变幻。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对风云变幻的形势，要保持定力。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一衣带水",
+  "pinyin": "yī yī dài shuǐ",
+  "pinyinRaw": "yīyīdàishuǐ",
+  "definition": "像一条衣带那样窄的水。形容两地相隔很近（多指隔江海相望）。",
+  "note": "",
+  "memoryTip": "与邻居的关系！隔水相望、距离很近。",
+  "confusable": "",
+  "example": "将万州与上海友好合作的历史传统及两个城市一衣带水的文化理念融入医院建设，使新院区形成别具一格的“万州+上海”特色。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "关系密切",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "将万州与上海友好合作的历史传统及两个城市一衣带水的文化理念融入医院建设，使新院区形成别具一格的“万州+上海”特色。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "中日两国一衣带水。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "纵横捭阖",
+  "pinyin": "zòng héng bǎi hé",
+  "pinyinRaw": "zònghéngbǎihé",
+  "definition": "指在政治、外交上运用手段进行联合或分化。",
+  "note": "",
+  "memoryTip": "外交！在政治、外交上运用手段联合或分化。拓展：战国七雄韩赵魏楚燕齐秦（“喊赵薇出演齐秦”）。",
+  "confusable": "",
+  "example": "他纵横捭阖，游说列国。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "外交策略",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他纵横捭阖，游说列国。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "外交场上纵横捭阖。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "沆瀣一气",
+  "pinyin": "hàng xiè yī qì",
+  "pinyinRaw": "hàngxièyīqì",
+  "definition": "比喻臭味相投的人勾结在一起。",
+  "note": "",
+  "memoryTip": "俩坏人！凑在一起（两者都含贬义）。",
+  "confusable": "沆瀣一气（两个都是坏人勾结）vs 同流合污（可以一好一坏，跟着坏人一起变坏）。",
+  "example": "他们沆瀣一气，狼狈为奸。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "坏人勾结",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他们沆瀣一气，狼狈为奸。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "几个坏人沆瀣一气。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "同流合污",
+  "pinyin": "tóng liú hé wū",
+  "pinyinRaw": "tóngliúhéwū",
+  "definition": "跟着坏人一起做坏事。",
+  "note": "",
+  "memoryTip": "可以是一好一坏！我们不能和霸权主义同流合污（但不能说沆瀣一气——沆瀣一气指两个都是坏人）。",
+  "confusable": "",
+  "example": "不能与腐败分子同流合污。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "坏人勾结",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能与腐败分子同流合污。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "坚守底线，不同流合污。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "独善其身",
+  "pinyin": "dú shàn qí shēn",
+  "pinyinRaw": "dúshànqíshēn",
+  "definition": "原指独自修养身心；后指只顾自己，不管别人。",
+  "note": "",
+  "memoryTip": "只顾自己不顾别人！",
+  "confusable": "",
+  "example": "中国追求的不是独善其身的现代化，愿同各国一道，实现和平发展、互利合作、共同繁荣的世界现代化。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "保全自己",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中国追求的不是独善其身的现代化，愿同各国一道，实现和平发展、互利合作、共同繁荣的世界现代化。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对问题不能独善其身。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "明哲保身",
+  "pinyin": "míng zhé bǎo shēn",
+  "pinyinRaw": "míngzhébǎoshēn",
+  "definition": "明智的人善于保全自己。现多指怕连累自己而回避斗争、保全自身的处世态度。",
+  "note": "",
+  "memoryTip": "一种处世态度！保全自己！（多用于公职人员、干部，含贬义）。",
+  "confusable": "",
+  "example": "当干部不能明哲保身。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "保全自己",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "当干部不能明哲保身。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "遇到问题就明哲保身，是不担当的表现。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "量体裁衣",
+  "pinyin": "liàng tǐ cái yī",
+  "pinyinRaw": "liàngtǐcáiyī",
+  "definition": "按照身体裁衣服。比喻根据实际情况办事。",
+  "note": "",
+  "memoryTip": "VIP个性化！根据实际情况来。",
+  "confusable": "",
+  "example": "在船舶航行前，可根据不同船舶类型和装载情况“量体裁衣”，设计出最佳航线。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "有针对性",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "在船舶航行前，可根据不同船舶类型和装载情况“量体裁衣”，设计出最佳航线。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "政策要量体裁衣，不能一刀切。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "对症下药",
+  "pinyin": "duì zhèng xià yào",
+  "pinyinRaw": "duìzhèngxiàyào",
+  "definition": "针对病情开药。比喻针对具体问题采取有效措施。",
+  "note": "",
+  "memoryTip": "有问题！然后针对性开药。",
+  "confusable": "",
+  "example": "找准病根，对症下药。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "有针对性",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "找准病根，对症下药。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "解决问题要对症下药。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "有的放矢",
+  "pinyin": "yǒu dì fàng shǐ",
+  "pinyinRaw": "yǒudìfàngshǐ",
+  "definition": "对着靶子射箭。比喻说话做事目的明确、有针对性。",
+  "note": "",
+  "memoryTip": "目的性强、有针对性，不一定是有什么问题（区别于对症下药）。",
+  "confusable": "",
+  "example": "做工作要有的放矢。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "有针对性",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "做工作要有的放矢。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "批评要有的放矢，说到点子上。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "保驾护航",
+  "pinyin": "bǎo jià hù háng",
+  "pinyinRaw": "bǎojiàhùháng",
+  "definition": "保护、守卫，使顺利前进。",
+  "note": "",
+  "memoryTip": "保护护航、提供保障。",
+  "confusable": "",
+  "example": "以铁的纪律保驾护航。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正确做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "以铁的纪律保驾护航。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "为经济发展保驾护航。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "穿针引线",
+  "pinyin": "chuān zhēn yǐn xiàn",
+  "pinyinRaw": "chuānzhēnyǐnxiàn",
+  "definition": "穿过针眼，引上线。比喻从中联系、撮合。",
+  "note": "",
+  "memoryTip": "从中联系、拉拢。",
+  "confusable": "",
+  "example": "国务院用制度“穿针引线”。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正确做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "国务院用制度“穿针引线”。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他从中穿针引线，促成合作。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "广开言路",
+  "pinyin": "guǎng kāi yán lù",
+  "pinyinRaw": "guǎngkāiyánlù",
+  "definition": "尽量创造发表意见的条件。",
+  "note": "",
+  "memoryTip": "创造发表意见的条件！",
+  "confusable": "",
+  "example": "政府广开言路，听取民意。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正确做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "政府广开言路，听取民意。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "要广开言路，集思广益。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "集思广益",
+  "pinyin": "jí sī guǎng yì",
+  "pinyinRaw": "jísīguǎngyì",
+  "definition": "集中众人的智慧，广泛吸收有益的意见。",
+  "note": "",
+  "memoryTip": "集中智慧！",
+  "confusable": "",
+  "example": "集思广益，共谋发展。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正确做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "集思广益，共谋发展。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "开好会，集思广益。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "风清气正",
+  "pinyin": "fēng qīng qì zhèng",
+  "pinyinRaw": "fēngqīngqìzhèng",
+  "definition": "风气清正、正气充盈。多形容社会、网络、政治生态等风气好。",
+  "note": "",
+  "memoryTip": "网络风气！政治生态、社会风气清正。",
+  "confusable": "",
+  "example": "营造风清气正的网络环境。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正确做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "营造风清气正的网络环境。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "打造风清气正的政治生态。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
