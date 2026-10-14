@@ -16,6 +16,12 @@
         <div id="detail-body"><div class="center small" style="margin-top:40px">加载中…</div></div>
       </div>`;
 
+    // 左右滑动/上下翻页时，按方向滑入新词
+    if (App.slideDir) {
+      root.querySelector(".shell").classList.add(App.slideDir > 0 ? "slide-in-right" : "slide-in-left");
+      App.slideDir = 0;
+    }
+
     document.getElementById("btn-back").onclick = () => {
       if (fromStudy) App.go("study", { mode: App.study.mode, continue: true });
       else App.go("library");
@@ -108,6 +114,9 @@
         await DB.toggleFav(w.id, next);
         w.fav = next;
         favBtn.textContent = next ? "★ 已收藏" : "☆ 收藏";
+        favBtn.classList.remove("pop");
+        void favBtn.offsetWidth;
+        favBtn.classList.add("pop");
       } catch (e) {
         alert("操作失败：" + (e.message || e.rawMessage || ""));
       }
@@ -137,7 +146,7 @@
       const idx = App.lib.findIndex((x) => String(x.id) === String(w.id));
       if (idx < 0) return;
       const n = App.lib[idx + delta];
-      if (n) App.go("detail", { id: n.id, fromLibrary: true });
+      if (n) { App.slideDir = delta; App.go("detail", { id: n.id, fromLibrary: true }); }
     }
 
     if (fromLibrary) {

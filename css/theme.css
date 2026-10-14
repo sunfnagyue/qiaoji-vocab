@@ -232,3 +232,72 @@ textarea { min-height: 72px; resize: vertical; }
 .center { text-align: center; }
 .small { font-size: 13px; color: var(--text-sub); }
 a { color: var(--primary); }
+
+/* ===== 动效（轻量、不喧宾夺主） ===== */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes cardIn {
+  from { opacity: 0; transform: translateY(14px) scale(.985); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes zoomIn {
+  from { opacity: 0; transform: scale(.92); }
+  to { opacity: 1; transform: scale(1); }
+}
+@keyframes pop {
+  0% { transform: scale(1); }
+  40% { transform: scale(1.08); }
+  100% { transform: scale(1); }
+}
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-5px); }
+  40%, 80% { transform: translateX(5px); }
+}
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+@keyframes slideInRight {
+  from { opacity: .4; transform: translateX(26px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes slideInLeft {
+  from { opacity: .4; transform: translateX(-26px); }
+  to { opacity: 1; transform: none; }
+}
+
+/* 页面切换：整体淡入上移 */
+.shell { animation: fadeUp .28s ease both; }
+/* 卡片进入 */
+.card { animation: cardIn .32s ease both; }
+/* 大字号词语放大进入 */
+.big-word { animation: zoomIn .3s ease both; }
+/* 答题反馈条滑入 */
+.feedback { animation: cardIn .28s ease both; }
+
+/* 答对：选项轻微弹跳 */
+.opt.correct { animation: pop .3s ease; }
+/* 答错：选项轻微左右晃动 */
+.opt.wrong { animation: shake .4s ease; }
+
+/* 底部导航当前项图标跳动 */
+.bottomnav .tab.active .ico { display: inline-block; animation: bounce .5s ease; }
+
+/* 详情页左右滑动翻页的滑入 */
+.slide-in-right { animation: slideInRight .26s ease both; }
+.slide-in-left { animation: slideInLeft .26s ease both; }
+
+/* 通用弹跳（收藏切换等） */
+.pop { animation: pop .3s ease; }
+
+/* 按钮轻按反馈 */
+button { transition: background .15s, opacity .15s, transform .1s; }
+button:active { transform: scale(.97); }
+
+/* 用户系统开启「减少动态效果」时关闭动画 */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
