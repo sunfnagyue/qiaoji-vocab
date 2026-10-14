@@ -16262,5 +16262,1903 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "琳琅满目",
+  "pinyin": "lín láng mǎn mù",
+  "pinyinRaw": "línlángmǎnmù",
+  "definition": "满眼都是美好珍贵的东西。形容物品繁多，令人目不暇接。",
+  "note": "",
+  "memoryTip": "货架上的商品、展示台上的展品。",
+  "confusable": "",
+  "example": "货架上的商品琳琅满目。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "货架上的商品琳琅满目。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "展台上的展品琳琅满目。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "叹为观止",
+  "pinyin": "tàn wéi guān zhǐ",
+  "pinyinRaw": "tànwéiguānzhǐ",
+  "definition": "赞叹所看到的事物好到了极点。",
+  "note": "",
+  "memoryTip": "看到这就停止吧！好到极点，令人（让人）叹为观止。",
+  "confusable": "",
+  "example": "这一场演出令人叹为观止。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这一场演出令人叹为观止。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "精湛的技艺让人叹为观止。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "赏心悦目",
+  "pinyin": "shǎng xīn yuè mù",
+  "pinyinRaw": "shǎngxīnyuèmù",
+  "definition": "看了让人心情舒畅、眼睛舒服。",
+  "note": "",
+  "memoryTip": "眼睛和心灵都很愉悦。",
+  "confusable": "",
+  "example": "这景色令人赏心悦目。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这景色令人赏心悦目。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "画面赏心悦目。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "目不暇接",
+  "pinyin": "mù bù xiá jiē",
+  "pinyinRaw": "mùbùxiájiē",
+  "definition": "东西太多，眼睛看不过来。",
+  "note": "",
+  "memoryTip": "眼睛跟不上了！吸引人的事物很多。",
+  "confusable": "",
+  "example": "展品让人目不暇接。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "展品让人目不暇接。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "一路美景目不暇接。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "眼花缭乱",
+  "pinyin": "yǎn huā liáo luàn",
+  "pinyinRaw": "yǎnhuāliáoluàn",
+  "definition": "看到纷繁复杂的事物，眼睛发花、心乱。",
+  "note": "",
+  "memoryTip": "侧重迷乱！眼睛花了、心乱了。",
+  "confusable": "",
+  "example": "商品多得让人眼花缭乱。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "商品多得让人眼花缭乱。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "眼花缭乱，无所适从。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "心向往之",
+  "pinyin": "xīn xiàng wǎng zhī",
+  "pinyinRaw": "xīnxiàngwǎngzhī",
+  "definition": "内心向往。",
+  "note": "",
+  "memoryTip": "清华北大，心向往之。",
+  "confusable": "",
+  "example": "清华北大，心向往之。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "清华北大，心向往之。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对美好生活心向往之。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "心驰神往",
+  "pinyin": "xīn chí shén wǎng",
+  "pinyinRaw": "xīnchíshénwǎng",
+  "definition": "心神奔向所向往的事物。形容一心向往。",
+  "note": "",
+  "memoryTip": "一心向往，心神奔向向往的事物（主语是人）。",
+  "confusable": "",
+  "example": "中国式现代化的壮丽图景令人心驰神往。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中国式现代化的壮丽图景令人心驰神往。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "壮丽山河令人心驰神往。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "侃侃而谈",
+  "pinyin": "kǎn kǎn ér tán",
+  "pinyinRaw": "kǎnkǎnértán",
+  "definition": "理直气壮、从容不迫地谈论。",
+  "note": "",
+  "memoryTip": "褒义！自信、从容、会说、能说！",
+  "confusable": "侃侃而谈（褒，从容自信）vs 高谈阔论（贬，漫无边际）vs 夸夸其谈（贬，浮夸）。",
+  "example": "他上台侃侃而谈。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他上台侃侃而谈。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对提问侃侃而谈。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "高谈阔论",
+  "pinyin": "gāo tán kuò lùn",
+  "pinyinRaw": "gāotánkuòlùn",
+  "definition": "漫无边际地大发议论。",
+  "note": "",
+  "memoryTip": "贬义！漫无边际大发言论。",
+  "confusable": "",
+  "example": "他高谈阔论，不切实际。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他高谈阔论，不切实际。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "满座高谈阔论。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "夸夸其谈",
+  "pinyin": "kuā kuā qí tán",
+  "pinyinRaw": "kuākuāqítán",
+  "definition": "说话或写文章浮夸、不切实际。",
+  "note": "",
+  "memoryTip": "贬义！说话或文章浮夸不切实际。",
+  "confusable": "",
+  "example": "他只会夸夸其谈。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他只会夸夸其谈。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "夸夸其谈，毫无实绩。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "口若悬河",
+  "pinyin": "kǒu ruò xuán hé",
+  "pinyinRaw": "kǒuruòxuánhé",
+  "definition": "说起话来像河水倾泻一样滔滔不绝。形容能说善辩。",
+  "note": "",
+  "memoryTip": "中性！能说善辩、话语不断。",
+  "confusable": "",
+  "example": "他讲起课来口若悬河。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他讲起课来口若悬河。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "口若悬河，滔滔不绝。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "巧舌如簧",
+  "pinyin": "qiǎo shé rú huáng",
+  "pinyinRaw": "qiǎoshérúhuáng",
+  "definition": "舌头灵巧得像簧片。形容善于狡辩。",
+  "note": "",
+  "memoryTip": "贬义！善于狡辩，嘴巴像弹簧。",
+  "confusable": "",
+  "example": "任凭他巧舌如簧也无济于事。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "任凭他巧舌如簧也无济于事。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "巧舌如簧，颠倒黑白。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "巧言令色",
+  "pinyin": "qiǎo yán lìng sè",
+  "pinyinRaw": "qiǎoyánlìngsè",
+  "definition": "用花言巧语和伪善的面容来取悦别人。",
+  "note": "",
+  "memoryTip": "贬义！花言巧语、伪善面容取悦别人。",
+  "confusable": "",
+  "example": "巧言令色，鲜矣仁。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "巧言令色，鲜矣仁。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他巧言令色，不可轻信。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "娓娓道来",
+  "pinyin": "wěi wěi dào lái",
+  "pinyinRaw": "wěiwěidàolái",
+  "definition": "不紧不慢、从容地讲述。",
+  "note": "",
+  "memoryTip": "不紧不慢、从容讲述。",
+  "confusable": "",
+  "example": "他把往事娓娓道来。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他把往事娓娓道来。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "讲解员娓娓道来。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "人云亦云",
+  "pinyin": "rén yún yì yún",
+  "pinyinRaw": "rényúnyìyún",
+  "definition": "别人说什么自己也跟着说什么。形容没有主见。",
+  "note": "",
+  "memoryTip": "强调没有主见！学别人。",
+  "confusable": "人云亦云（没有主见，随声附和）vs 拾人牙慧（窃取别人言论当作自己的）。",
+  "example": "他人云亦云，毫无主见。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他人云亦云，毫无主见。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能人云亦云。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "拾人牙慧",
+  "pinyin": "shí rén yá huì",
+  "pinyinRaw": "shírényáhuì",
+  "definition": "拾取别人的只言片语当作自己的话。比喻窃取别人的言论。",
+  "note": "",
+  "memoryTip": "强调窃取别人的文字、意见或言论！学人说话。",
+  "confusable": "",
+  "example": "他的文章不过是拾人牙慧。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的文章不过是拾人牙慧。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "拾人牙慧，毫无新意。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "推心置腹",
+  "pinyin": "tuī xīn zhì fù",
+  "pinyinRaw": "tuīxīnzhìfù",
+  "definition": "把赤诚的心交给别人。形容真诚待人。",
+  "note": "",
+  "memoryTip": "真诚待人，唠嗑、说点掏心窝子话，哥俩好。",
+  "confusable": "推心置腹（真诚待人）vs 开诚布公（坦率提出想法）vs 披肝沥胆（对国家事业的忠诚付出）。",
+  "example": "两人推心置腹地交谈。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两人推心置腹地交谈。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对朋友推心置腹。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "开诚布公",
+  "pinyin": "kāi chéng bù gōng",
+  "pinyinRaw": "kāichéngbùgōng",
+  "definition": "诚恳坦率地提出自己的看法。",
+  "note": "",
+  "memoryTip": "诚恳坦率地提出自己的想法。",
+  "confusable": "",
+  "example": "大家开诚布公地交换意见。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大家开诚布公地交换意见。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "开诚布公，坦诚交流。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "披肝沥胆",
+  "pinyin": "pī gān lì dǎn",
+  "pinyinRaw": "pīgānlìdǎn",
+  "definition": "露出肝胆，一片赤诚。形容对事业、国家极度忠诚。",
+  "note": "",
+  "memoryTip": "对国家、事业！全身心付出，非常忠诚。",
+  "confusable": "",
+  "example": "他为国披肝沥胆。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他为国披肝沥胆。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "披肝沥胆，忠贞不渝。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "老调重弹",
+  "pinyin": "lǎo diào chóng tán",
+  "pinyinRaw": "lǎodiàochóngtán",
+  "definition": "把说过的话再说一遍。比喻说的话、写的文章没有新意。",
+  "note": "",
+  "memoryTip": "①已说过的话再说；②说话文章没新意。",
+  "confusable": "",
+  "example": "他又在老调重弹。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他又在老调重弹。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "文章老调重弹，缺乏新意。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "陈词滥调",
+  "pinyin": "chén cí làn diào",
+  "pinyinRaw": "chéncílàndiào",
+  "definition": "陈旧、空泛、不切实际的论调。",
+  "note": "",
+  "memoryTip": "陈旧、空泛、不切实际的论调。",
+  "confusable": "",
+  "example": "通篇都是陈词滥调。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "通篇都是陈词滥调。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "抛掉陈词滥调。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "老生常谈",
+  "pinyin": "lǎo shēng cháng tán",
+  "pinyinRaw": "lǎoshēngchángtán",
+  "definition": "老书生常说的话。比喻听厌了的、没有新意的话（也作中性）。",
+  "note": "",
+  "memoryTip": "老说！听厌了没有新意的话（也可中性）。",
+  "confusable": "",
+  "example": "这些道理虽是老生常谈，却很重要。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "说话相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这些道理虽是老生常谈，却很重要。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老生常谈，听得耳朵起茧。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "惟妙惟肖",
+  "pinyin": "wéi miào wéi xiào",
+  "pinyinRaw": "wéimiàowéixiào",
+  "definition": "描写或模仿得非常逼真。",
+  "note": "",
+  "memoryTip": "模仿！表演、模仿得惟妙惟肖。",
+  "confusable": "惟妙惟肖（模仿逼真）vs 栩栩如生（画作、雕塑等像活的一样）。",
+  "example": "他模仿得惟妙惟肖。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "表演呈现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他模仿得惟妙惟肖。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "口技表演惟妙惟肖。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "栩栩如生",
+  "pinyin": "xǔ xǔ rú shēng",
+  "pinyinRaw": "xǔxǔrúshēng",
+  "definition": "形容画作、雕塑等艺术形象生动逼真，像活的一样。",
+  "note": "",
+  "memoryTip": "画作、雕塑等像活的一样！",
+  "confusable": "",
+  "example": "画中的人物栩栩如生。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "表演呈现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "画中的人物栩栩如生。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "雕塑栩栩如生。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "绘声绘色",
+  "pinyin": "huì shēng huì sè",
+  "pinyinRaw": "huìshēnghuìsè",
+  "definition": "讲述得有声有色，生动逼真。",
+  "note": "",
+  "memoryTip": "讲得有画面感！甚至能看到当时的样子。",
+  "confusable": "",
+  "example": "他把故事讲得绘声绘色。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "表演呈现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他把故事讲得绘声绘色。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "绘声绘色地描述现场。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "活灵活现",
+  "pinyin": "huó líng huó xiàn",
+  "pinyinRaw": "huólínghuóxiàn",
+  "definition": "形容画、标本等逼真生动；也形容讲话生动（近绘声绘色）。",
+  "note": "",
+  "memoryTip": "形容画、标本等≈栩栩如生；形容讲话≈绘声绘色。",
+  "confusable": "",
+  "example": "画得活灵活现。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "表演呈现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "画得活灵活现。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "讲得活灵活现。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "有声有色",
+  "pinyin": "yǒu shēng yǒu sè",
+  "pinyinRaw": "yǒushēngyǒusè",
+  "definition": "形容表演、讲话生动；也形容工作、事业开展得兴旺。",
+  "note": "",
+  "memoryTip": "①表演、说话生动②做事，事业、项目、生活有声有色。",
+  "confusable": "",
+  "example": "他把故事讲得有声有色。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "表演呈现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他把故事讲得有声有色。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "项目开展得有声有色。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一板一眼",
+  "pinyin": "yì bǎn yì yǎn",
+  "pinyinRaw": "yìbǎnyìyǎn",
+  "definition": "合乎规矩、像样子；也形容做事死板、不灵活。",
+  "note": "",
+  "memoryTip": "像样子、合规矩！做事死板不灵活！",
+  "confusable": "",
+  "example": "他做事一板一眼。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "表演呈现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他做事一板一眼。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "唱得一板一眼。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "此起彼伏",
+  "pinyin": "cǐ qǐ bǐ fú",
+  "pinyinRaw": "cǐqǐbǐfú",
+  "definition": "这里起来，那里落下。形容连续不断。",
+  "note": "",
+  "memoryTip": "叫卖、吆喝声！",
+  "confusable": "",
+  "example": "叫卖声此起彼伏。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "声音听觉",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "叫卖声此起彼伏。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "掌声此起彼伏。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "震耳欲聋",
+  "pinyin": "zhèn ěr yù lóng",
+  "pinyinRaw": "zhèněryùlóng",
+  "definition": "声音很大，耳朵都要震聋了。",
+  "note": "",
+  "memoryTip": "耳朵都要聋了。",
+  "confusable": "",
+  "example": "机器轰鸣，震耳欲聋。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "声音听觉",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "机器轰鸣，震耳欲聋。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "欢呼声震耳欲聋。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "人声鼎沸",
+  "pinyin": "rén shēng dǐng fèi",
+  "pinyinRaw": "rénshēngdǐngfèi",
+  "definition": "人群的声音像鼎里水沸腾一样，形容嘈杂喧闹。",
+  "note": "",
+  "memoryTip": "吵吵嚷嚷、嘈杂喧闹。",
+  "confusable": "",
+  "example": "集市上人声鼎沸。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "声音听觉",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "集市上人声鼎沸。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "会场里人声鼎沸。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "沸反盈天",
+  "pinyin": "fèi fǎn yíng tiān",
+  "pinyinRaw": "fèifǎnyíngtiān",
+  "definition": "声音像水沸腾一样喧哗吵闹；也形容舆论场喧腾。",
+  "note": "",
+  "memoryTip": "①喧哗吵闹②舆论场，沸沸扬扬乃至沸反盈天。",
+  "confusable": "",
+  "example": "会场里沸反盈天。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "声音听觉",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "会场里沸反盈天。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "舆论沸反盈天。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "穿云裂石",
+  "pinyin": "chuān yún liè shí",
+  "pinyinRaw": "chuānyúnlièshí",
+  "definition": "穿过云层，震裂石头。形容声音高亢嘹亮。",
+  "note": "",
+  "memoryTip": "声音高亢嘹亮！",
+  "confusable": "",
+  "example": "歌声穿云裂石。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "声音听觉",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "歌声穿云裂石。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "号角声穿云裂石。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "酣畅淋漓",
+  "pinyin": "hān chàng lín lí",
+  "pinyinRaw": "hānchànglínlí",
+  "definition": "形容非常痛快、尽兴。",
+  "note": "",
+  "memoryTip": "痛快！尽兴！",
+  "confusable": "",
+  "example": "这场球赛看得酣畅淋漓。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这场球赛看得酣畅淋漓。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "酣畅淋漓地表达。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "淋漓尽致",
+  "pinyin": "lín lí jìn zhì",
+  "pinyinRaw": "línlíjìnzhì",
+  "definition": "形容文章、谈话表达得详尽透彻，或发挥得很充分。",
+  "note": "",
+  "memoryTip": "发挥得很充分。",
+  "confusable": "",
+  "example": "感情表达得淋漓尽致。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "感情表达得淋漓尽致。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "刻画得淋漓尽致。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "佶屈聱牙",
+  "pinyin": "jí qū áo yá",
+  "pinyinRaw": "jíqūáoyá",
+  "definition": "形容文辞艰涩，读起来不顺口。",
+  "note": "",
+  "memoryTip": "别别扭扭不顺口。",
+  "confusable": "",
+  "example": "这篇文章佶屈聱牙。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这篇文章佶屈聱牙。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "文字佶屈聱牙，难以卒读。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "入木三分",
+  "pinyin": "rù mù sān fēn",
+  "pinyinRaw": "rùmùsānfēn",
+  "definition": "形容书法笔力刚劲；也比喻刻画、分析深刻。",
+  "note": "",
+  "memoryTip": "刻画深刻。",
+  "confusable": "",
+  "example": "他刻画人物入木三分。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他刻画人物入木三分。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "分析入木三分。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "只言片语",
+  "pinyin": "zhī yán piàn yǔ",
+  "pinyinRaw": "zhīyánpiànyǔ",
+  "definition": "个别的词句、片段的话语。",
+  "note": "",
+  "memoryTip": "零星的几句话（两个偏正短语）。",
+  "confusable": "",
+  "example": "只言片语中透露了线索。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "只言片语中透露了线索。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "只留下只言片语。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "言简意赅",
+  "pinyin": "yán jiǎn yì gāi",
+  "pinyinRaw": "yánjiǎnyìgāi",
+  "definition": "语言简练而意思完备。赅（gāi）：完备。",
+  "note": "",
+  "memoryTip": "语言简练而意思完备。",
+  "confusable": "",
+  "example": "他回答得言简意赅。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他回答得言简意赅。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "言简意赅，切中要点。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "春秋笔法",
+  "pinyin": "chūn qiū bǐ fǎ",
+  "pinyinRaw": "chūnqiūbǐfǎ",
+  "definition": "用隐晦、含蓄的文字暗含褒贬的写作手法。",
+  "note": "",
+  "memoryTip": "暗含褒贬！（阴阳怪气）。",
+  "confusable": "春秋笔法（用含蓄文字暗含褒贬）vs 皮里阳秋（藏在心里不说出来的评论，同义）。",
+  "example": "文中暗用春秋笔法。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "文中暗用春秋笔法。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "春秋笔法，暗含褒贬。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "皮里阳秋",
+  "pinyin": "pí lǐ yáng qiū",
+  "pinyinRaw": "pílǐyángqiū",
+  "definition": "藏在心里不说出来的评论。暗含褒贬。",
+  "note": "",
+  "memoryTip": "暗含褒贬！（与春秋笔法同义）。",
+  "confusable": "",
+  "example": "他皮里阳秋，不置可否。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他皮里阳秋，不置可否。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "文笔皮里阳秋。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "微言大义",
+  "pinyin": "wēi yán dà yì",
+  "pinyinRaw": "wēiyándàyì",
+  "definition": "精微的语言中包含深刻的道理。",
+  "note": "",
+  "memoryTip": "精微言语！深刻含义！",
+  "confusable": "",
+  "example": "这篇文章微言大义。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这篇文章微言大义。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "微言大义，发人深省。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "字斟句酌",
+  "pinyin": "zì zhēn jù zhuó",
+  "pinyinRaw": "zìzhēnjùzhuó",
+  "definition": "对每一个字、每一句话都仔细斟酌推敲。",
+  "note": "",
+  "memoryTip": "斟酌推敲。",
+  "confusable": "",
+  "example": "写文章要字斟句酌。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "写文章要字斟句酌。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "公文一字一句都字斟句酌。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "惜墨如金",
+  "pinyin": "xī mò rú jīn",
+  "pinyinRaw": "xīmòrújīn",
+  "definition": "不轻易动笔；也形容写文章用字极少而精练。",
+  "note": "",
+  "memoryTip": "不轻易动笔，或写文章字儿少。",
+  "confusable": "",
+  "example": "他写作用字惜墨如金。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他写作用字惜墨如金。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "惜墨如金，字字千钧。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "删繁就简",
+  "pinyin": "shān fán jiù jiǎn",
+  "pinyinRaw": "shānfánjiùjiǎn",
+  "definition": "删除繁杂部分，使之简练。",
+  "note": "",
+  "memoryTip": "删除繁杂部分。",
+  "confusable": "",
+  "example": "把文章删繁就简。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "把文章删繁就简。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "删繁就简，突出重点。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一气呵成",
+  "pinyin": "yí qì hē chéng",
+  "pinyinRaw": "yíqìhēchéng",
+  "definition": "①文章首尾贯通、一口气写成；②整个过程不间断不松懈。",
+  "note": "",
+  "memoryTip": "①文章首尾贯通②整个过程不间断不松懈。",
+  "confusable": "",
+  "example": "文章一气呵成。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "文章一气呵成。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "工程一气呵成。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "倚马可待",
+  "pinyin": "yǐ mǎ kě dài",
+  "pinyinRaw": "yǐmǎkědài",
+  "definition": "靠在战马上就可写出文章。形容文思敏捷、写得快。",
+  "note": "",
+  "memoryTip": "文思敏捷写得快。",
+  "confusable": "",
+  "example": "他文思敏捷，倚马可待。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他文思敏捷，倚马可待。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "倚马可待，出口成章。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一挥而就",
+  "pinyin": "yì huī ér jiù",
+  "pinyinRaw": "yìhuīérjiù",
+  "definition": "一挥笔就写成。形容写字、作文、画画速度快。",
+  "note": "",
+  "memoryTip": "写字、作文、画画速度很快。",
+  "confusable": "",
+  "example": "他提笔一挥而就。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他提笔一挥而就。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "画作一挥而就。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "文不加点",
+  "pinyin": "wén bù jiā diǎn",
+  "pinyinRaw": "wénbùjiādiǎn",
+  "definition": "写文章一气呵成，不需修改（加点=涂改）。",
+  "note": "",
+  "memoryTip": "不需要修改（加点=涂改）。",
+  "confusable": "",
+  "example": "他才思敏捷，文不加点。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "写作文辞",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他才思敏捷，文不加点。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "一挥而就，文不加点。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "积贫积弱",
+  "pinyin": "jī pín jī ruò",
+  "pinyinRaw": "jīpínjīruò",
+  "definition": "长期积累的贫穷与落后（多指国家）。",
+  "note": "",
+  "memoryTip": "1840年之后积贫积弱的中国。",
+  "confusable": "",
+  "example": "1840年之后的中国积贫积弱。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "1840年之后的中国积贫积弱。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "从积贫积弱走向繁荣富强。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一穷二白",
+  "pinyin": "yì qióng èr bái",
+  "pinyinRaw": "yìqióngèrbái",
+  "definition": "形容基础差、底子薄（多指国家，也可形容人）。",
+  "note": "",
+  "memoryTip": "形容建国初期的中国；也可形容人。",
+  "confusable": "",
+  "example": "建国初期一穷二白。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "建国初期一穷二白。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "从一穷二白起步。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "身无长物",
+  "pinyin": "shēn wú cháng wù",
+  "pinyinRaw": "shēnwúchángwù",
+  "definition": "除自身外没有多余的东西。形容贫穷。",
+  "note": "",
+  "memoryTip": "穷！身无长物（长物=多余的东西）。",
+  "confusable": "身无长物（穷）vs 一文不名（一个钱也没有）vs 一穷二白（基础差底子薄）。",
+  "example": "他一生身无长物。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他一生身无长物。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "除了书，他身无长物。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一文不名",
+  "pinyin": "yì wén bù míng",
+  "pinyinRaw": "yìwénbùmíng",
+  "definition": "一个钱都没有。形容非常贫穷。",
+  "note": "",
+  "memoryTip": "穷！一文=一个铜钱。",
+  "confusable": "",
+  "example": "他落魄得一文不名。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他落魄得一文不名。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "一文不名，流落街头。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "筚门圭窦",
+  "pinyin": "bì mén guī dòu",
+  "pinyinRaw": "bìménguīdòu",
+  "definition": "用柴草编的门、墙上开的小门洞。形容穷苦人家的住处。",
+  "note": "",
+  "memoryTip": "穷人住处。",
+  "confusable": "筚门圭窦（穷人住处）vs 桑枢瓮牖（用桑枝做门轴、破瓮做窗，贫苦之家）。",
+  "example": "他出身筚门圭窦。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他出身筚门圭窦。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "筚门圭窦之家，出了人才。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "桑枢瓮牖",
+  "pinyin": "sāng shū wèng yǒu",
+  "pinyinRaw": "sāngshūwèngyǒu",
+  "definition": "用桑枝做门轴、破瓮做窗。形容贫苦之家。",
+  "note": "",
+  "memoryTip": "贫苦之家（枢 shū=门轴，牖 yǒu=窗）。",
+  "confusable": "",
+  "example": "桑枢瓮牖，家境贫寒。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "桑枢瓮牖，家境贫寒。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他生于桑枢瓮牖之家。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "肥马轻裘",
+  "pinyin": "féi mǎ qīng qiú",
+  "pinyinRaw": "féimǎqīngqiú",
+  "definition": "骑着肥马、穿着轻裘。形容生活阔绰、富有。",
+  "note": "",
+  "memoryTip": "阔绰！富有。",
+  "confusable": "",
+  "example": "他过着肥马轻裘的生活。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他过着肥马轻裘的生活。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "肥马轻裘，衣食无忧。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "养尊处优",
+  "pinyin": "yǎng zūn chǔ yōu",
+  "pinyinRaw": "yǎngzūnchǔyōu",
+  "definition": "生活在尊贵、优裕的环境中（多含贬义）。",
+  "note": "",
+  "memoryTip": "地主家的儿子！（贬义）。",
+  "confusable": "",
+  "example": "他从小养尊处优。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他从小养尊处优。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "养尊处优，吃不得苦。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "钟鸣鼎食",
+  "pinyin": "zhōng míng dǐng shí",
+  "pinyinRaw": "zhōngmíngdǐngshí",
+  "definition": "击钟列鼎而食。形容贵族的豪华排场。",
+  "note": "",
+  "memoryTip": "贵族的豪华排场！",
+  "confusable": "",
+  "example": "钟鸣鼎食之家。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "钟鸣鼎食之家。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "昔日钟鸣鼎食，如今门庭冷落。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "兰艾同焚",
+  "pinyin": "lán ài tóng fén",
+  "pinyinRaw": "lánàitóngfén",
+  "definition": "兰花和艾草一起烧掉。比喻好的坏的一同毁灭（同归于尽）。",
+  "note": "",
+  "memoryTip": "好的坏的都完了！同归于尽。",
+  "confusable": "",
+  "example": "战乱中兰艾同焚。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "贫穷富有",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "战乱中兰艾同焚。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "玉石俱焚、兰艾同焚。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "随遇而安",
+  "pinyin": "suí yù ér ān",
+  "pinyinRaw": "suíyùérān",
+  "definition": "能适应各种环境，随顺境遇而安心。",
+  "note": "",
+  "memoryTip": "随顺境遇、安然处之。",
+  "confusable": "",
+  "example": "他随遇而安。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他随遇而安。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "随遇而安，乐观豁达。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "安之若素",
+  "pinyin": "ān zhī ruò sù",
+  "pinyinRaw": "ānzhīruòsù",
+  "definition": "对不寻常的境遇像平常一样安然处之。",
+  "note": "",
+  "memoryTip": "像平时一样，跟没事儿人一样。",
+  "confusable": "安之若素（处变如常）vs 泰然处之（沉着镇定对待）vs 随遇而安（随顺境遇）。",
+  "example": "只要有一个人没有解决基本生活问题，我们就不能安之若素。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "只要有一个人没有解决基本生活问题，我们就不能安之若素。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对流言他安之若素。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "安贫乐道",
+  "pinyin": "ān pín lè dào",
+  "pinyinRaw": "ānpínlèdào",
+  "definition": "安于贫穷，以坚守信念、追求道义为乐。",
+  "note": "",
+  "memoryTip": "安于贫穷，坚持自己的信念为乐。",
+  "confusable": "",
+  "example": "他安贫乐道，甘于清苦。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他安贫乐道，甘于清苦。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "安贫乐道，坚守初心。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "泰然处之",
+  "pinyin": "tài rán chǔ zhī",
+  "pinyinRaw": "tàiránchǔzhī",
+  "definition": "像平常一样沉着镇定地对待。",
+  "note": "",
+  "memoryTip": "沉着镇定，跟没事儿人一样。",
+  "confusable": "",
+  "example": "面对困难泰然处之。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "面对困难泰然处之。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他泰然处之，毫不慌乱。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "从容不迫",
+  "pinyin": "cóng róng bú pò",
+  "pinyinRaw": "cóngróngbúpò",
+  "definition": "不慌不忙，沉着镇定。",
+  "note": "",
+  "memoryTip": "不慌不忙。",
+  "confusable": "",
+  "example": "他从容不迫地应答。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他从容不迫地应答。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "从容不迫，胸有成竹。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "安如泰山",
+  "pinyin": "ān rú tài shān",
+  "pinyinRaw": "ānrútàishān",
+  "definition": "安稳得像泰山一样。形容十分稳固。",
+  "note": "",
+  "memoryTip": "安稳稳固（像泰山一样）。",
+  "confusable": "",
+  "example": "他的地位安如泰山。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的地位安如泰山。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "军心稳如泰山、安如泰山。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "安身立命",
+  "pinyin": "ān shēn lì mìng",
+  "pinyinRaw": "ānshēnlìmìng",
+  "definition": "生活有依靠，精神有寄托。",
+  "note": "",
+  "memoryTip": "生活有依靠、精神有寄托。",
+  "confusable": "",
+  "example": "他在此安身立命。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他在此安身立命。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "找到安身立命之所。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "抱朴守拙",
+  "pinyin": "bào pǔ shǒu zhuō",
+  "pinyinRaw": "bàopǔshǒuzhuō",
+  "definition": "保持朴实本性，不追求虚华。",
+  "note": "",
+  "memoryTip": "抱守朴拙，不慕虚华。",
+  "confusable": "",
+  "example": "抱朴守拙，淡泊名利。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "抱朴守拙，淡泊名利。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他一生抱朴守拙。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "无所适从",
+  "pinyin": "wú suǒ shì cóng",
+  "pinyinRaw": "wúsuǒshìcóng",
+  "definition": "不知道依从谁、怎么办才好。侧重面临多种选择而茫然。",
+  "note": "",
+  "memoryTip": "侧重面临选择！",
+  "confusable": "无所适从（侧重面临选择）vs 不知所措（单纯不知道怎么办）vs 手足无措（手脚慌乱）。",
+  "example": "意见太多，令人无所适从。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "意见太多，令人无所适从。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对选择无所适从。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不知所措",
+  "pinyin": "bù zhī suǒ cuò",
+  "pinyinRaw": "bùzhīsuǒcuò",
+  "definition": "不知道怎么办才好。",
+  "note": "",
+  "memoryTip": "单纯的不知所措……",
+  "confusable": "",
+  "example": "他一时不知所措。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他一时不知所措。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "惊得不知所措。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "寝食难安",
+  "pinyin": "qǐn shí nán ān",
+  "pinyinRaw": "qǐnshínánān",
+  "definition": "睡不好、吃不下。形容心事重重、焦虑不安。",
+  "note": "",
+  "memoryTip": "睡不好、吃不下。",
+  "confusable": "",
+  "example": "这件事让他寝食难安。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这件事让他寝食难安。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "焦虑得寝食难安。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如坐针毡",
+  "pinyin": "rú zuò zhēn zhān",
+  "pinyinRaw": "rúzuòzhēnzhān",
+  "definition": "像坐在插满针的毡子上。形容坐立不安。",
+  "note": "",
+  "memoryTip": "屁股被扎！坐不住。",
+  "confusable": "",
+  "example": "他等得如坐针毡。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他等得如坐针毡。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "如坐针毡，坐立不安。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如芒在背",
+  "pinyin": "rú máng zài bèi",
+  "pinyinRaw": "rúmángzàibèi",
+  "definition": "像芒刺扎在背上。形容极度不安。",
+  "note": "",
+  "memoryTip": "背后被扎！",
+  "confusable": "",
+  "example": "众人的目光让他如芒在背。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "众人的目光让他如芒在背。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "如芒在背，如坐针毡。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "手足无措",
+  "pinyin": "shǒu zú wú cuò",
+  "pinyinRaw": "shǒuzúwúcuò",
+  "definition": "手脚不知放在哪里。形容慌乱、不知怎么办。",
+  "note": "",
+  "memoryTip": "手脚都有点多余了……手脚慌乱的感觉。",
+  "confusable": "",
+  "example": "他被问得手足无措。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "心态相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他被问得手足无措。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "慌乱得手足无措。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
