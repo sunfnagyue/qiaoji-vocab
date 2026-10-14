@@ -1,5 +1,5 @@
 /* 巧记词汇 Service Worker：静态资源缓存优先，支持离线打开。 */
-const CACHE = "qiaoji-v6";
+const CACHE = "qiaoji-v7";
 
 const ASSETS = [
   "./",
@@ -43,19 +43,20 @@ self.addEventListener("fetch", (e) => {
   // 数据接口都是 POST，只缓存 GET 静态资源
   if (e.request.method !== "GET") return;
 
+  // 网络优先：在线时始终拿最新内容，失败再回退缓存（保证离线可用、更新及时）
   e.respondWith(
-    caches.match(e.request).then((hit) => {
-      if (hit) return hit;
-      return fetch(e.request).then((res) => {
-        if (res && res.status === 200) {
-          const copy = res.clone();
-          caches.open(CACHE).then((c) => c.put(e.request, copy));
-        }
-        return res;
-      }).catch(() => {
+    fetch(e.request).then((res) => {
+      if (res && res.status === 200) {
+        const copy = res.clone();
+        caches.open(CACHE).then((c) => c.put(e.request, copy));
+      }
+      return res;
+    }).catch(() =>
+      caches.match(e.request).then((hit) => {
+        if (hit) return hit;
         // 离线且未缓存时，回到首页
         if (e.request.mode === "navigate") return caches.match("./");
-      });
-    })
+      })
+    )
   );
 });
