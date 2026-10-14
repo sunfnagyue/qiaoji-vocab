@@ -12726,5 +12726,1851 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "毋庸讳言",
+  "pinyin": "wú yōng huì yán",
+  "pinyinRaw": "wúyōnghuìyán",
+  "definition": "不用隐讳，可以直说。指事情可以公开说出来。",
+  "note": "",
+  "memoryTip": "不用隐讳，可以直说！（让人觉得不好意思说的）。",
+  "confusable": "",
+  "example": "毋庸讳言，我们还有差距。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "毋庸讳言，我们还有差距。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "毋庸讳言，问题确实存在。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "噤若寒蝉",
+  "pinyin": "jìn ruò hán chán",
+  "pinyinRaw": "jìnruòhánchán",
+  "definition": "像寒天的蝉一样不敢作声。形容害怕而不敢说话。",
+  "note": "",
+  "memoryTip": "害怕，不敢出声。",
+  "confusable": "",
+  "example": "他吓得噤若寒蝉。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他吓得噤若寒蝉。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "在场的人都噤若寒蝉。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "避而不谈",
+  "pinyin": "bì ér bù tán",
+  "pinyinRaw": "bìérbùtán",
+  "definition": "有意回避，不谈某件事。",
+  "note": "",
+  "memoryTip": "有意回避，不谈。",
+  "confusable": "",
+  "example": "他对关键问题避而不谈。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他对关键问题避而不谈。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "避而不谈矛盾，解决不了问题。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "谈虎色变",
+  "pinyin": "tán hǔ sè biàn",
+  "pinyinRaw": "tánhǔsèbiàn",
+  "definition": "一谈到老虎就变了脸色。比喻一提及可怕的事就紧张。",
+  "note": "",
+  "memoryTip": "一提起就怕。",
+  "confusable": "",
+  "example": "一提考试他就谈虎色变。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一提考试他就谈虎色变。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "人们对它谈虎色变。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "置之脑后",
+  "pinyin": "zhì zhī nǎo hòu",
+  "pinyinRaw": "zhìzhīnǎohòu",
+  "definition": "抛在脑后，不再理会。",
+  "note": "",
+  "memoryTip": "抛在脑后，不理。",
+  "confusable": "",
+  "example": "他把忠告置之脑后。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他把忠告置之脑后。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "把烦恼置之脑后。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "弃如敝履",
+  "pinyin": "qì rú bì lǚ",
+  "pinyinRaw": "qìrúbìlǚ",
+  "definition": "像扔掉破鞋一样抛弃。",
+  "note": "",
+  "memoryTip": "像扔破鞋一样抛弃。",
+  "confusable": "",
+  "example": "旧物被弃如敝履。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "旧物被弃如敝履。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "好传统不能弃如敝履。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "视而不见",
+  "pinyin": "shì ér bú jiàn",
+  "pinyinRaw": "shìérbújiàn",
+  "definition": "看见了却当作没看见。形容不重视。",
+  "note": "",
+  "memoryTip": "看见当没看见。",
+  "confusable": "视而不见、熟视无睹（用眼看）；充耳不闻、置若罔闻（用耳听）。",
+  "example": "对问题视而不见。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对问题视而不见。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能对群众疾苦视而不见。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "熟视无睹",
+  "pinyin": "shú shì wú dǔ",
+  "pinyinRaw": "shúshìwúdǔ",
+  "definition": "看惯了却像没看见一样。形容对眼前的事物漠不关心。",
+  "note": "",
+  "memoryTip": "看惯了，当作没看见。",
+  "confusable": "",
+  "example": "对浪费现象熟视无睹。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对浪费现象熟视无睹。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能对不文明行为熟视无睹。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "充耳不闻",
+  "pinyin": "chōng ěr bù wén",
+  "pinyinRaw": "chōngěrbùwén",
+  "definition": "塞住耳朵不听。形容不愿听取意见。",
+  "note": "",
+  "memoryTip": "听！塞住耳朵不听。",
+  "confusable": "",
+  "example": "对批评充耳不闻。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对批评充耳不闻。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "充耳不闻，一意孤行。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "置若罔闻",
+  "pinyin": "zhì ruò wǎng wén",
+  "pinyinRaw": "zhìruòwǎngwén",
+  "definition": "放在一边，好像没听见。形容不关心、不理睬。",
+  "note": "",
+  "memoryTip": "听！当没听见，不理。",
+  "confusable": "",
+  "example": "对禁令置若罔闻。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对禁令置若罔闻。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对群众呼声置若罔闻。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "闭目塞听",
+  "pinyin": "bì mù sè tīng",
+  "pinyinRaw": "bìmùsètīng",
+  "definition": "闭上眼睛，堵住耳朵。形容不接触外界、脱离实际。",
+  "note": "",
+  "memoryTip": "封闭！不接触外界。",
+  "confusable": "",
+  "example": "我们现在的发展不能闭目塞听，不能闭门造车。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "我们现在的发展不能闭目塞听，不能闭门造车。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能闭目塞听，要开眼看世界。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "置之不理",
+  "pinyin": "zhì zhī bù lǐ",
+  "pinyinRaw": "zhìzhībùlǐ",
+  "definition": "放在一边，不加理睬。",
+  "note": "",
+  "memoryTip": "放在一边，不理。",
+  "confusable": "",
+  "example": "对建议置之不理。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对建议置之不理。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他把难题置之不理。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "嗤之以鼻",
+  "pinyin": "chī zhī yǐ bí",
+  "pinyinRaw": "chīzhīyǐbí",
+  "definition": "用鼻子发出冷笑。表示轻蔑。",
+  "note": "",
+  "memoryTip": "轻蔑！用鼻子冷笑。",
+  "confusable": "",
+  "example": "对这种说法嗤之以鼻。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对这种说法嗤之以鼻。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他嗤之以鼻，不以为然。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不屑一顾",
+  "pinyin": "bú xiè yī gù",
+  "pinyinRaw": "búxièyīgù",
+  "definition": "认为不值得一看。形容轻视。",
+  "note": "",
+  "memoryTip": "轻蔑！不值得一看。",
+  "confusable": "",
+  "example": "他对小利不屑一顾。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他对小利不屑一顾。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不屑一顾地走开了。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "视如敝履",
+  "pinyin": "shì rú bì lǚ",
+  "pinyinRaw": "shìrúbìlǚ",
+  "definition": "看作破鞋一样。形容极度轻视。",
+  "note": "",
+  "memoryTip": "极度轻蔑！（看作破鞋）。",
+  "confusable": "",
+  "example": "他把名利视如敝履。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他把名利视如敝履。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对规矩视如敝履。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "束之高阁",
+  "pinyin": "shù zhī gāo gé",
+  "pinyinRaw": "shùzhīgāogé",
+  "definition": "捆起来放在高架子上。比喻放着不用。",
+  "note": "",
+  "memoryTip": "科研成果、文物古迹、书籍——放着不用。",
+  "confusable": "",
+  "example": "不能让文化遗产束之高阁。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能让文化遗产束之高阁。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "好制度不能束之高阁。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "爱不释手",
+  "pinyin": "ài bú shì shǒu",
+  "pinyinRaw": "àibúshìshǒu",
+  "definition": "喜爱得舍不得放手。",
+  "note": "",
+  "memoryTip": "喜爱得不舍得放手。",
+  "confusable": "",
+  "example": "他爱不释手地翻看。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他爱不释手地翻看。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这本书让人爱不释手。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "视若珍宝",
+  "pinyin": "shì ruò zhēn bǎo",
+  "pinyinRaw": "shìruòzhēnbǎo",
+  "definition": "看作珍宝。形容非常珍惜。",
+  "note": "",
+  "memoryTip": "当作珍宝，非常珍惜。",
+  "confusable": "",
+  "example": "他把藏书视若珍宝。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他把藏书视若珍宝。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "传统技艺被视若珍宝。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "奉为圭臬",
+  "pinyin": "fèng wéi guī niè",
+  "pinyinRaw": "fèngwéiguīniè",
+  "definition": "当作准则和标准。",
+  "note": "",
+  "memoryTip": "当作人生信条、行事标准，不敢打破。",
+  "confusable": "",
+  "example": "把这套理论奉为圭臬。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "把这套理论奉为圭臬。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能把教条奉为圭臬。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "手不释卷",
+  "pinyin": "shǒu bú shì juàn",
+  "pinyinRaw": "shǒubúshìjuàn",
+  "definition": "手里不放书。形容勤奋读书。",
+  "note": "",
+  "memoryTip": "手不离书，勤奋读书。",
+  "confusable": "",
+  "example": "他好学，手不释卷。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他好学，手不释卷。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "手不释卷，勤学苦读。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "细枝末节",
+  "pinyin": "xì zhī mò jié",
+  "pinyinRaw": "xìzhīmòjié",
+  "definition": "细小无关紧要的环节。",
+  "note": "",
+  "memoryTip": "细小末节，不重要。",
+  "confusable": "",
+  "example": "不要纠缠细枝末节。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不要纠缠细枝末节。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "抓大事，不拘细枝末节。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "覆水难收",
+  "pinyin": "fù shuǐ nán shōu",
+  "pinyinRaw": "fùshuǐnánshōu",
+  "definition": "泼出去的水难以收回。比喻事情已成定局，无法挽回。",
+  "note": "",
+  "memoryTip": "已成定局，无法挽回。",
+  "confusable": "",
+  "example": "覆水难收，悔之晚矣。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "重视与轻视",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "覆水难收，悔之晚矣。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "一旦造成损失，覆水难收。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "驾轻就熟",
+  "pinyin": "jià qīng jiù shú",
+  "pinyinRaw": "jiàqīngjiùshú",
+  "definition": "驾轻车，走熟路。比喻对某事熟悉，做起来容易。",
+  "note": "",
+  "memoryTip": "对……驾轻就熟。",
+  "confusable": "",
+  "example": "他对这项工作驾轻就熟。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他对这项工作驾轻就熟。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老本行做起来驾轻就熟。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "轻车熟路",
+  "pinyin": "qīng chē shú lù",
+  "pinyinRaw": "qīngchēshúlù",
+  "definition": "驾着轻快的车走熟悉的路。比喻熟悉，容易做。",
+  "note": "",
+  "memoryTip": "对于……轻车熟路。",
+  "confusable": "",
+  "example": "对他来说已是轻车熟路。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对他来说已是轻车熟路。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "办这事他轻车熟路。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "了如指掌",
+  "pinyin": "liǎo rú zhǐ zhǎng",
+  "pinyinRaw": "liǎorúzhǐzhǎng",
+  "definition": "像指着自己的手掌那样清楚。形容非常了解。",
+  "note": "",
+  "memoryTip": "非常了解。",
+  "confusable": "",
+  "example": "他对情况了如指掌。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他对情况了如指掌。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对业务了如指掌。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "耳熟能详",
+  "pinyin": "ěr shú néng xiáng",
+  "pinyinRaw": "ěrshúnéngxiáng",
+  "definition": "听得多了，能详细地说出来。",
+  "note": "",
+  "memoryTip": "总听到，所以能说出来。",
+  "confusable": "",
+  "example": "这首旋律大家耳熟能详。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这首旋律大家耳熟能详。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "耳熟能详的故事。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如数家珍",
+  "pinyin": "rú shǔ jiā zhēn",
+  "pinyinRaw": "rúshǔjiāzhēn",
+  "definition": "像数自家珍宝一样。形容对事物非常熟悉。",
+  "note": "",
+  "memoryTip": "非常熟悉，如数家珍。",
+  "confusable": "",
+  "example": "他如数家珍地介绍展品。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他如数家珍地介绍展品。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对家乡特产如数家珍。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "烂熟于心",
+  "pinyin": "làn shú yú xīn",
+  "pinyinRaw": "lànshúyúxīn",
+  "definition": "十分熟悉。",
+  "note": "",
+  "memoryTip": "烂熟，牢记在心。",
+  "confusable": "",
+  "example": "这些知识点他已烂熟于心。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这些知识点他已烂熟于心。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "把流程烂熟于心。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "人尽皆知",
+  "pinyin": "rén jìn jiē zhī",
+  "pinyinRaw": "rénjìnjiēzhī",
+  "definition": "人人都知道。",
+  "note": "",
+  "memoryTip": "谁都知道。",
+  "confusable": "",
+  "example": "这是人尽皆知的事实。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这是人尽皆知的事实。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他的事迹人尽皆知。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "妇孺皆知",
+  "pinyin": "fù rú jiē zhī",
+  "pinyinRaw": "fùrújiēzhī",
+  "definition": "妇女和孩子都知道。形容人人皆知。",
+  "note": "",
+  "memoryTip": "连妇女孩子都知道。",
+  "confusable": "",
+  "example": "这位英雄妇孺皆知。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这位英雄妇孺皆知。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "道理妇孺皆知。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "家喻户晓",
+  "pinyin": "jiā yù hù xiǎo",
+  "pinyinRaw": "jiāyùhùxiǎo",
+  "definition": "家家户户都知道。",
+  "note": "",
+  "memoryTip": "家家户户都知道。",
+  "confusable": "",
+  "example": "这是家喻户晓的故事。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这是家喻户晓的故事。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "品牌家喻户晓。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一无所知",
+  "pinyin": "yì wú suǒ zhī",
+  "pinyinRaw": "yìwúsuǒzhī",
+  "definition": "什么也不知道。",
+  "note": "",
+  "memoryTip": "什么都不知道。",
+  "confusable": "",
+  "example": "我对此一无所知。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "我对此一无所知。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他对内情一无所知。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不甚了了",
+  "pinyin": "bú shèn liǎo liǎo",
+  "pinyinRaw": "búshènliǎoliǎo",
+  "definition": "不是很了解，不很清楚。",
+  "note": "",
+  "memoryTip": "不是很了解。",
+  "confusable": "",
+  "example": "我对这事不甚了了。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "我对这事不甚了了。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他对细节不甚了了。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "鲜为人知",
+  "pinyin": "xiǎn wéi rén zhī",
+  "pinyinRaw": "xiǎnwéirénzhī",
+  "definition": "很少有人知道。",
+  "note": "",
+  "memoryTip": "很少有人知道。",
+  "confusable": "",
+  "example": "这段历史鲜为人知。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这段历史鲜为人知。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "鲜为人知的往事。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "默默无闻",
+  "pinyin": "mò mò wú wén",
+  "pinyinRaw": "mòmòwúwén",
+  "definition": "不出名，没人知道。",
+  "note": "",
+  "memoryTip": "不出名，没人知道。",
+  "confusable": "",
+  "example": "他默默无闻地奉献。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他默默无闻地奉献。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "默默无闻的工作者。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "匪夷所思",
+  "pinyin": "fěi yí suǒ sī",
+  "pinyinRaw": "fěiyísuǒsī",
+  "definition": "不是一般人所能想到的。形容思想离奇。",
+  "note": "",
+  "memoryTip": "离奇，难以想象。",
+  "confusable": "",
+  "example": "这种做法匪夷所思。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这种做法匪夷所思。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "匪夷所思的想法。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不可思议",
+  "pinyin": "bù kě sī yì",
+  "pinyinRaw": "bùkěsīyì",
+  "definition": "不可想象，难以理解。",
+  "note": "",
+  "memoryTip": "难以想象。",
+  "confusable": "",
+  "example": "速度之快不可思议。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "熟悉了解",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "速度之快不可思议。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "简直不可思议。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "司空见惯",
+  "pinyin": "sī kōng jiàn guàn",
+  "pinyinRaw": "sīkōngjiànguàn",
+  "definition": "看惯了就不觉得奇怪。",
+  "note": "",
+  "memoryTip": "非常常见的事情，一般用司空见惯。",
+  "confusable": "司空见惯（非常常见）vs 屡见不鲜（相对新鲜的事情）。",
+  "example": "这种现象早已司空见惯。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "常见与否",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这种现象早已司空见惯。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "加班在这里司空见惯。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "屡见不鲜",
+  "pinyin": "lǚ jiàn bù xiān",
+  "pinyinRaw": "lǚjiànbùxiān",
+  "definition": "经常看到，不觉得新鲜。",
+  "note": "",
+  "memoryTip": "事件屡见不鲜（相对新鲜的事情）。",
+  "confusable": "",
+  "example": "这类事件屡见不鲜。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "常见与否",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这类事件屡见不鲜。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老人误吞活动假牙的事屡见不鲜。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不足为奇",
+  "pinyin": "bù zú wéi qí",
+  "pinyinRaw": "bùzúwéiqí",
+  "definition": "不值得奇怪。",
+  "note": "",
+  "memoryTip": "经常看到，不足为奇。",
+  "confusable": "",
+  "example": "见多了就不足为奇。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "常见与否",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "见多了就不足为奇。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这种现象不足为奇。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "习以为常",
+  "pinyin": "xí yǐ wéi cháng",
+  "pinyinRaw": "xíyǐwéicháng",
+  "definition": "经常如此，成了习惯。",
+  "note": "",
+  "memoryTip": "参与其中！经常做成了习惯。",
+  "confusable": "",
+  "example": "他对此习以为常。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "常见与否",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他对此习以为常。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "大家习以为常。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "见怪不怪",
+  "pinyin": "jiàn guài bú guài",
+  "pinyinRaw": "jiànguàibúguài",
+  "definition": "看到奇怪的事也不觉得怪。",
+  "note": "",
+  "memoryTip": "首先得是个怪事！口语化。",
+  "confusable": "",
+  "example": "见怪不怪，其怪自败。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "常见与否",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "见怪不怪，其怪自败。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "习惯了就见怪不怪。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "无独有偶",
+  "pinyin": "wú dú yǒu ǒu",
+  "pinyinRaw": "wúdúyǒuǒu",
+  "definition": "不止一个，还有配对的。指罕见的事不只一个。",
+  "note": "",
+  "memoryTip": "罕见！但不止这一个。",
+  "confusable": "",
+  "example": "无独有偶，另一地也出现了同样情况。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "常见与否",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "无独有偶，另一地也出现了同样情况。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "无独有偶，此类事件接连发生。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "各持己见",
+  "pinyin": "gè chí jǐ jiàn",
+  "pinyinRaw": "gèchíjǐjiàn",
+  "definition": "各人都坚持自己的意见。",
+  "note": "",
+  "memoryTip": "缺主语！前面要有合适的主语（大家、双方、我们）。也作“各执己见”。",
+  "confusable": "各持己见（各坚持己见，需主语）vs 众说纷纭（议论纷纷）vs 莫衷一是（无一致看法）。",
+  "example": "大家各持己见，争论不休。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大家各持己见，争论不休。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "双方各持己见，无法达成一致。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "众说纷纭",
+  "pinyin": "zhòng shuō fēn yún",
+  "pinyinRaw": "zhòngshuōfēnyún",
+  "definition": "各种说法不一，议论纷纷。",
+  "note": "",
+  "memoryTip": "前面可有主语（科学家们众说纷纭），也可没有（对 XX 的成因众说纷纭）。",
+  "confusable": "",
+  "example": "对成因众说纷纭。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对成因众说纷纭。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "科学家们众说纷纭。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "莫衷一是",
+  "pinyin": "mò zhōng yī shì",
+  "pinyinRaw": "mòzhōngyīshì",
+  "definition": "没有一致的看法。",
+  "note": "",
+  "memoryTip": "内心没有一致的看法。",
+  "confusable": "",
+  "example": "大家莫衷一是。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大家莫衷一是。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对方案莫衷一是。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不置可否",
+  "pinyin": "bú zhì kě fǒu",
+  "pinyinRaw": "búzhìkěfǒu",
+  "definition": "不说行，也不说不行，不表明态度。",
+  "note": "",
+  "memoryTip": "不表明态度（但心里说不定有态度）。",
+  "confusable": "",
+  "example": "他不置可否地笑了笑。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他不置可否地笑了笑。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对建议不置可否。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "模棱两可",
+  "pinyin": "mó léng liǎng kě",
+  "pinyinRaw": "móléngliǎngkě",
+  "definition": "态度含糊，可以这样也可以那样。",
+  "note": "",
+  "memoryTip": "态度含糊（说出来了也听不出态度）。",
+  "confusable": "",
+  "example": "回答得模棱两可。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "回答得模棱两可。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "态度模棱两可。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "针锋相对",
+  "pinyin": "zhēn fēng xiāng duì",
+  "pinyinRaw": "zhēnfēngxiāngduì",
+  "definition": "观点、论点或策略、行动上尖锐对立。",
+  "note": "",
+  "memoryTip": "观点、策略尖锐对立。",
+  "confusable": "",
+  "example": "双方针锋相对。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "双方针锋相对。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两种观点针锋相对。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "唇枪舌剑",
+  "pinyin": "chún qiāng shé jiàn",
+  "pinyinRaw": "chúnqiāngshéjiàn",
+  "definition": "形容辩论激烈，言辞犀利。",
+  "note": "",
+  "memoryTip": "辩论激烈，言辞尖锐犀利。",
+  "confusable": "",
+  "example": "双方唇枪舌剑，互不相让。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "双方唇枪舌剑，互不相让。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "辩论现场唇枪舌剑。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "众望所归",
+  "pinyin": "zhòng wàng suǒ guī",
+  "pinyinRaw": "zhòngwàngsuǒguī",
+  "definition": "大家所期望的。形容威望高，受大家拥护。",
+  "note": "",
+  "memoryTip": "大家都很认可、都希望达成。",
+  "confusable": "",
+  "example": "他当选众望所归。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他当选众望所归。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这是众望所归的结果。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "人心所向",
+  "pinyin": "rén xīn suǒ xiàng",
+  "pinyinRaw": "rénxīnsuǒxiàng",
+  "definition": "众人所向往、拥护的。",
+  "note": "",
+  "memoryTip": "大家的心向往它。",
+  "confusable": "",
+  "example": "一个中国原则是人心所向、大势所趋。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一个中国原则是人心所向、大势所趋。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "和平发展是人心所向。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不负众望",
+  "pinyin": "bú fù zhòng wàng",
+  "pinyinRaw": "búfùzhòngwàng",
+  "definition": "没有辜负大家的期望。",
+  "note": "",
+  "memoryTip": "没有辜负大家的期望。",
+  "confusable": "不负众望（没有辜负期望）vs 不孚众望（不能使人信服）。",
+  "example": "他不负众望，出色完成任务。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他不负众望，出色完成任务。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "结果不负众望。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不孚众望",
+  "pinyin": "bù fú zhòng wàng",
+  "pinyinRaw": "bùfúzhòngwàng",
+  "definition": "不能使大家信服。",
+  "note": "",
+  "memoryTip": "不能让大家信服（孚=使人信服）。",
+  "confusable": "",
+  "example": "他表现平平，不孚众望。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他表现平平，不孚众望。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这样的结果不孚众望。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "人心向背",
+  "pinyin": "rén xīn xiàng bèi",
+  "pinyinRaw": "rénxīnxiàngbèi",
+  "definition": "指人民的拥护或反对。",
+  "note": "",
+  "memoryTip": "人民的拥护或反对。",
+  "confusable": "",
+  "example": "党的作风是党的形象，是观察党群干群关系、人心向背的晴雨表。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "党的作风是党的形象，是观察党群干群关系、人心向背的晴雨表。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "人心向背决定事业成败。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "真知灼见",
+  "pinyin": "zhēn zhī zhuó jiàn",
+  "pinyinRaw": "zhēnzhīzhuójiàn",
+  "definition": "正确而透彻的见解。",
+  "note": "",
+  "memoryTip": "正确透彻的见解。",
+  "confusable": "",
+  "example": "他提出了真知灼见。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他提出了真知灼见。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这篇文章不乏真知灼见。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "各执一端",
+  "pinyin": "gè zhí yī duān",
+  "pinyinRaw": "gèzhíyīduān",
+  "definition": "各人坚持自己的意见，意见不一。",
+  "note": "",
+  "memoryTip": "各坚持自己的意见。",
+  "confusable": "",
+  "example": "双方各执一端，难以调和。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "双方各执一端，难以调和。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各执一端，谁也说服不了谁。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不刊之论",
+  "pinyin": "bù kān zhī lùn",
+  "pinyinRaw": "bùkānzhīlùn",
+  "definition": "不能改动或不可磨灭的言论。指至理名言。",
+  "note": "",
+  "memoryTip": "程度重！指至理名言。",
+  "confusable": "不刊之论（程度重，至理名言）vs 不易之论（程度轻，论点正确）。",
+  "example": "他的论述堪称不刊之论。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的论述堪称不刊之论。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这是不刊之论，经得起检验。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "见仁见智",
+  "pinyin": "jiàn rén jiàn zhì",
+  "pinyinRaw": "jiànrénjiànzhì",
+  "definition": "不同的人从不同角度看问题，见解各不相同。",
+  "note": "",
+  "memoryTip": "各人有各人的看法。",
+  "confusable": "",
+  "example": "这个问题见仁见智。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这个问题见仁见智。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "评价标准见仁见智。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不易之论",
+  "pinyin": "bú yì zhī lùn",
+  "pinyinRaw": "búyìzhīlùn",
+  "definition": "不可变更的言论。指论点正确。",
+  "note": "",
+  "memoryTip": "程度轻！论点或意见正确。",
+  "confusable": "",
+  "example": "这一结论可谓不易之论。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这一结论可谓不易之论。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "实践证明了这是不易之论。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "远见卓识",
+  "pinyin": "yuǎn jiàn zhuó shí",
+  "pinyinRaw": "yuǎnjiànzhuóshí",
+  "definition": "远大的眼光，卓越的见识。",
+  "note": "",
+  "memoryTip": "有远见！一般形容人。",
+  "confusable": "",
+  "example": "这位领导人很有远见卓识。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这位领导人很有远见卓识。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "展现出非凡的远见卓识。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "众口难调",
+  "pinyin": "zhòng kǒu nán tiáo",
+  "pinyinRaw": "zhòngkǒunántiáo",
+  "definition": "大家口味不同，很难让所有人满意。",
+  "note": "",
+  "memoryTip": "很难让所有人满意。",
+  "confusable": "",
+  "example": "众口难调，难以两全。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "众口难调，难以两全。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "食堂饭菜众口难调。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "指手画脚",
+  "pinyin": "zhǐ shǒu huà jiǎo",
+  "pinyinRaw": "zhǐshǒuhuàjiǎo",
+  "definition": "轻率地指点、批评或随意发号施令。",
+  "note": "",
+  "memoryTip": "轻率指点、随意发号施令。",
+  "confusable": "",
+  "example": "不要对别人指手画脚。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看法一致",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不要对别人指手画脚。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他喜欢指手画脚。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "管中窥豹",
+  "pinyin": "guǎn zhōng kuī bào",
+  "pinyinRaw": "guǎnzhōngkuībào",
+  "definition": "从竹管里看豹。比喻只看到部分，看不到全面；也比喻从部分推测全貌。",
+  "note": "",
+  "memoryTip": "①见识狭小（管中窥豹，只见一斑）；②由部分推测全貌（管中窥豹，可见一斑）。",
+  "confusable": "",
+  "example": "管中窥豹，从藏品略见中国乒乓球运动的发展历程。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "片面全面",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "管中窥豹，从藏品略见中国乒乓球运动的发展历程。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "管中窥豹，可见一斑。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "以偏概全",
+  "pinyin": "yǐ piān gài quán",
+  "pinyinRaw": "yǐpiāngàiquán",
+  "definition": "用片面代替全面。",
+  "note": "",
+  "memoryTip": "用片面代替全面。",
+  "confusable": "",
+  "example": "不能以偏概全。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "片面全面",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能以偏概全。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "以偏概全会得出错误结论。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一孔之见",
+  "pinyin": "yì kǒng zhī jiàn",
+  "pinyinRaw": "yìkǒngzhījiàn",
+  "definition": "从一个小孔里看到的。比喻狭隘片面的见解。",
+  "note": "",
+  "memoryTip": "自谦！（这是我的一孔之见）。",
+  "confusable": "",
+  "example": "这是我的一孔之见，仅供参考。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "片面全面",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这是我的一孔之见，仅供参考。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能以一孔之见代替全面认识。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "管窥蠡测",
+  "pinyin": "guǎn kuī lí cè",
+  "pinyinRaw": "guǎnkuīlícè",
+  "definition": "用管子看天、用瓢量海水。比喻目光狭小、见识不广。",
+  "note": "",
+  "memoryTip": "目光狭小、见识不广。",
+  "confusable": "",
+  "example": "仅凭这点就下结论，未免管窥蠡测。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "片面全面",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "仅凭这点就下结论，未免管窥蠡测。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "管窥蠡测，难见全貌。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "坐井观天",
+  "pinyin": "zuò jǐng guān tiān",
+  "pinyinRaw": "zuòjǐngguāntiān",
+  "definition": "坐在井里看天。比喻眼界狭小。",
+  "note": "",
+  "memoryTip": "眼界狭小。",
+  "confusable": "",
+  "example": "不能坐井观天，要开阔眼界。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "片面全面",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能坐井观天，要开阔眼界。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "坐井观天，见识有限。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一叶障目",
+  "pinyin": "yī yè zhàng mù",
+  "pinyinRaw": "yīyèzhàngmù",
+  "definition": "一片树叶挡住眼睛。比喻被局部现象迷惑。",
+  "note": "",
+  "memoryTip": "被局部现象迷惑，看不到全局。",
+  "confusable": "",
+  "example": "一叶障目，不见泰山。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "片面全面",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一叶障目，不见泰山。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不要被眼前利益一叶障目。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一叶知秋",
+  "pinyin": "yī yè zhī qiū",
+  "pinyinRaw": "yīyèzhīqiū",
+  "definition": "看到一片落叶就知道秋天来了。比喻从细微迹象看出趋势。",
+  "note": "",
+  "memoryTip": "从细微迹象看出趋势。",
+  "confusable": "",
+  "example": "一叶知秋，见微知著。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "片面全面",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一叶知秋，见微知著。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "从这些变化可以一叶知秋。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "以小见大",
+  "pinyin": "yǐ xiǎo jiàn dà",
+  "pinyinRaw": "yǐxiǎojiàndà",
+  "definition": "从小处看出大道理。",
+  "note": "",
+  "memoryTip": "从小处看出大道理。",
+  "confusable": "",
+  "example": "以小见大，见微知著。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "片面全面",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "以小见大，见微知著。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "故事以小见大，发人深省。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
