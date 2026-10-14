@@ -22,6 +22,7 @@
     let stateId = word.stateId;
     let state = stateId ? word : await DB.ensureReviewState(word.id);
     stateId = stateId || state.stateId;
+    const wasNew = state.status === "new";
 
     let stage = state.stage || 0;
     let correctCount = state.correctCount || 0;
@@ -58,7 +59,18 @@
       lastReviewedAt: now,
       reviewCount, correctCount, wrongCount, lapses,
     };
+    if (!correct) fields.lastWrongAt = now;
     await DB.updateReviewState(stateId, fields);
+
+    // 打卡 + 学习统计（失败不影响学习）
+    try {
+      await DB.recordStudy({
+        answers: 1,
+        correct: correct ? 1 : 0,
+        wrong: correct ? 0 : 1,
+        news: wasNew ? 1 : 0,
+      });
+    } catch (e) { /* 忽略 */ }
 
     return { stage, status, dueAt, correct, stageBefore };
   };

@@ -55,8 +55,9 @@
       <div class="card">
         <div class="big-word">${U.escapeHtml(w.word)}</div>
         <div class="pinyin">${U.escapeHtml(w.pinyin || U.pinyinDisplay(w.word))}</div>
-        <div class="center" style="margin-top:6px">
+        <div class="row" style="margin-top:6px;justify-content:center">
           <button id="btn-tts" class="secondary">🔊 发音</button>
+          <button id="btn-fav" class="secondary">${w.fav ? "★ 已收藏" : "☆ 收藏"}</button>
         </div>
         <div class="section-title">📖 释义</div>
         <div>${U.nl2br(w.definition)}</div>
@@ -78,6 +79,19 @@
       u.lang = "zh-CN";
       u.rate = 0.9;
       window.speechSynthesis.speak(u);
+    };
+
+    // 收藏 / 取消收藏
+    const favBtn = document.getElementById("btn-fav");
+    favBtn.onclick = async () => {
+      const next = !w.fav;
+      try {
+        await DB.toggleFav(w.id, next);
+        w.fav = next;
+        favBtn.textContent = next ? "★ 已收藏" : "☆ 收藏";
+      } catch (e) {
+        alert("操作失败：" + (e.message || e.rawMessage || ""));
+      }
     };
 
     document.getElementById("btn-edit").onclick = () => App.go("edit", { id: w.id });

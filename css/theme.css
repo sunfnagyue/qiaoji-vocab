@@ -184,6 +184,28 @@ textarea { min-height: 72px; resize: vertical; }
 .stat .num { font-size: 24px; font-weight: bold; }
 .stat .lbl { font-size: 12px; color: var(--text-sub); }
 
+/* 筛选标签页 */
+.tab-pill {
+  background: var(--card);
+  color: var(--text-sub);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 16px;
+  font-size: 14px;
+}
+.tab-pill.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+/* 打卡日历 */
+.cal { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; margin: 6px 0; }
+.cal .dow { text-align: center; font-size: 12px; color: var(--text-sub); padding: 4px 0; }
+.cal .day {
+  aspect-ratio: 1; display: flex; align-items: center; justify-content: center;
+  font-size: 13px; border-radius: 8px; background: var(--bg); color: var(--text-sub);
+}
+.cal .day.has { background: var(--primary); color: #fff; font-weight: bold; }
+.cal .day.today { box-shadow: inset 0 0 0 2px var(--primary-hover); }
+.cal .day.blank { background: transparent; }
+
 /* 认证页 */
 .auth-wrap { max-width: 400px; margin: 40px auto; padding: 0 20px; }
 .auth-title { font-size: 24px; font-weight: bold; text-align: center; margin: 20px 0 4px; }

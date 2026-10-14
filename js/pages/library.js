@@ -15,6 +15,11 @@
             <option value="definition">释义</option>
           </select>
         </div>
+        <div class="row" style="margin:8px 0;gap:8px">
+          <button class="tab-pill active" data-filter="all">全部</button>
+          <button class="tab-pill" data-filter="fav">⭐ 收藏</button>
+          <button class="tab-pill" data-filter="wrong">❌ 错题</button>
+        </div>
         <div class="row" style="margin:8px 0">
           <span class="small" id="lib-count"></span>
           <span class="spacer"></span>
@@ -25,14 +30,31 @@
 
     document.getElementById("btn-add").onclick = () => App.go("edit", {});
 
+    let filter = "all";
+
     async function load() {
       const kw = document.getElementById("lib-kw").value;
       const field = document.getElementById("lib-field").value;
-      const list = await DB.searchWords(kw, field, 1000);
+      let list;
+      if (filter === "fav") list = await DB.favWords();
+      else if (filter === "wrong") list = await DB.wrongWords();
+      else list = await DB.searchWords(kw, field, 1000);
+
+      // 收藏 / 错题标签下再按关键词过滤
+      if (filter !== "all" && kw.trim()) {
+        const kl = kw.trim().toLowerCase();
+        list = list.filter((r) => {
+          if (field === "pinyin") return (r.pinyin || "").toLowerCase().includes(kl) || (r.pinyinRaw || "").includes(kl);
+          if (field === "definition") return (r.definition || "").toLowerCase().includes(kl);
+          return (r.word || "").includes(kw.trim()) || (r.pinyinRaw || "").includes(kl);
+        });
+      }
+
       document.getElementById("lib-count").textContent = `共 ${list.length} 个`;
       const box = document.getElementById("lib-list");
       if (!list.length) {
-        box.innerHTML = `<p class="center small" style="margin-top:30px">没有找到相关词语</p>`;
+        const emptyMsg = filter === "fav" ? "还没有收藏的词语" : (filter === "wrong" ? "没有答错的词" : "没有找到相关词语");
+        box.innerHTML = `<p class="center small" style="margin-top:30px">${emptyMsg}</p>`;
         return;
       }
       box.innerHTML = list.map((w) => `
@@ -51,6 +73,14 @@
       timer = setTimeout(load, 250);
     });
     document.getElementById("lib-field").addEventListener("change", load);
+
+    root.querySelectorAll(".tab-pill").forEach((t) => {
+      t.onclick = () => {
+        filter = t.dataset.filter;
+        root.querySelectorAll(".tab-pill").forEach((x) => x.classList.toggle("active", x === t));
+        load();
+      };
+    });
 
     try {
       await load();

@@ -13,6 +13,7 @@
   const APP_KEY = APP_CONFIG.appKey;
   const WORD = APP_CONFIG.wordModel;
   const SETTING = APP_CONFIG.settingModel;
+  const STUDY = "qiaoji_study";
 
   const LS_USER = "qiaoji.user";
 
@@ -112,6 +113,8 @@
       correctCount: num(r.correctCount),
       wrongCount: num(r.wrongCount),
       lapses: num(r.lapses),
+      fav: num(r.fav) !== 0,
+      lastWrongAt: r.lastWrongAt ? num(r.lastWrongAt) : null,
     };
   }
 
@@ -128,14 +131,15 @@
       dueAt: "dueAt", lastReviewedAt: "lastReviewedAt",
       reviewCount: "reviewCount", correctCount: "correctCount",
       wrongCount: "wrongCount", lapses: "lapses",
+      fav: "fav", lastWrongAt: "lastWrongAt",
     };
     const out = {};
     Object.keys(fields).forEach((k) => {
       if (fields[k] === undefined || !(k in map)) return;
       let v = fields[k];
       if (v instanceof Date) v = String(v.getTime());
-      else if (k === "dueAt" || k === "lastReviewedAt") v = String(v);
-      else if (k === "enabled") v = v ? 1 : 0;
+      else if (k === "dueAt" || k === "lastReviewedAt" || k === "lastWrongAt") v = String(v);
+      else if (k === "enabled" || k === "fav") v = v ? 1 : 0;
       out[map[k]] = v;
     });
     return out;
@@ -280,15 +284,113 @@
   DB.counts = async function () {
     const words = await enabledWords();
     const now = Date.now();
-    let nNew = 0, nDue = 0, nLearning = 0, nMastered = 0;
+    let nNew = 0, nDue = 0, nLearning = 0, nMastered = 0, nFav = 0, nWrong = 0;
     words.forEach((w) => {
+      if (w.fav) nFav++;
+      if (w.wrongCount > 0 && w.status !== "mastered") nWrong++;
       if (w.status === "new") nNew++;
       else if (w.status === "learning" || w.status === "reviewing") {
         nLearning++;
         if (w.dueAt && w.dueAt <= now) nDue++;
       } else if (w.status === "mastered") nMastered++;
     });
-    return { total: words.length, new: nNew, due: nDue, learning: nLearning, mastered: nMastered };
+    return { total: words.length, new: nNew, due: nDue, learning: nLearning, mastered: nMastered, fav: nFav, wrong: nWrong };
+  };
+
+  // ---------- 收藏 / 错题 ----------
+  DB.favWords = async function () {
+    return (await enabledWords()).filter((w) => w.fav);
+  };
+
+  // 错题：答错过且尚未掌握，按最近答错时间排序
+  DB.wrongWords = async function () {
+    return (await enabledWords())
+      .filter((w) => w.wrongCount > 0 && w.status !== "mastered")
+      .sort((a, b) => (b.lastWrongAt || 0) - (a.lastWrongAt || 0));
+  };
+
+  DB.toggleFav = function (id, fav) {
+    return DB.updateWord(id, { fav: !!fav });
+  };
+
+  // ---------- 学习记录（打卡 / 统计） ----------
+  function dayStr(d) {
+    const p = (n) => String(n).padStart(2, "0");
+    return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}`;
+  }
+
+  function todayStr() { return dayStr(new Date()); }
+
+  // 记录一次作答（累加到今天的记录）
+  DB.recordStudy = async function (delta) {
+    const day = todayStr();
+    const where = [["logday", "=", day], ["uid", "=", uid()]];
+    const d = await post(Object.assign({}, auth(), {
+      s: "App.Table.FreeQuery", model_name: STUDY, where: where, perpage: 1,
+    }));
+    const list = d.list || [];
+    const inc = {
+      answers: delta.answers || 0,
+      correct: delta.correct || 0,
+      wrong: delta.wrong || 0,
+      news: delta.news || 0,
+    };
+    if (list.length) {
+      const row = list[0];
+      await post(Object.assign({}, auth(), {
+        s: "App.Table.FreeUpdate", model_name: STUDY,
+        where: [["id", "=", row.id], ["uid", "=", uid()]],
+        data: {
+          answers: num(row.answers) + inc.answers,
+          correct: num(row.correct) + inc.correct,
+          wrong: num(row.wrong) + inc.wrong,
+          news: num(row.news) + inc.news,
+        },
+      }));
+    } else {
+      await post(Object.assign({}, auth(), {
+        s: "App.Table.Create", model_name: STUDY,
+        data: { uid: uid(), logday: day, answers: inc.answers, correct: inc.correct, wrong: inc.wrong, news: inc.news },
+      }));
+    }
+  };
+
+  DB.studyStats = async function () {
+    const d = await post(Object.assign({}, auth(), {
+      s: "App.Table.FreeQuery", model_name: STUDY, where: [["uid", "=", uid()]], perpage: 10000,
+    }));
+    const rows = (d.list || []).map((r) => ({
+      day: r.logday || "",
+      answers: num(r.answers),
+      correct: num(r.correct),
+      wrong: num(r.wrong),
+      news: num(r.news),
+    }));
+    const daySet = {};
+    rows.forEach((r) => { if (r.day) daySet[r.day] = r; });
+
+    // 连续打卡天数（今天没学则从昨天往回算）
+    let streak = 0;
+    const cursor = new Date();
+    if (!daySet[todayStr()]) cursor.setDate(cursor.getDate() - 1);
+    while (daySet[dayStr(cursor)]) {
+      streak++;
+      cursor.setDate(cursor.getDate() - 1);
+    }
+
+    let totalAnswers = 0, totalCorrect = 0, totalWrong = 0, totalNews = 0;
+    rows.forEach((r) => {
+      totalAnswers += r.answers; totalCorrect += r.correct;
+      totalWrong += r.wrong; totalNews += r.news;
+    });
+    const today = daySet[todayStr()] || { answers: 0, correct: 0, wrong: 0, news: 0 };
+
+    return {
+      rows, daySet, streak,
+      totalDays: rows.length,
+      totalAnswers, totalCorrect, totalWrong, totalNews,
+      today,
+    };
   };
 
   // ---------- 设置 ----------

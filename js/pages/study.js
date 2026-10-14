@@ -31,14 +31,19 @@
     // 全新开始（或换模式）
     const queue = mode === "review"
       ? await DB.dueQueue()
-      : await DB.newQueue(await DB.getSetting("daily_new", 20));
+      : (mode === "wrong"
+        ? await DB.wrongWords()
+        : await DB.newQueue(await DB.getSetting("daily_new", 20)));
     App.study.mode = mode;
     App.study.queue = queue;
     App.study.idx = 0;
     if (!queue.length) {
+      const emptyMsg = mode === "review"
+        ? "今天没有待复习的词！"
+        : (mode === "wrong" ? "错题本里没有答错的词，继续保持！" : "今天的新词已经学完啦！");
       document.getElementById("study-body").innerHTML =
         `<div class="card center">
-           <p style="font-size:18px">🎉 ${mode === "review" ? "今天没有待复习的词！" : "今天的新词已经学完啦！"}</p>
+           <p style="font-size:18px">🎉 ${emptyMsg}</p>
            <button class="block" onclick="App.go('home')">返回首页</button>
          </div>`;
       return;
