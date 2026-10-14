@@ -1,0 +1,20 @@
+{
+  "name": "巧记词汇",
+  "short_name": "巧记词汇",
+  "description": "成语 / 词语背记，选义测试 + 艾宾浩斯记忆法，手机电脑同步",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5EFE6",
+  "theme_color": "#B08968",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

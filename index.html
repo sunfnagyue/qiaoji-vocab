@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="theme-color" content="#E6D9C3">
+  <title>巧记词汇</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/theme.css">
+</head>
+<body>
+
+  <!-- 顶栏 -->
+  <header id="topbar" class="topbar hidden">
+    <span class="brand">📖 巧记词汇</span>
+    <span class="spacer"></span>
+    <span class="user" id="username"></span>
+    <button class="ghost" onclick="App.logout()">退出</button>
+  </header>
+
+  <!-- 内容区 -->
+  <main id="screen"></main>
+
+  <!-- 底部导航 -->
+  <nav id="bottomnav" class="bottomnav hidden">
+    <div class="tab" data-screen="home" onclick="App.go('home')">
+      <span class="ico">🏠</span>首页
+    </div>
+    <div class="tab" data-screen="library" onclick="App.go('library')">
+      <span class="ico">📚</span>词库
+    </div>
+    <div class="tab" data-screen="import" onclick="App.go('import')">
+      <span class="ico">📥</span>导入
+    </div>
+    <div class="tab" data-screen="settings" onclick="App.go('settings')">
+      <span class="ico">⚙️</span>设置
+    </div>
+  </nav>
+
+  <!-- 依赖库 -->
+  <script src="js/vendor/pinyin-pro.js"></script>
+  <script src="js/config.js"></script>
+  <script src="data/builtin_terms.json"></script>
+
+  <!-- 应用脚本 -->
+  <script src="js/util.js"></script>
+  <script src="js/yesapi.js"></script>
+  <script src="js/scheduler.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/pages/auth.js"></script>
+  <script src="js/pages/home.js"></script>
+  <script src="js/pages/study.js"></script>
+  <script src="js/pages/library.js"></script>
+  <script src="js/pages/detail.js"></script>
+  <script src="js/pages/edit.js"></script>
+  <script src="js/pages/import.js"></script>
+  <script src="js/pages/settings.js"></script>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('sw.js').catch(function(){});
+    }
+  </script>
+</body>
+</html>
