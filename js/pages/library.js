@@ -50,6 +50,8 @@
         });
       }
 
+      // 记录当前列表顺序，供详情页左右滑动切换上一个/下一个
+      App.lib = list;
       document.getElementById("lib-count").textContent = `共 ${list.length} 个`;
       const box = document.getElementById("lib-list");
       if (!list.length) {
@@ -63,7 +65,7 @@
           <div class="d">${U.escapeHtml(w.definition || "")}</div>
         </div>`).join("");
       box.querySelectorAll(".word-row").forEach((row) => {
-        row.onclick = () => App.go("detail", { id: row.dataset.id });
+        row.onclick = () => App.go("detail", { id: row.dataset.id, fromLibrary: true });
       });
     }
 

@@ -5,6 +5,7 @@
 
   App.register("detail", async function (root, params) {
     const fromStudy = !!params.fromStudy;
+    const fromLibrary = !!params.fromLibrary;
     root.innerHTML = `
       <div class="shell">
         <div class="row" style="margin:14px 0">
@@ -28,6 +29,13 @@
         `<div class="card center">加载失败：${U.escapeHtml(e.message || e.rawMessage || "")}</div>`;
       return;
     }
+
+    let libIdx = -1;
+    if (fromLibrary && App.lib && App.lib.length) {
+      libIdx = App.lib.findIndex((x) => String(x.id) === String(w.id));
+    }
+    const hasPrev = libIdx > 0;
+    const hasNext = libIdx >= 0 && App.lib && libIdx < App.lib.length - 1;
 
     const tags = (w.tags || "").split(/[,，\s]+/).filter(Boolean)
       .map((t) => `<span class="tag">${U.escapeHtml(t)}</span>`).join("");
@@ -74,6 +82,11 @@
           <button class="secondary grow" id="btn-edit">✏️ 编辑</button>
           <button class="danger grow" id="btn-del">🗑 删除</button>
         </div>
+        ${fromLibrary ? `
+        <div class="row" style="margin-top:10px">
+          <button class="secondary grow" id="btn-prev" ${hasPrev ? "" : "disabled"}>← 上一个</button>
+          <button class="secondary grow" id="btn-next" ${hasNext ? "" : "disabled"}>下一个 →</button>
+        </div>` : ""}
         ${fromStudy ? `<button class="block" style="margin-top:10px" id="btn-continue">继续下一题 →</button>` : ""}
       </div>`;
 
@@ -117,6 +130,39 @@
     if (fromStudy) {
       document.getElementById("btn-continue").onclick = () =>
         App.go("study", { mode: App.study.mode, continue: true });
+    }
+
+    function goNeighbor(delta) {
+      if (!fromLibrary || !App.lib || !App.lib.length) return;
+      const idx = App.lib.findIndex((x) => String(x.id) === String(w.id));
+      if (idx < 0) return;
+      const n = App.lib[idx + delta];
+      if (n) App.go("detail", { id: n.id, fromLibrary: true });
+    }
+
+    if (fromLibrary) {
+      document.getElementById("btn-prev").onclick = () => goNeighbor(-1);
+      document.getElementById("btn-next").onclick = () => goNeighbor(1);
+
+      // 左右滑动切换上一个/下一个词语
+      const shell = root.querySelector(".shell");
+      let sx = 0, sy = 0, st = null;
+      shell.addEventListener("touchstart", (e) => {
+        const t = e.touches[0];
+        sx = t.clientX; sy = t.clientY;
+        st = e.target;
+      }, { passive: true });
+      shell.addEventListener("touchend", (e) => {
+        if (st === null) return;
+        const onControl = st.closest && st.closest("button, a, input, textarea, select");
+        st = null;
+        if (onControl) return;
+        const t = e.changedTouches[0];
+        const dx = t.clientX - sx, dy = t.clientY - sy;
+        if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+          goNeighbor(dx < 0 ? 1 : -1);
+        }
+      }, { passive: true });
     }
   });
 })();
