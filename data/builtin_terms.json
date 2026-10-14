@@ -14572,5 +14572,1695 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "鞭辟入里",
+  "pinyin": "biān pì rù lǐ",
+  "pinyinRaw": "biānpìrùlǐ",
+  "definition": "深入剖析，透彻而切中要害。",
+  "note": "",
+  "memoryTip": "分析问题！透彻，切中要害！最里层、最本质。",
+  "confusable": "",
+  "example": "他的分析鞭辟入里。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看事透彻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的分析鞭辟入里。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "鞭辟入里的论述令人信服。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一针见血",
+  "pinyin": "yì zhēn jiàn xiě",
+  "pinyinRaw": "yìzhēnjiànxiě",
+  "definition": "一句话就说到要害。形容说话直截了当，切中要害。",
+  "note": "",
+  "memoryTip": "直截了当，切中要害！",
+  "confusable": "",
+  "example": "他一针见血地指出问题。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看事透彻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他一针见血地指出问题。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "批评一针见血。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一语中的",
+  "pinyin": "yì yǔ zhòng dì",
+  "pinyinRaw": "yìyǔzhòngdì",
+  "definition": "一句话就说中了要害。",
+  "note": "",
+  "memoryTip": "一下子说到重点！",
+  "confusable": "",
+  "example": "他一语中的，点破关键。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看事透彻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他一语中的，点破关键。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "评价一语中的。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一语成谶",
+  "pinyin": "yì yǔ chéng chèn",
+  "pinyinRaw": "yìyǔchéngchèn",
+  "definition": "随口说的一句话，竟然应验了（多指不吉利的话）。",
+  "note": "",
+  "memoryTip": "乌鸦嘴！！",
+  "confusable": "",
+  "example": "没想到一语成谶。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看事透彻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "没想到一语成谶。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他随口一说，竟一语成谶。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "字字珠玑",
+  "pinyin": "zì zì zhū jī",
+  "pinyinRaw": "zìzìzhūjī",
+  "definition": "每个字都像珍珠一样。形容文章精炼优美。",
+  "note": "",
+  "memoryTip": "每个字都像珍珠一样宝贵！",
+  "confusable": "",
+  "example": "这篇文章字字珠玑。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看事透彻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这篇文章字字珠玑。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "字字珠玑，句句经典。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "洞若观火",
+  "pinyin": "dòng ruò guān huǒ",
+  "pinyinRaw": "dòngruòguānhuǒ",
+  "definition": "像看火一样清楚。形容看得非常透彻。",
+  "note": "",
+  "memoryTip": "十分透彻！！！",
+  "confusable": "",
+  "example": "他对形势洞若观火。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看事透彻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他对形势洞若观火。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对问题洞若观火。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一览无余",
+  "pinyin": "yì lǎn wú yú",
+  "pinyinRaw": "yìlǎnwúyú",
+  "definition": "一眼就全都看到。形容视野开阔，或事物简单明了。",
+  "note": "",
+  "memoryTip": "景色！景象！一下子全部展现可以看清。",
+  "confusable": "",
+  "example": "登顶后城市一览无余。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "看事透彻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "登顶后城市一览无余。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "全局一览无余。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "大有可为",
+  "pinyin": "dà yǒu kě wéi",
+  "pinyinRaw": "dàyǒukěwéi",
+  "definition": "很有发展前途，值得去做。",
+  "note": "",
+  "memoryTip": "必将大有可为！讲未来！",
+  "confusable": "",
+  "example": "青年一代大有可为。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "态度评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "青年一代大有可为。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这项事业大有可为。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "无可厚非",
+  "pinyin": "wú kě hòu fēi",
+  "pinyinRaw": "wúkěhòufēi",
+  "definition": "不能过分指责，表示还有可取之处。",
+  "note": "",
+  "memoryTip": "不能过分指责，并不是完全正确、有可取之处。",
+  "confusable": "无可厚非（不能过分指责，尚有可取处）vs 无可非议（没什么可指责的，做得对）。",
+  "example": "他这样做本无可厚非。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "态度评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他这样做本无可厚非。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "追求利益无可厚非。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "无可非议",
+  "pinyin": "wú kě fēi yì",
+  "pinyinRaw": "wúkěfēiyì",
+  "definition": "没有什么可以指责的，表示做得对。",
+  "note": "",
+  "memoryTip": "没有什么可以指责的，做的是对的。",
+  "confusable": "",
+  "example": "他的行为无可非议。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "态度评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的行为无可非议。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这个决定无可非议。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "差强人意",
+  "pinyin": "chā qiáng rén yì",
+  "pinyinRaw": "chāqiángrényì",
+  "definition": "大体上还能使人满意。",
+  "note": "",
+  "memoryTip": "勉强能让人满意。",
+  "confusable": "",
+  "example": "成绩差强人意。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "态度评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "成绩差强人意。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "结果差强人意，尚可接受。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "敬而远之",
+  "pinyin": "jìng ér yuǎn zhī",
+  "pinyinRaw": "jìngéryuǎnzhī",
+  "definition": "尊敬，但不愿接近。",
+  "note": "",
+  "memoryTip": "尊敬，但远离不想接近（年轻人对戏剧、传统艺术等的态度）。",
+  "confusable": "",
+  "example": "年轻人对传统戏曲敬而远之。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "态度评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "年轻人对传统戏曲敬而远之。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对他敬而远之。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "缄口不言",
+  "pinyin": "jiān kǒu bù yán",
+  "pinyinRaw": "jiānkǒubùyán",
+  "definition": "闭口不说话。",
+  "note": "",
+  "memoryTip": "闭口不言。",
+  "confusable": "",
+  "example": "他对此缄口不言。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "态度评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他对此缄口不言。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "大家都缄口不言。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "凤毛麟角",
+  "pinyin": "fèng máo lín jiǎo",
+  "pinyinRaw": "fèngmáolínjiǎo",
+  "definition": "凤凰的毛，麒麟的角。比喻珍贵而稀少的人或事物。",
+  "note": "",
+  "memoryTip": "珍贵且稀少！",
+  "confusable": "",
+  "example": "收藏乌木者却是凤毛麟角。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "收藏乌木者却是凤毛麟角。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这样的顶尖人才凤毛麟角。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "寥寥无几",
+  "pinyin": "liáo liáo wú jǐ",
+  "pinyinRaw": "liáoliáowújǐ",
+  "definition": "非常少，几乎没有。",
+  "note": "",
+  "memoryTip": "少！单纯的少，好坏都可以说。",
+  "confusable": "",
+  "example": "到场的人寥寥无几。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "到场的人寥寥无几。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "剩下的寥寥无几。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "屈指可数",
+  "pinyin": "qū zhǐ kě shǔ",
+  "pinyinRaw": "qūzhǐkěshǔ",
+  "definition": "扳着手指就能数过来。形容数量极少（一般指好的）。",
+  "note": "",
+  "memoryTip": "数量极少，一般说好的东西。",
+  "confusable": "",
+  "example": "这样的好作品屈指可数。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这样的好作品屈指可数。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "能胜任的人屈指可数。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "寥若晨星",
+  "pinyin": "liáo ruò chén xīng",
+  "pinyinRaw": "liáoruòchénxīng",
+  "definition": "像早晨的星星一样稀少。偏褒义。",
+  "note": "",
+  "memoryTip": "少，偏褒义！从寥若晨星到满天繁星。",
+  "confusable": "",
+  "example": "当年从业者寥若晨星。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "当年从业者寥若晨星。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "如今人才从寥若晨星到满天繁星。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "车载斗量",
+  "pinyin": "chē zài dǒu liáng",
+  "pinyinRaw": "chēzàidǒuliáng",
+  "definition": "用车装、用斗量。形容数量很多。",
+  "note": "",
+  "memoryTip": "骄傲！研究成果、国家栋梁——数量多。",
+  "confusable": "",
+  "example": "研究成果车载斗量。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "研究成果车载斗量。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这样的人才车载斗量。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不胜枚举",
+  "pinyin": "bú shèng méi jǔ",
+  "pinyinRaw": "búshèngméijǔ",
+  "definition": "不能一个个列举完。形容数量很多。",
+  "note": "",
+  "memoryTip": "举例子！枚举！多到举不完。",
+  "confusable": "",
+  "example": "多灾多难、饿殍遍地的记录不胜枚举。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "多灾多难、饿殍遍地的记录不胜枚举。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这样的事例不胜枚举。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "俯拾皆是",
+  "pinyin": "fǔ shí jiē shì",
+  "pinyinRaw": "fǔshíjiēshì",
+  "definition": "一弯腰就能捡到。形容数量多，且容易得到。",
+  "note": "",
+  "memoryTip": "易得！太多了，多且易得！",
+  "confusable": "",
+  "example": "这样的例子俯拾皆是。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这样的例子俯拾皆是。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "灵感并非俯拾皆是。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "数不胜数",
+  "pinyin": "shǔ bú shèng shǔ",
+  "pinyinRaw": "shǔbúshèngshǔ",
+  "definition": "数都数不过来。形容数量极多。",
+  "note": "",
+  "memoryTip": "数不过来。",
+  "confusable": "",
+  "example": "游客数不胜数。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "游客数不胜数。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这样的案例数不胜数。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不一而足",
+  "pinyin": "bù yī ér zú",
+  "pinyinRaw": "bùyīérzú",
+  "definition": "不止一种，而是很多。",
+  "note": "",
+  "memoryTip": "等等！如此种种，不一而足！",
+  "confusable": "",
+  "example": "联谊会、研究会不一而足。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "联谊会、研究会不一而足。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "协会、学会层出不穷，不一而足。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "卷帙浩繁",
+  "pinyin": "juàn zhì hào fán",
+  "pinyinRaw": "juànzhìhàofán",
+  "definition": "形容书籍篇幅多、内容丰富。",
+  "note": "",
+  "memoryTip": "文献篇幅大！章节多！赞美书籍丰富详尽。",
+  "confusable": "",
+  "example": "习近平总书记为这部卷帙浩繁的丛书作序。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "习近平总书记为这部卷帙浩繁的丛书作序。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这部典籍卷帙浩繁。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "汗牛充栋",
+  "pinyin": "hàn niú chōng dòng",
+  "pinyinRaw": "hànniúchōngdòng",
+  "definition": "书多得堆满屋子、累得牛出汗。形容藏书极多。",
+  "note": "",
+  "memoryTip": "藏书数量大！物理空间上的堆积（图书馆）。",
+  "confusable": "",
+  "example": "汗牛充栋的古籍。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "汗牛充栋的古籍。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他家里藏书汗牛充栋。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "浩如烟海",
+  "pinyin": "hào rú yān hǎi",
+  "pinyinRaw": "hàorúyānhǎi",
+  "definition": "像烟雾弥漫的大海一样。形容文献、资料等极为丰富。",
+  "note": "",
+  "memoryTip": "内容丰富广泛！文献！种类繁多、内容广博。",
+  "confusable": "",
+  "example": "古籍浩如烟海。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "数量多少",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "古籍浩如烟海。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "历史资料浩如烟海。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "错落有致",
+  "pinyin": "cuò luò yǒu zhì",
+  "pinyinRaw": "cuòluòyǒuzhì",
+  "definition": "参差交错，富有情趣。形容布局美观。",
+  "note": "",
+  "memoryTip": "高低、参差！",
+  "confusable": "",
+  "example": "房屋错落有致。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "建筑相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "房屋错落有致。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "布局错落有致。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "星罗棋布",
+  "pinyin": "xīng luó qí bù",
+  "pinyinRaw": "xīngluóqíbù",
+  "definition": "像星星、棋子一样分布。形容数量多、分布广。",
+  "note": "",
+  "memoryTip": "多而广！",
+  "confusable": "",
+  "example": "湖泊星罗棋布。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "建筑相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "湖泊星罗棋布。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "村庄星罗棋布。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "美轮美奂",
+  "pinyin": "měi lún měi huàn",
+  "pinyinRaw": "měilúnměihuàn",
+  "definition": "形容建筑物高大华丽、宏伟壮观。",
+  "note": "",
+  "memoryTip": "建筑物、城市、光影……（高大华美）。",
+  "confusable": "",
+  "example": "建筑美轮美奂。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "建筑相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "建筑美轮美奂。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "城市夜景美轮美奂。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "富丽堂皇",
+  "pinyin": "fù lì táng huáng",
+  "pinyinRaw": "fùlìtánghuáng",
+  "definition": "形容建筑物宏伟华丽或场面盛大。",
+  "note": "",
+  "memoryTip": "欧式建筑的风格（宏伟华丽）。",
+  "confusable": "",
+  "example": "宫殿富丽堂皇。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "建筑相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "宫殿富丽堂皇。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "大厅装饰得富丽堂皇。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "雕梁画栋",
+  "pinyin": "diāo liáng huà dòng",
+  "pinyinRaw": "diāoliánghuàdòng",
+  "definition": "梁和栋都有彩绘装饰。形容房屋装饰华丽。",
+  "note": "",
+  "memoryTip": "彩绘装饰十分华丽的房屋！",
+  "confusable": "",
+  "example": "古建筑雕梁画栋。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "建筑相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "古建筑雕梁画栋。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "雕梁画栋，金碧辉煌。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "粉墙黛瓦",
+  "pinyin": "fěn qiáng dài wǎ",
+  "pinyinRaw": "fěnqiángdàiwǎ",
+  "definition": "雪白的墙壁，青黑的瓦。形容徽派建筑等。",
+  "note": "",
+  "memoryTip": "雪白的墙壁、青黑的瓦（徽派建筑）。",
+  "confusable": "",
+  "example": "粉墙黛瓦的徽派建筑。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "建筑相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "粉墙黛瓦的徽派建筑。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "古镇粉墙黛瓦，古朴典雅。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "岸芷汀兰",
+  "pinyin": "àn zhǐ tīng lán",
+  "pinyinRaw": "ànzhǐtīnglán",
+  "definition": "岸边的香草和小洲上的兰花。形容景色美，也比喻品德高尚。",
+  "note": "",
+  "memoryTip": "小花小草，也可形容谦谦君子、品德高尚。",
+  "confusable": "",
+  "example": "岸芷汀兰，郁郁青青。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "建筑相关",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "岸芷汀兰，郁郁青青。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他如岸芷汀兰，品德高洁。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如出一辙",
+  "pinyin": "rú chū yì zhé",
+  "pinyinRaw": "rúchūyìzhé",
+  "definition": "像从同一条车辙里出来。形容非常相似。",
+  "note": "",
+  "memoryTip": "非常相似，一模一样。",
+  "confusable": "",
+  "example": "两人的说法如出一辙。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两人的说法如出一辙。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "手法如出一辙。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "大同小异",
+  "pinyin": "dà tóng xiǎo yì",
+  "pinyinRaw": "dàtóngxiǎoyì",
+  "definition": "大体相同，略有差异。",
+  "note": "",
+  "memoryTip": "大体相同，小有差异。",
+  "confusable": "",
+  "example": "两个方案大同小异。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两个方案大同小异。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各地做法大同小异。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "千篇一律",
+  "pinyin": "qiān piān yí lǜ",
+  "pinyinRaw": "qiānpiānyílǜ",
+  "definition": "一千篇文章都是一个样。形容事物毫无变化，含贬义。",
+  "note": "",
+  "memoryTip": "毫无变化（偏贬义）。",
+  "confusable": "",
+  "example": "文章千篇一律。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "文章千篇一律。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "作品千篇一律，缺乏新意。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不约而同",
+  "pinyin": "bù yuē ér tóng",
+  "pinyinRaw": "bùyuēértóng",
+  "definition": "事先没有约定而行动一致。",
+  "note": "",
+  "memoryTip": "做法、言行不约而同（没约定但一致）。",
+  "confusable": "不约而同（行动一致）vs 不谋而合（想法一致）。",
+  "example": "大家不约而同地鼓掌。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大家不约而同地鼓掌。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "人们不约而同地赶来。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不谋而合",
+  "pinyin": "bù móu ér hé",
+  "pinyinRaw": "bùmóuérhé",
+  "definition": "没有商量而意见、想法一致。",
+  "note": "",
+  "memoryTip": "①没事前商量但看法相同②内在特点契合。",
+  "confusable": "",
+  "example": "低碳战略和进博会的要求不谋而合。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "低碳战略和进博会的要求不谋而合。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两人想法不谋而合。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "殊途同归",
+  "pinyin": "shū tú tóng guī",
+  "pinyinRaw": "shūtútóngguī",
+  "definition": "走不同的路，到达同一个目的地。比喻方法不同而结果相同。",
+  "note": "",
+  "memoryTip": "结果相同，不论结果好坏。",
+  "confusable": "",
+  "example": "两种方法殊途同归。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两种方法殊途同归。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "殊途同归，目标一致。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "异曲同工",
+  "pinyin": "yì qǔ tóng gōng",
+  "pinyinRaw": "yìqǔtónggōng",
+  "definition": "曲调不同却同样美妙。比喻做法不同而效果相同（好的结果）。",
+  "note": "",
+  "memoryTip": "结果相同，但是好的结果！",
+  "confusable": "",
+  "example": "两篇佳作异曲同工。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两篇佳作异曲同工。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两种方案异曲同工。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "大相径庭",
+  "pinyin": "dà xiāng jìng tíng",
+  "pinyinRaw": "dàxiāngjìngtíng",
+  "definition": "相差很远，大不相同。",
+  "note": "",
+  "memoryTip": "大不相同。",
+  "confusable": "",
+  "example": "两人观点大相径庭。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两人观点大相径庭。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "结果与预期大相径庭。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "泾渭分明",
+  "pinyin": "jīng wèi fēn míng",
+  "pinyinRaw": "jīngwèifēnmíng",
+  "definition": "泾水和渭水一清一浊。比喻界限清楚、是非分明。",
+  "note": "",
+  "memoryTip": "界限清晰。",
+  "confusable": "",
+  "example": "是非曲直泾渭分明。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "是非曲直泾渭分明。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两者界限泾渭分明。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "相去甚远",
+  "pinyin": "xiāng qù shèn yuǎn",
+  "pinyinRaw": "xiāngqùshènyuǎn",
+  "definition": "相差很远。",
+  "note": "",
+  "memoryTip": "差距很大。",
+  "confusable": "",
+  "example": "现实与理想相去甚远。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "现实与理想相去甚远。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两者水平相去甚远。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "判若云泥",
+  "pinyin": "pàn ruò yún ní",
+  "pinyinRaw": "pànruòyúnní",
+  "definition": "像云和泥一样差别极大。",
+  "note": "",
+  "memoryTip": "差别极大（云在天、泥在地）。",
+  "confusable": "",
+  "example": "两人水平判若云泥。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两人水平判若云泥。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新旧产品判若云泥。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "天壤之别",
+  "pinyin": "tiān rǎng zhī bié",
+  "pinyinRaw": "tiānrǎngzhībié",
+  "definition": "天上和地下的差别。形容差别极大。",
+  "note": "",
+  "memoryTip": "差别极大。",
+  "confusable": "",
+  "example": "前后有天壤之别。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "前后有天壤之别。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两者待遇天壤之别。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不分轩轾",
+  "pinyin": "bù fēn xuān zhì",
+  "pinyinRaw": "bùfēnxuānzhì",
+  "definition": "分不出高低优劣。",
+  "note": "",
+  "memoryTip": "不分高下、轻重。",
+  "confusable": "",
+  "example": "两人水平不分轩轾。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两人水平不分轩轾。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两种方案不分轩轾。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "伯仲之间",
+  "pinyin": "bó zhòng zhī jiān",
+  "pinyinRaw": "bózhòngzhījiān",
+  "definition": "兄弟之间。比喻两者不相上下。",
+  "note": "",
+  "memoryTip": "不相上下。",
+  "confusable": "",
+  "example": "两人技艺在伯仲之间。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两人技艺在伯仲之间。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "二者伯仲之间，难分高下。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "各有千秋",
+  "pinyin": "gè yǒu qiān qiū",
+  "pinyinRaw": "gèyǒuqiānqiū",
+  "definition": "各有各的长处和特色。",
+  "note": "",
+  "memoryTip": "各有各的好！",
+  "confusable": "",
+  "example": "两种风格各有千秋。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两种风格各有千秋。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各有千秋，难分伯仲。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "平分秋色",
+  "pinyin": "píng fēn qiū sè",
+  "pinyinRaw": "píngfēnqiūsè",
+  "definition": "各得一半，不相上下。",
+  "note": "",
+  "memoryTip": "平局！",
+  "confusable": "",
+  "example": "双方平分秋色。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "双方平分秋色。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "比赛平分秋色。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "分庭抗礼",
+  "pinyin": "fēn tíng kàng lǐ",
+  "pinyinRaw": "fēntíngkànglǐ",
+  "definition": "①平起平坐、能抗衡；②分裂对抗。",
+  "note": "",
+  "memoryTip": "①水平上来了，能抗衡②分裂对抗。",
+  "confusable": "",
+  "example": "新生力量与老牌劲旅分庭抗礼。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "相同不同",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "新生力量与老牌劲旅分庭抗礼。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两派分庭抗礼。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "巧夺天工",
+  "pinyin": "qiǎo duó tiān gōng",
+  "pinyinRaw": "qiǎoduótiāngōng",
+  "definition": "人工的精巧胜过天然。形容技艺精巧。",
+  "note": "",
+  "memoryTip": "人工胜过天然！",
+  "confusable": "巧夺天工（人工胜过天然）vs 鬼斧神工（形容大自然，也形容技艺）。",
+  "example": "工艺品巧夺天工。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "工艺品巧夺天工。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "雕刻技艺巧夺天工。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "精雕细琢",
+  "pinyin": "jīng diāo xì zhuó",
+  "pinyinRaw": "jīngdiāoxìzhuó",
+  "definition": "精心细致地雕刻。形容做事精益求精。",
+  "note": "",
+  "memoryTip": "精工细作。",
+  "confusable": "",
+  "example": "作品经过精雕细琢。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "作品经过精雕细琢。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "文案要精雕细琢。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "鬼斧神工",
+  "pinyin": "guǐ fǔ shén gōng",
+  "pinyinRaw": "guǐfǔshéngōng",
+  "definition": "形容大自然或技艺精巧，非人力所能及。",
+  "note": "",
+  "memoryTip": "大自然！用得很多！（也可形容技艺）。",
+  "confusable": "",
+  "example": "大自然的鬼斧神工。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大自然的鬼斧神工。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "雕刻鬼斧神工。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "炉火纯青",
+  "pinyin": "lú huǒ chún qīng",
+  "pinyinRaw": "lúhuǒchúnqīng",
+  "definition": "比喻学问、技艺达到纯熟完美的境界。",
+  "note": "",
+  "memoryTip": "技艺纯熟、达到完美。",
+  "confusable": "",
+  "example": "绘画技巧炉火纯青。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "绘画技巧炉火纯青。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "演技炉火纯青。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "登堂入室",
+  "pinyin": "dēng táng rù shì",
+  "pinyinRaw": "dēngtángrùshì",
+  "definition": "学问或技艺由浅入深，达到很高水平。",
+  "note": "",
+  "memoryTip": "达到一定高度！学识由浅入深（升堂入室）。",
+  "confusable": "",
+  "example": "他的学问已登堂入室。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的学问已登堂入室。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "书法技艺登堂入室。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "登峰造极",
+  "pinyin": "dēng fēng zào jí",
+  "pinyinRaw": "dēngfēngzàojí",
+  "definition": "达到最高境界、顶峰。",
+  "note": "",
+  "memoryTip": "达到最高境界！",
+  "confusable": "",
+  "example": "他的成就登峰造极。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的成就登峰造极。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "技艺登峰造极。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "目无全牛",
+  "pinyin": "mù wú quán niú",
+  "pinyinRaw": "mùwúquánniú",
+  "definition": "眼里没有完整的牛。比喻技术熟练到得心应手的境界。",
+  "note": "",
+  "memoryTip": "技术熟练到得心应手（庖丁解牛）。",
+  "confusable": "",
+  "example": "他操作起来目无全牛。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他操作起来目无全牛。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "技艺纯熟，目无全牛。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "得心应手",
+  "pinyin": "dé xīn yìng shǒu",
+  "pinyinRaw": "déxīnyìngshǒu",
+  "definition": "心里怎么想，手就怎么做。形容运用自如。",
+  "note": "",
+  "memoryTip": "运用自如。",
+  "confusable": "",
+  "example": "他用起来得心应手。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他用起来得心应手。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "技艺得心应手。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "粗制滥造",
+  "pinyin": "cū zhì làn zào",
+  "pinyinRaw": "cūzhìlànzào",
+  "definition": "草率地制造。形容质量低劣。",
+  "note": "",
+  "memoryTip": "质量差！草率制造。",
+  "confusable": "",
+  "example": "产品粗制滥造。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "产品粗制滥造。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "粗制滥造，毫无匠心。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "庖丁解牛",
+  "pinyin": "páo dīng jiě niú",
+  "pinyinRaw": "páodīngjiěniú",
+  "definition": "比喻技术熟练，做事得心应手。",
+  "note": "",
+  "memoryTip": "技术熟练、得心应手（与目无全牛同义）。",
+  "confusable": "",
+  "example": "他操作机器如庖丁解牛。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他操作机器如庖丁解牛。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "庖丁解牛，游刃有余。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "粉墨登场",
+  "pinyin": "fěn mò dēng chǎng",
+  "pinyinRaw": "fěnmòdēngchǎng",
+  "definition": "化妆后登台演戏。现多比喻登上政治舞台（含贬义）。",
+  "note": "",
+  "memoryTip": "登上政治舞台！（贬义）。",
+  "confusable": "",
+  "example": "他粉墨登场，登上政治舞台。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他粉墨登场，登上政治舞台。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各路人物粉墨登场。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不分畛域",
+  "pinyin": "bù fēn zhěn yù",
+  "pinyinRaw": "bùfēnzhěnyù",
+  "definition": "不分界限和范围。",
+  "note": "",
+  "memoryTip": "不分彼此和界限。",
+  "confusable": "",
+  "example": "合作不分畛域。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "合作不分畛域。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各地不分畛域，协同配合。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不爽毫厘",
+  "pinyin": "bù shuǎng háo lí",
+  "pinyinRaw": "bùshuǎngháolí",
+  "definition": "丝毫不差。",
+  "note": "",
+  "memoryTip": "形容一点不差。",
+  "confusable": "",
+  "example": "测量结果不爽毫厘。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "技艺精湛",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "测量结果不爽毫厘。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "计算不爽毫厘。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "蔚为大观",
+  "pinyin": "wèi wéi dà guān",
+  "pinyinRaw": "wèiwéidàguān",
+  "definition": "丰富多彩，成为盛大的景象。",
+  "note": "",
+  "memoryTip": "美好的事物繁多！盛大的景象！",
+  "confusable": "",
+  "example": "国风国潮蔚为大观。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "国风国潮蔚为大观。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "美丽中国蔚为大观。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "洋洋大观",
+  "pinyin": "yáng yáng dà guān",
+  "pinyinRaw": "yángyángdàguān",
+  "definition": "形容事物繁多、丰富多彩。",
+  "note": "",
+  "memoryTip": "美好的事物多！更具体（主语是物）。",
+  "confusable": "",
+  "example": "摊位琳琅满目、洋洋大观。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "摊位琳琅满目、洋洋大观。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "作品洋洋大观。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "引人入胜",
+  "pinyin": "yǐn rén rù shèng",
+  "pinyinRaw": "yǐnrénrùshèng",
+  "definition": "引人进入佳境。形容风景、故事等吸引人。",
+  "note": "",
+  "memoryTip": "风景、故事吸引人。",
+  "confusable": "",
+  "example": "故事引人入胜。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "观看欣赏",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "故事引人入胜。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "风景引人入胜。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
