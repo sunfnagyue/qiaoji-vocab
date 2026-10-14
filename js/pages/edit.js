@@ -66,7 +66,7 @@
       </div>`;
 
     document.getElementById("btn-cancel").onclick = () => {
-      App.go(id ? "detail" : "library", id ? { id } : {});
+      App.go(id ? "detail" : "library", id ? { id, fromStudy: params.fromStudy } : {});
     };
 
     const wordEl = document.getElementById("f-word");
@@ -112,7 +112,7 @@
       try {
         if (id) {
           await DB.updateWord(id, data);
-          App.go("detail", { id });
+          App.go("detail", { id, fromStudy: params.fromStudy });
         } else {
           const newId = await DB.addWord(data);
           // 为新词建立复习状态（status=new）

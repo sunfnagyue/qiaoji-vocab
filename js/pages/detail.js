@@ -100,7 +100,7 @@
       }
     };
 
-    document.getElementById("btn-edit").onclick = () => App.go("edit", { id: w.id });
+    document.getElementById("btn-edit").onclick = () => App.go("edit", { id: w.id, fromStudy: fromStudy });
 
     document.getElementById("btn-del").onclick = async () => {
       if (!confirm(`确定删除「${w.word}」吗？删除后不再出现在学习中。`)) return;
