@@ -8618,5 +8618,1903 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "沽名钓誉",
+  "pinyin": "gū míng diào yù",
+  "pinyinRaw": "gūmíngdiàoyù",
+  "definition": "用种种手段骗取名誉。贬义。",
+  "note": "",
+  "memoryTip": "贬义！用某种手段获取名誉。",
+  "confusable": "",
+  "example": "切不可沽名钓誉、说大话。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "沽名虚伪",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "切不可沽名钓誉、说大话。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他沽名钓誉，实则毫无实绩。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "附庸风雅",
+  "pinyin": "fù yōng fēng yǎ",
+  "pinyinRaw": "fùyōngfēngyǎ",
+  "definition": "缺乏文化修养的人装点门面，跟着文化人谈诗论艺。贬义。",
+  "note": "",
+  "memoryTip": "贬义！装文化人。",
+  "confusable": "",
+  "example": "有人不懂艺术却附庸风雅。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "沽名虚伪",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "有人不懂艺术却附庸风雅。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "店里摆几本书不过是附庸风雅。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "虚与委蛇",
+  "pinyin": "xū yǔ wēi yí",
+  "pinyinRaw": "xūyǔwēiyí",
+  "definition": "对人假意敷衍应酬。",
+  "note": "",
+  "memoryTip": "虚情假意地敷衍应付（人和人的交往）；面对坏人罪犯也可用。",
+  "confusable": "",
+  "example": "他虚与委蛇说套话，不办实事。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "逢迎讨好",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他虚与委蛇说套话，不办实事。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对拉拢，不能虚与委蛇。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "委曲求全",
+  "pinyin": "wěi qū qiú quán",
+  "pinyinRaw": "wěiqūqiúquán",
+  "definition": "勉强迁就，以求保全。",
+  "note": "",
+  "memoryTip": "委屈自己以求保全。",
+  "confusable": "",
+  "example": "为了大局，他只好委曲求全。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "逢迎讨好",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "为了大局，他只好委曲求全。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能一味委曲求全。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "敷衍塞责",
+  "pinyin": "fū yǎn sè zé",
+  "pinyinRaw": "fūyǎnsèzé",
+  "definition": "工作不认真负责，表面应付。",
+  "note": "",
+  "memoryTip": "敷衍应付，有些干部对百姓。",
+  "confusable": "",
+  "example": "对群众诉求不能敷衍塞责。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "敷衍马虎",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对群众诉求不能敷衍塞责。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "敷衍塞责是失职表现。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "曲意逢迎",
+  "pinyin": "qū yì féng yíng",
+  "pinyinRaw": "qūyìféngyíng",
+  "definition": "违背自己本意去迎合别人。",
+  "note": "",
+  "memoryTip": "违背自己本意迎合别人。",
+  "confusable": "",
+  "example": "他曲意逢迎上司。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "逢迎讨好",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他曲意逢迎上司。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "曲意逢迎换不来尊重。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "投其所好",
+  "pinyin": "tóu qí suǒ hào",
+  "pinyinRaw": "tóuqísuǒhào",
+  "definition": "迎合别人的喜好。可褒可贬。",
+  "note": "",
+  "memoryTip": "领导喜欢啥我就买啥给他（可褒可贬）。",
+  "confusable": "",
+  "example": "一旦在投其所好的拉拢面前放松警惕，就容易犯错误。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "逢迎讨好",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一旦在投其所好的拉拢面前放松警惕，就容易犯错误。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "投其所好，对症服务。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "阿谀奉承",
+  "pinyin": "ē yú fèng chéng",
+  "pinyinRaw": "ēyúfèngchéng",
+  "definition": "说好话讨好别人。贬义。",
+  "note": "",
+  "memoryTip": "说好话，讨好别人。",
+  "confusable": "",
+  "example": "他只会阿谀奉承。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "逢迎讨好",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他只会阿谀奉承。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "阿谀奉承之风不可长。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "兴师动众",
+  "pinyin": "xīng shī dòng zhòng",
+  "pinyinRaw": "xīngshīdòngzhòng",
+  "definition": "大规模地发动人力做某事。多含贬义。",
+  "note": "",
+  "memoryTip": "动用很多人（小题大做）。",
+  "confusable": "",
+  "example": "办件小事不必兴师动众。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误政策",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "办件小事不必兴师动众。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "兴师动众，劳民伤财。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "劳民伤财",
+  "pinyin": "láo mín shāng cái",
+  "pinyinRaw": "láomínshāngcái",
+  "definition": "使人民劳苦，又耗费钱财。",
+  "note": "",
+  "memoryTip": "既费人力又费钱财。",
+  "confusable": "",
+  "example": "搞形象工程劳民伤财。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误政策",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "搞形象工程劳民伤财。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "劳民伤财的事不能干。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "朝令夕改",
+  "pinyin": "zhāo lìng xī gǎi",
+  "pinyinRaw": "zhāolìngxīgǎi",
+  "definition": "早晨发布的命令，晚上就改了。形容政令多变。",
+  "note": "",
+  "memoryTip": "政令多变，反复无常。",
+  "confusable": "",
+  "example": "政策不能朝令夕改。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误政策",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "政策不能朝令夕改。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "朝令夕改让人无所适从。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "粗枝大叶",
+  "pinyin": "cū zhī dà yè",
+  "pinyinRaw": "cūzhīdàyè",
+  "definition": "形容做事不细致、马虎。",
+  "note": "",
+  "memoryTip": "马虎不认真。",
+  "confusable": "",
+  "example": "工作不能粗枝大叶。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "敷衍马虎",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "工作不能粗枝大叶。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "粗枝大叶容易出错。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "大而化之",
+  "pinyin": "dà ér huà zhī",
+  "pinyinRaw": "dàérhuàzhī",
+  "definition": "原指做事做得很好；现多指做事马虎、空泛、不细致。",
+  "note": "",
+  "memoryTip": "比较空泛的操作容易，具体细致的难（大而化之易，具体而微难）。",
+  "confusable": "",
+  "example": "大而化之易，具体而微难。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "敷衍马虎",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大而化之易，具体而微难。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "抓落实不能大而化之。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "具体而微",
+  "pinyin": "jù tǐ ér wēi",
+  "pinyinRaw": "jùtǐérwēi",
+  "definition": "内容大体具备，而形状或规模较小。常与“大而化之”对举，指具体细致。",
+  "note": "",
+  "memoryTip": "大体具备、规模较小；与“大而化之”相对（具体细致）。",
+  "confusable": "",
+  "example": "大而化之易，具体而微难。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "敷衍马虎",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大而化之易，具体而微难。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这部作品是原著的缩影，具体而微。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "哗众取宠",
+  "pinyin": "huá zhòng qǔ chǒng",
+  "pinyinRaw": "huázhòngqǔchǒng",
+  "definition": "用浮夸的言行迎合众人，以博取好感或拥护。贬义。",
+  "note": "",
+  "memoryTip": "浮夸的言论和行为！小丑行为。",
+  "confusable": "",
+  "example": "靠哗众取宠博眼球。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误行为",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "靠哗众取宠博眼球。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "哗众取宠不能长久。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "重蹈覆辙",
+  "pinyin": "chóng dǎo fù zhé",
+  "pinyinRaw": "chóngdǎofùzhé",
+  "definition": "重新走上翻过车的老路。比喻不吸取教训，重犯错误。",
+  "note": "",
+  "memoryTip": "不吸取教训！重犯老错误。",
+  "confusable": "",
+  "example": "要吸取教训，不能重蹈覆辙。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误行为",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "要吸取教训，不能重蹈覆辙。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "重蹈覆辙只会再次失败。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "从谏如流",
+  "pinyin": "cóng jiàn rú liú",
+  "pinyinRaw": "cóngjiànrúliú",
+  "definition": "听从规劝，像流水一样迅速自然。",
+  "note": "",
+  "memoryTip": "听从规劝像流水一样。",
+  "confusable": "从谏如流（听从规劝）vs 从善如流（听从好的建议）。",
+  "example": "领导者要虚心纳谏、从谏如流。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "领导者要虚心纳谏、从谏如流。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他能从谏如流，勇于改错。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "从善如流",
+  "pinyin": "cóng shàn rú liú",
+  "pinyinRaw": "cóngshànrúliú",
+  "definition": "听从好的意见，像流水一样迅速自然。",
+  "note": "",
+  "memoryTip": "听从好建议像流水一样。闻过则喜，从善如流。",
+  "confusable": "",
+  "example": "闻过则喜，从善如流。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "闻过则喜，从善如流。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他虚怀若谷，从善如流。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "闻过则喜",
+  "pinyin": "wén guò zé xǐ",
+  "pinyinRaw": "wénguòzéxǐ",
+  "definition": "听到别人指出自己的过错就高兴。",
+  "note": "",
+  "memoryTip": "听到别人指出错误很高兴！",
+  "confusable": "",
+  "example": "要有闻过则喜的胸怀。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "要有闻过则喜的胸怀。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "闻过则喜，虚心接受批评。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "虚怀若谷",
+  "pinyin": "xū huái ruò gǔ",
+  "pinyinRaw": "xūhuáiruògǔ",
+  "definition": "胸怀像山谷一样深广，十分谦虚。",
+  "note": "",
+  "memoryTip": "十分谦虚，胸怀像山谷一样深广。",
+  "confusable": "",
+  "example": "他虚怀若谷，广纳良言。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他虚怀若谷，广纳良言。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "虚怀若谷，不耻下问。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "文过饰非",
+  "pinyin": "wén guò shì fēi",
+  "pinyinRaw": "wénguòshìfēi",
+  "definition": "用漂亮的言辞掩饰自己的过失和错误。",
+  "note": "",
+  "memoryTip": "用漂亮话来掩饰错误！",
+  "confusable": "",
+  "example": "犯了错不能文过饰非。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "犯了错不能文过饰非。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "文过饰非，只会越陷越深。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "怙恶不悛",
+  "pinyin": "hù è bù quān",
+  "pinyinRaw": "hùèbùquān",
+  "definition": "坚持作恶，不肯悔改。怙：依靠、依仗；悛：悔改。",
+  "note": "",
+  "memoryTip": "屡教不改！怙=依靠、依仗；悛=悔改。",
+  "confusable": "",
+  "example": "对怙恶不悛者要严惩。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对怙恶不悛者要严惩。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "怙恶不悛，必将受到法律制裁。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "欲盖弥彰",
+  "pinyin": "yù gài mí zhāng",
+  "pinyinRaw": "yùgàimízhāng",
+  "definition": "想掩盖事实真相，结果反而暴露得更明显。",
+  "note": "",
+  "memoryTip": "想掩饰结果更明显了！",
+  "confusable": "",
+  "example": "越掩饰越欲盖弥彰。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "越掩饰越欲盖弥彰。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "欲盖弥彰，弄巧成拙。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "刚愎自用",
+  "pinyin": "gāng bì zì yòng",
+  "pinyinRaw": "gāngbìzìyòng",
+  "definition": "固执任性，自以为是。",
+  "note": "",
+  "memoryTip": "固执自信，听不进意见。",
+  "confusable": "",
+  "example": "刚愎自用，听不进劝告。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "刚愎自用，听不进劝告。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能刚愎自用。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "固执己见",
+  "pinyin": "gù zhí jǐ jiàn",
+  "pinyinRaw": "gùzhíjǐjiàn",
+  "definition": "顽固地坚持自己的意见。中性词，前面要有主语。",
+  "note": "",
+  "memoryTip": "中性！前面要有一个主语。",
+  "confusable": "",
+  "example": "他固执己见，不肯让步。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他固执己见，不肯让步。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不要固执己见。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "洗心革面",
+  "pinyin": "xǐ xīn gé miàn",
+  "pinyinRaw": "xǐxīngémiàn",
+  "definition": "彻底改正错误，重新做人。",
+  "note": "",
+  "memoryTip": "彻底改正错误，重新做人。",
+  "confusable": "洗心革面（改正错误）vs 脱胎换骨（彻底改变）vs 改头换面（只变形式）。",
+  "example": "他决心洗心革面，重新做人。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他决心洗心革面，重新做人。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "犯错后要洗心革面。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "脱胎换骨",
+  "pinyin": "tuō tāi huàn gǔ",
+  "pinyinRaw": "tuōtāihuàngǔ",
+  "definition": "彻底改变立场、面貌，重新做人。",
+  "note": "",
+  "memoryTip": "彻底改变、重新做人。",
+  "confusable": "",
+  "example": "经过改造，他脱胎换骨。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "经过改造，他脱胎换骨。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "企业实现了脱胎换骨的转变。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "改头换面",
+  "pinyin": "gǎi tóu huàn miàn",
+  "pinyinRaw": "gǎitóuhuànmiàn",
+  "definition": "①只改变形式，内容实质不变；②改正错误。",
+  "note": "",
+  "memoryTip": "只变形式、实质不变（也可指改正错误）。",
+  "confusable": "",
+  "example": "儿童的多动或冲动症状，也常常以“改头换面”的形式表现出来，比如计划多却难以坚持，频繁辞职更换工作。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "对待错误",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "儿童的多动或冲动症状，也常常以“改头换面”的形式表现出来，比如计划多却难以坚持，频繁辞职更换工作。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "换汤不换药，只是改头换面。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "亘古不变",
+  "pinyin": "gèn gǔ bú biàn",
+  "pinyinRaw": "gèngǔbúbiàn",
+  "definition": "从古到今，永不改变。",
+  "note": "",
+  "memoryTip": "从古至今不变。",
+  "confusable": "",
+  "example": "这是亘古不变的真理。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这是亘古不变的真理。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "亘古不变的规律。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "改弦更张",
+  "pinyin": "gǎi xián gēng zhāng",
+  "pinyinRaw": "gǎixiángēngzhāng",
+  "definition": "更改琴弦，重新调弦。比喻改革制度、变更方针或方法。",
+  "note": "",
+  "memoryTip": "改革制度、变更方法。",
+  "confusable": "",
+  "example": "政策需要改弦更张。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "政策需要改弦更张。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改弦更张，另谋出路。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "改弦易辙",
+  "pinyin": "gǎi xián yì zhé",
+  "pinyinRaw": "gǎixiányìzhé",
+  "definition": "改变原来的方向、计划或做法。",
+  "note": "",
+  "memoryTip": "改变方向、另走新路。",
+  "confusable": "",
+  "example": "及时改弦易辙，调整方向。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "及时改弦易辙，调整方向。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改弦易辙，重新出发。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "变幻莫测",
+  "pinyin": "biàn huàn mò cè",
+  "pinyinRaw": "biànhuànmòcè",
+  "definition": "变化很多，难以预测。",
+  "note": "",
+  "memoryTip": "变化多、难预测。",
+  "confusable": "",
+  "example": "市场行情变幻莫测。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "市场行情变幻莫测。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "天气变幻莫测。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "瞬息万变",
+  "pinyin": "shùn xī wàn biàn",
+  "pinyinRaw": "shùnxīwànbiàn",
+  "definition": "极短的时间内变化很多。",
+  "note": "",
+  "memoryTip": "极短时间内变化多。",
+  "confusable": "",
+  "example": "互联网时代瞬息万变。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "互联网时代瞬息万变。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "战场形势瞬息万变。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "长盛不衰",
+  "pinyin": "cháng shèng bù shuāi",
+  "pinyinRaw": "chángshèngbùshuāi",
+  "definition": "长时间兴盛，不衰败。",
+  "note": "",
+  "memoryTip": "长时间兴盛！不衰败。",
+  "confusable": "",
+  "example": "中华文明长盛不衰。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "中华文明长盛不衰。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这家老字号长盛不衰。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "经久不衰",
+  "pinyin": "jīng jiǔ bù shuāi",
+  "pinyinRaw": "jīngjiǔbùshuāi",
+  "definition": "经历长久而不衰败。",
+  "note": "",
+  "memoryTip": "不衰败！",
+  "confusable": "",
+  "example": "经典作品经久不衰。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "经典作品经久不衰。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这一传统经久不衰。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "经久不息",
+  "pinyin": "jīng jiǔ bù xī",
+  "pinyinRaw": "jīngjiǔbùxī",
+  "definition": "长时间不停止（多形容掌声、欢呼等）。",
+  "note": "",
+  "memoryTip": "掌声！！长时间不停。",
+  "confusable": "",
+  "example": "会场响起经久不息的掌声。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "会场响起经久不息的掌声。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "欢呼声经久不息。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "今非昔比",
+  "pinyin": "jīn fēi xī bǐ",
+  "pinyinRaw": "jīnfēixībǐ",
+  "definition": "现在不是过去能比的。形容变化巨大。",
+  "note": "",
+  "memoryTip": "变化巨大，今胜于昔。",
+  "confusable": "",
+  "example": "如今家乡今非昔比。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "如今家乡今非昔比。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "企业发展今非昔比。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "天翻地覆",
+  "pinyin": "tiān fān dì fù",
+  "pinyinRaw": "tiānfāndìfù",
+  "definition": "形容变化巨大；也形容闹得凶。",
+  "note": "",
+  "memoryTip": "变化巨大（也可形容闹得厉害）。",
+  "confusable": "",
+  "example": "社会发生了天翻地覆的变化。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "社会发生了天翻地覆的变化。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "家里被闹得天翻地覆。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "时过境迁",
+  "pinyin": "shí guò jìng qiān",
+  "pinyinRaw": "shíguòjìngqiān",
+  "definition": "时间推移，境况发生变化。",
+  "note": "",
+  "memoryTip": "时间过去，情况改变。",
+  "confusable": "",
+  "example": "时过境迁，往事已成云烟。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "时过境迁，往事已成云烟。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "时过境迁，情况已不同。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "沧海桑田",
+  "pinyin": "cāng hǎi sāng tián",
+  "pinyinRaw": "cānghǎisāngtián",
+  "definition": "大海变成桑田，桑田变成大海。比喻世事变化巨大。",
+  "note": "",
+  "memoryTip": "世事变化巨大。",
+  "confusable": "",
+  "example": "沧海桑田，物是人非。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "沧海桑田，物是人非。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "几十年沧海桑田，变化巨大。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "斗转星移",
+  "pinyin": "dǒu zhuǎn xīng yí",
+  "pinyinRaw": "dǒuzhuǎnxīngyí",
+  "definition": "北斗星转向，星体移动。指时间流逝、季节变迁。",
+  "note": "",
+  "memoryTip": "时间流逝、岁月变迁。",
+  "confusable": "",
+  "example": "斗转星移，岁月如梭。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "斗转星移，岁月如梭。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "斗转星移，物换星移。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "白云苍狗",
+  "pinyin": "bái yún cāng gǒu",
+  "pinyinRaw": "báiyúncānggǒu",
+  "definition": "白云像白衣，一会儿变成苍狗。比喻世事变幻无常。",
+  "note": "",
+  "memoryTip": "世事变幻无常。",
+  "confusable": "",
+  "example": "世事如白云苍狗，变幻无常。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "世事如白云苍狗，变幻无常。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "白云苍狗，人生难料。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "恍如隔世",
+  "pinyin": "huǎng rú gé shì",
+  "pinyinRaw": "huǎngrúgéshì",
+  "definition": "仿佛隔了一个时代。形容人事、景物变化很大。",
+  "note": "",
+  "memoryTip": "仿佛隔了一个时代。",
+  "confusable": "",
+  "example": "故地重游，恍如隔世。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "故地重游，恍如隔世。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "多年未见，恍如隔世。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "根深蒂固",
+  "pinyin": "gēn shēn dì gù",
+  "pinyinRaw": "gēnshēndìgù",
+  "definition": "根基深厚牢固，不可动摇。多形容观念、思想。",
+  "note": "",
+  "memoryTip": "观念！思想！根基牢固难动摇。",
+  "confusable": "",
+  "example": "旧观念根深蒂固。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "旧观念根深蒂固。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "要破除根深蒂固的陋习。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "积习难改",
+  "pinyin": "jī xí nán gǎi",
+  "pinyinRaw": "jīxínángǎi",
+  "definition": "长期形成的习惯难以改变。",
+  "note": "",
+  "memoryTip": "长期形成的习惯难改！",
+  "confusable": "积习难改（习惯难改，程度较轻）vs 积重难返（弊端积久难以革除，程度重）。",
+  "example": "抽烟这毛病积习难改。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "抽烟这毛病积习难改。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "积习难改，要下大决心。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "积重难返",
+  "pinyin": "jī zhòng nán fǎn",
+  "pinyinRaw": "jīzhòngnánfǎn",
+  "definition": "长期形成的恶习、弊端难以革除。",
+  "note": "",
+  "memoryTip": "长期存在的恶习、弊端难以革除。",
+  "confusable": "积重难返（弊端积久难革）vs 积习难改（习惯难改）。",
+  "example": "一些顽疾积重难返。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "变化不变",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一些顽疾积重难返。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "问题积重难返，必须下猛药。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "顺势而为",
+  "pinyin": "shùn shì ér wéi",
+  "pinyinRaw": "shùnshìérwéi",
+  "definition": "顺应形势、趋势去做事。",
+  "note": "",
+  "memoryTip": "顺应形势做事！",
+  "confusable": "",
+  "example": "当国大业大、兵强马壮的时候，非我莫属、称王称霸的心理优势不免同步膨胀，进而就会很自然地顺应起弱肉强食的丛林法则，对外扩张威胁他国，成为顺势而为的思维惯性。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "顺势造势",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "当国大业大、兵强马壮的时候，非我莫属、称王称霸的心理优势不免同步膨胀，进而就会很自然地顺应起弱肉强食的丛林法则，对外扩张威胁他国，成为顺势而为的思维惯性。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "顺应时代大势，顺势而为。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "大势所趋",
+  "pinyin": "dà shì suǒ qū",
+  "pinyinRaw": "dàshìsuǒqū",
+  "definition": "整个形势发展的趋向。",
+  "note": "",
+  "memoryTip": "医疗反腐是大势所趋。",
+  "confusable": "",
+  "example": "医疗反腐是大势所趋。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "顺势造势",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "医疗反腐是大势所趋。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "绿色发展是大势所趋。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "势在必行",
+  "pinyin": "shì zài bì xíng",
+  "pinyinRaw": "shìzàibìxíng",
+  "definition": "从形势上看必须实行。",
+  "note": "",
+  "memoryTip": "医疗反腐势在必行。",
+  "confusable": "",
+  "example": "医疗反腐势在必行。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "顺势造势",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "医疗反腐势在必行。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改革势在必行。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "随波逐流",
+  "pinyin": "suí bō zhú liú",
+  "pinyinRaw": "suíbōzhúliú",
+  "definition": "跟着波浪起伏。比喻没有主见，随大流。",
+  "note": "",
+  "memoryTip": "随大溜！",
+  "confusable": "",
+  "example": "做人要有主见，不能随波逐流。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "顺势造势",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "做人要有主见，不能随波逐流。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "随波逐流，人云亦云。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "顺水推舟",
+  "pinyin": "shùn shuǐ tuī zhōu",
+  "pinyinRaw": "shùnshuǐtuīzhōu",
+  "definition": "顺着水流推船。比喻顺应趋势说话办事。",
+  "note": "",
+  "memoryTip": "顺应某个趋势说话办事。",
+  "confusable": "",
+  "example": "他顺水推舟，答应了请求。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "顺势造势",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他顺水推舟，答应了请求。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "顺水推舟，顺势而为。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "理所应当",
+  "pinyin": "lǐ suǒ yīng dāng",
+  "pinyinRaw": "lǐsuǒyīngdāng",
+  "definition": "按道理应当如此。",
+  "note": "",
+  "memoryTip": "理所应当！按道理应该这样。",
+  "confusable": "",
+  "example": "为人民服务是理所应当的。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "自然合理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "为人民服务是理所应当的。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "做好本职理所应当。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "理所当然",
+  "pinyin": "lǐ suǒ dāng rán",
+  "pinyinRaw": "lǐsuǒdāngrán",
+  "definition": "按道理应当这样。",
+  "note": "",
+  "memoryTip": "按道理应当这样。",
+  "confusable": "",
+  "example": "付出努力，收获回报理所当然。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "自然合理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "付出努力，收获回报理所当然。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能把奉献当作理所当然。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "顺理成章",
+  "pinyin": "shùn lǐ chéng zhāng",
+  "pinyinRaw": "shùnlǐchéngzhāng",
+  "definition": "合乎情理，自然产生某种结果。强调逻辑上顺畅。",
+  "note": "",
+  "memoryTip": "合乎逻辑！强调逻辑上！",
+  "confusable": "",
+  "example": "基础扎实，成功顺理成章。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "自然合理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "基础扎实，成功顺理成章。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "条件成熟，事情顺理成章。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "水到渠成",
+  "pinyin": "shuǐ dào qú chéng",
+  "pinyinRaw": "shuǐdàoqúchéng",
+  "definition": "水流到的地方自然形成沟渠。比喻条件成熟，事情自然成功。",
+  "note": "",
+  "memoryTip": "条件到了自然会成功。",
+  "confusable": "",
+  "example": "条件成熟，水到渠成。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "自然合理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "条件成熟，水到渠成。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "功夫下足，成功水到渠成。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "自然而然",
+  "pinyin": "zì rán ér rán",
+  "pinyinRaw": "zìránérrán",
+  "definition": "出于自然，不勉强。",
+  "note": "",
+  "memoryTip": "自然会发生。",
+  "confusable": "",
+  "example": "功到自然成，自然而然会成功。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "自然合理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "功到自然成，自然而然会成功。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "习惯自然而然就养成了。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "顺其自然",
+  "pinyin": "shùn qí zì rán",
+  "pinyinRaw": "shùnqízìrán",
+  "definition": "顺应事物本来的发展，不加干涉。",
+  "note": "",
+  "memoryTip": "不加干涉自然会……",
+  "confusable": "",
+  "example": "万事顺其自然。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "自然合理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "万事顺其自然。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "放宽心，顺其自然。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "防微杜渐",
+  "pinyin": "fáng wēi dù jiàn",
+  "pinyinRaw": "fángwēidùjiàn",
+  "definition": "在错误或坏事刚露苗头时就制止，不让其发展。",
+  "note": "",
+  "memoryTip": "苗头掐灭！是已经有苗头了，不让它扩大。",
+  "confusable": "防微杜渐（已有苗头，制止扩大）vs 防患未然（灾祸未发生前防备）vs 未雨绸缪（未发生，提前准备）。",
+  "example": "对小问题要防微杜渐。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "提前准备",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对小问题要防微杜渐。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "防微杜渐，把隐患消除在萌芽。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "常备不懈",
+  "pinyin": "cháng bèi bú xiè",
+  "pinyinRaw": "chángbèibúxiè",
+  "definition": "时刻准备着，毫不松懈。",
+  "note": "",
+  "memoryTip": "常态化！一直准备不懈怠（消防、疫情、军事等）。",
+  "confusable": "",
+  "example": "应急救援要常备不懈。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "提前准备",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "应急救援要常备不懈。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "军队常备不懈，枕戈待旦。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "有备无患",
+  "pinyin": "yǒu bèi wú huàn",
+  "pinyinRaw": "yǒubèiwúhuàn",
+  "definition": "事先有准备，就可以避免祸患。",
+  "note": "",
+  "memoryTip": "有防备准备，就不会有祸患（结果）。",
+  "confusable": "",
+  "example": "提前准备，有备无患。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "提前准备",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "提前准备，有备无患。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "有备无患，防患未然。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "曲突徙薪",
+  "pinyin": "qū tū xǐ xīn",
+  "pinyinRaw": "qūtūxǐxīn",
+  "definition": "把烟囱改成弯的，搬走灶旁的柴。比喻事先消除隐患。",
+  "note": "",
+  "memoryTip": "消除危险，做好准备！",
+  "confusable": "",
+  "example": "要曲突徙薪，防患未然。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "提前准备",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "要曲突徙薪，防患未然。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "与其亡羊补牢，不如曲突徙薪。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "高枕无忧",
+  "pinyin": "gāo zhěn wú yōu",
+  "pinyinRaw": "gāozhěnwúyōu",
+  "definition": "把枕头垫得高高的，安心地睡大觉。比喻无忧无虑。",
+  "note": "",
+  "memoryTip": "把枕头垫得高高的，安心睡大觉。",
+  "confusable": "",
+  "example": "隐患不除，无法高枕无忧。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "提前准备",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "隐患不除，无法高枕无忧。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能高枕无忧，掉以轻心。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "临渴掘井",
+  "pinyin": "lín kě jué jǐng",
+  "pinyinRaw": "línkějuéjǐng",
+  "definition": "到口渴时才挖井。比喻事到临头才想办法。",
+  "note": "",
+  "memoryTip": "事到临头才想办法。",
+  "confusable": "",
+  "example": "平时不准备，临时临渴掘井。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "提前准备",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "平时不准备，临时临渴掘井。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "临渴掘井，为时已晚。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "江心补漏",
+  "pinyin": "jiāng xīn bǔ lòu",
+  "pinyinRaw": "jiāngxīnbǔlòu",
+  "definition": "船到江心才补漏洞。比喻临到关头才设法补救，为时已晚。",
+  "note": "",
+  "memoryTip": "临到关头才设法补救，为时已晚。",
+  "confusable": "",
+  "example": "你再怎么补救也是江心补漏，为时已晚。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "提前准备",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "你再怎么补救也是江心补漏，为时已晚。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "江心补漏，悔之晚矣。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "亡羊补牢",
+  "pinyin": "wáng yáng bǔ láo",
+  "pinyinRaw": "wángyángbǔláo",
+  "definition": "羊丢了再补羊圈。比喻出了问题后及时补救。",
+  "note": "",
+  "memoryTip": "出了问题才想法补救。",
+  "confusable": "",
+  "example": "亡羊补牢，为时未晚。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "提前准备",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "亡羊补牢，为时未晚。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "出了问题要亡羊补牢。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "连成一气",
+  "pinyin": "lián chéng yī qì",
+  "pinyinRaw": "liánchéngyīqì",
+  "definition": "站在同一战线，互通声息，互相回护。",
+  "note": "",
+  "memoryTip": "站在同一战线，互通声息，互相回护。",
+  "confusable": "",
+  "example": "他们连成一气，互相包庇。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他们连成一气，互相包庇。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "几方连成一气，共同应对。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "尾大不掉",
+  "pinyin": "wěi dà bú diào",
+  "pinyinRaw": "wěidàbúdiào",
+  "definition": "①下属势力大，不好指挥；②事情前轻后重，难以驾驭。",
+  "note": "",
+  "memoryTip": "下属势力大不好指挥；或事情难以驾驭。",
+  "confusable": "",
+  "example": "机构臃肿，尾大不掉。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "机构臃肿，尾大不掉。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "部门尾大不掉，难以协调。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "各行其是",
+  "pinyin": "gè xíng qí shì",
+  "pinyinRaw": "gèxíngqíshì",
+  "definition": "各自按照自己认为对的做法去做。",
+  "note": "",
+  "memoryTip": "对的！不是说他们做坏事，是按照自己认为对的去做。",
+  "confusable": "各行其是（各按自己认为对的做，中性）vs 各自为政（不互相配合，贬义）。",
+  "example": "各部门各行其是，缺乏统筹。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "各部门各行其是，缺乏统筹。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能各行其是，要统一行动。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "各自为政",
+  "pinyin": "gè zì wéi zhèng",
+  "pinyinRaw": "gèzìwéizhèng",
+  "definition": "各自按自己的主张办事，不互相配合。",
+  "note": "",
+  "memoryTip": "小团体！（工作之间、单位之间、部门之间）。",
+  "confusable": "",
+  "example": "单位之间各自为政。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "单位之间各自为政。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各自为政，难以形成合力。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "人浮于事",
+  "pinyin": "rén fú yú shì",
+  "pinyinRaw": "rénfúyúshì",
+  "definition": "人员过多，超过实际工作的需要。",
+  "note": "",
+  "memoryTip": "人多活少！",
+  "confusable": "",
+  "example": "机构臃肿，人浮于事。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "机构臃肿，人浮于事。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "要解决人浮于事的问题。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "投闲置散",
+  "pinyin": "tóu xián zhì sàn",
+  "pinyinRaw": "tóuxiánzhìsàn",
+  "definition": "放在闲散的位置上，不受重用。",
+  "note": "",
+  "memoryTip": "不受重用！放在闲散的位置上。",
+  "confusable": "",
+  "example": "有才华却被投闲置散。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "有才华却被投闲置散。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "人才不能被投闲置散。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如鱼得水",
+  "pinyin": "rú yú dé shuǐ",
+  "pinyinRaw": "rúyúdéshuǐ",
+  "definition": "像鱼得到水一样。比喻得到适合自己发挥的环境或志同道合的人。",
+  "note": "",
+  "memoryTip": "适合发挥的环境。",
+  "confusable": "",
+  "example": "他到了新岗位如鱼得水。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他到了新岗位如鱼得水。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "人才在合适的平台如鱼得水。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "面面俱到",
+  "pinyin": "miàn miàn jù dào",
+  "pinyinRaw": "miànmiànjùdào",
+  "definition": "各方面都照顾得很周到。",
+  "note": "",
+  "memoryTip": "各方面都照顾得很好！",
+  "confusable": "",
+  "example": "工作要面面俱到。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "工作要面面俱到。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "考虑问题面面俱到。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
