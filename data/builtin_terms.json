@@ -4484,5 +4484,993 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "因噎废食",
+  "pinyin": "yīn yē fèi shí",
+  "pinyinRaw": "yīnyēfèishí",
+  "definition": "因为吃饭噎住了，索性连饭也不吃了。比喻因小失大，或因为怕出问题、怕受挫折就干脆不干了。",
+  "note": "",
+  "memoryTip": "因为不想被噎到，饭都不吃了——因小失大、因怕失败而不敢做。",
+  "confusable": "",
+  "example": "不能因为一次失败就因噎废食。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能因为一次失败就因噎废食。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改革不能因噎废食。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "背道而驰",
+  "pinyin": "bèi dào ér chí",
+  "pinyinRaw": "bèidàoérchí",
+  "definition": "朝着相反的方向奔驰。比喻彼此的方向、目标完全相反。",
+  "note": "",
+  "memoryTip": "两个主体！美国做法和全世界人民的愿望背道而驰。",
+  "confusable": "背道而驰（两个主体方向相反）vs 南辕北辙（一个主体行动与目的相反）。",
+  "example": "这种做法与群众利益背道而驰。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "方向相反",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这种做法与群众利益背道而驰。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他的言行与承诺背道而驰。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "分道扬镳",
+  "pinyin": "fēn dào yáng biāo",
+  "pinyinRaw": "fēndàoyángbiāo",
+  "definition": "分路而行。比喻目标不同，各走各的路或各干各的事。",
+  "note": "",
+  "memoryTip": "走向不同方向、各干各的（原本一起，后来分开）。",
+  "confusable": "",
+  "example": "两人意见不合，最终分道扬镳。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "方向相反",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两人意见不合，最终分道扬镳。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "公司与合作伙伴分道扬镳。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "相悖",
+  "pinyin": "xiāng bèi",
+  "pinyinRaw": "xiāngbèi",
+  "definition": "相互违背、相反。",
+  "note": "",
+  "memoryTip": "相互违背——与事实相悖、与初衷相悖。",
+  "confusable": "",
+  "example": "这种说法与事实相悖。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "方向相反",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这种说法与事实相悖。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "政策不能与民意相悖。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "相反",
+  "pinyin": "xiāng fǎn",
+  "pinyinRaw": "xiāngfǎn",
+  "definition": "事物的两个方面相互对立、互不相同。",
+  "note": "",
+  "memoryTip": "相互对立——结果与预期完全相反。",
+  "confusable": "",
+  "example": "结果与预期完全相反。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "方向相反",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "结果与预期完全相反。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "两种观点恰恰相反。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "饮鸩止渴",
+  "pinyin": "yǐn zhèn zhǐ kě",
+  "pinyinRaw": "yǐnzhènzhǐkě",
+  "definition": "喝毒酒解渴。比喻用错误的办法来解决眼前的困难，不顾严重后果。",
+  "note": "",
+  "memoryTip": "比缘木求鱼程度更严重！人都嘎了，命都没了——毒酒解渴。",
+  "confusable": "饮鸩止渴（用有害办法救急）比缘木求鱼（方法错误）程度更重、后果更严重。",
+  "example": "靠透支信用求发展，无异于饮鸩止渴。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "靠透支信用求发展，无异于饮鸩止渴。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "用破坏环境换增长，是饮鸩止渴。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "拔苗助长",
+  "pinyin": "bá miáo zhù zhǎng",
+  "pinyinRaw": "bámiáozhùzhǎng",
+  "definition": "把禾苗拔起来帮它长高。比喻违反事物发展规律，急于求成，反而坏事。",
+  "note": "",
+  "memoryTip": "教育孩子、政府让企业尽快成长，都不能违背客观规律。",
+  "confusable": "",
+  "example": "教育孩子不能拔苗助长。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "教育孩子不能拔苗助长。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "急于求成只会拔苗助长。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "越俎代庖",
+  "pinyin": "yuè zǔ dài páo",
+  "pinyinRaw": "yuèzǔdàipáo",
+  "definition": "越出本分，代替别人做事。比喻超出自己的职责范围去处理别人所管的事。",
+  "note": "",
+  "memoryTip": "超出职权做事！家长和孩子、政府和市场的关系。",
+  "confusable": "",
+  "example": "政府不能越俎代庖，代替市场做主。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "政府不能越俎代庖，代替市场做主。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各部门各司其职，不要越俎代庖。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "削足适履",
+  "pinyin": "xuē zú shì lǚ",
+  "pinyinRaw": "xuēzúshìlǚ",
+  "definition": "脚大鞋小，把脚削去一块来适应鞋子。比喻不合理地迁就现成条件，或不顾具体情况生搬硬套。",
+  "note": "",
+  "memoryTip": "削脚去适应鞋子！某地政府学习其他地区经验，生搬硬套。",
+  "confusable": "",
+  "example": "照搬别人经验而不顾实际，就是削足适履。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "照搬别人经验而不顾实际，就是削足适履。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "机械照搬只会削足适履。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "闭门造车",
+  "pinyin": "bì mén zào chē",
+  "pinyinRaw": "bìménzàochē",
+  "definition": "关起门来造车子。比喻脱离实际，只凭主观办事。",
+  "note": "",
+  "memoryTip": "封闭！不管外面的客观实际，只凭主观意识。",
+  "confusable": "",
+  "example": "做决策不能闭门造车。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "做决策不能闭门造车。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "闭门造车只会脱离实际。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "守株待兔",
+  "pinyin": "shǒu zhū dài tù",
+  "pinyinRaw": "shǒuzhūdàitù",
+  "definition": "守着树桩等兔子撞上来。比喻不主动努力、心存侥幸，想不劳而获；也比喻不知变通。",
+  "note": "",
+  "memoryTip": "两层意思：1 不劳而获；2 不知变通。",
+  "confusable": "",
+  "example": "不主动出击，只会守株待兔。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "寓言故事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不主动出击，只会守株待兔。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "市场瞬息万变，不能守株待兔。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "掩耳盗铃",
+  "pinyin": "yǎn ěr dào líng",
+  "pinyinRaw": "yǎněrdàolíng",
+  "definition": "捂住自己的耳朵去偷铃铛。比喻自己欺骗自己，以为骗得过别人。",
+  "note": "",
+  "memoryTip": "以为骗过了别人，其实只是骗自己，是真傻。",
+  "confusable": "",
+  "example": "掩盖问题就是掩耳盗铃。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "寓言故事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "掩盖问题就是掩耳盗铃。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这种自欺欺人的做法无异于掩耳盗铃。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "自欺欺人",
+  "pinyin": "zì qī qī rén",
+  "pinyinRaw": "zìqīqīrén",
+  "definition": "欺骗自己，也欺骗别人。",
+  "note": "",
+  "memoryTip": "自己骗自己，装傻（明知道他不爱你，还自欺欺人）。",
+  "confusable": "",
+  "example": "不承认问题是自欺欺人。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "寓言故事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不承认问题是自欺欺人。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "别再自欺欺人了。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "邯郸学步",
+  "pinyin": "hán dān xué bù",
+  "pinyinRaw": "hándānxuébù",
+  "definition": "到邯郸去学别人走路。比喻一味模仿别人，不但没学到本领，反而把自己原有的也丢了。",
+  "note": "",
+  "memoryTip": "自己会的也丢了！盲目模仿的后果。",
+  "confusable": "",
+  "example": "盲目照搬别人经验，只会邯郸学步。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "寓言故事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "盲目照搬别人经验，只会邯郸学步。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "学别人要结合自身实际，不能邯郸学步。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "东施效颦",
+  "pinyin": "dōng shī xiào pín",
+  "pinyinRaw": "dōngshīxiàopín",
+  "definition": "东施模仿西施皱眉。比喻盲目模仿，效果适得其反，反而出丑。",
+  "note": "",
+  "memoryTip": "反而出了丑！东施模仿西施皱眉，更丑了。",
+  "confusable": "",
+  "example": "盲目模仿只会东施效颦。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "寓言故事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "盲目模仿只会东施效颦。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这种生搬硬套的做法就是东施效颦。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "盲人摸象",
+  "pinyin": "máng rén mō xiàng",
+  "pinyinRaw": "mángrénmōxiàng",
+  "definition": "盲人摸大象，各摸到一部分就以为是全部。比喻看问题片面，以偏概全，缺乏整体判断。",
+  "note": "",
+  "memoryTip": "片面！没有整体判断——摸到大象腿就说大象像柱子。",
+  "confusable": "",
+  "example": "看问题不能盲人摸象。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "寓言故事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "看问题不能盲人摸象。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "只看到局部就下结论，是盲人摸象。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "与虎谋皮",
+  "pinyin": "yǔ hǔ móu pí",
+  "pinyinRaw": "yǔhǔmóupí",
+  "definition": "跟老虎商量要它的皮。比喻跟所谋求的对象有根本利害冲突，绝不可能成功。",
+  "note": "",
+  "memoryTip": "绝不可能！让坏人让渡权力，与老虎商量取下它的皮。",
+  "confusable": "",
+  "example": "他劝阻学生向清政府请愿，认为向清政府请愿是“与虎谋皮，无济于事”。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "寓言故事",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他劝阻学生向清政府请愿，认为向清政府请愿是“与虎谋皮，无济于事”。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "向垄断者求公平，无异于与虎谋皮。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "潜移默化",
+  "pinyin": "qián yí mò huà",
+  "pinyinRaw": "qiányímòhuà",
+  "definition": "人的思想、性格在不知不觉中受到感染、影响而发生变化。",
+  "note": "",
+  "memoryTip": "在一种氛围中、不知不觉中受到影响（不是直接说教）。",
+  "confusable": "潜移默化（无形的、不知不觉的影响）vs 耳濡目染（切实地听到看到后受影响）。",
+  "example": "优秀文化能潜移默化地影响人。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "教育影响",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "优秀文化能潜移默化地影响人。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "好习惯是潜移默化养成的。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "耳濡目染",
+  "pinyin": "ěr rú mù rǎn",
+  "pinyinRaw": "ěrrúmùrǎn",
+  "definition": "耳朵经常听到，眼睛经常看到，不知不觉受到影响。",
+  "note": "",
+  "memoryTip": "切实地！听到看到——在环境中天天见闻而受影响。",
+  "confusable": "",
+  "example": "他从小耳濡目染，爱上了戏曲。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "教育影响",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他从小耳濡目染，爱上了戏曲。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "在这样的家庭里耳濡目染，孩子自然爱读书。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如沐春风",
+  "pinyin": "rú mù chūn fēng",
+  "pinyinRaw": "rúmùchūnfēng",
+  "definition": "如同沐浴在和煦的春风里。比喻受到良好的教育、感化，感到温暖舒适。",
+  "note": "",
+  "memoryTip": "让人感到舒适，像沐浴在春风里。",
+  "confusable": "",
+  "example": "听他的课如沐春风。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "教育影响",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "听他的课如沐春风。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "和他相处让人如沐春风。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "润物无声",
+  "pinyin": "rùn wù wú shēng",
+  "pinyinRaw": "rùnwùwúshēng",
+  "definition": "春雨滋润万物而悄然无声。比喻潜移默化地影响、滋养。",
+  "note": "",
+  "memoryTip": "像春雨一样悄悄滋养，不知不觉产生影响。",
+  "confusable": "",
+  "example": "春风化雨，润物无声。广大学子在这堂“青春必修课”中厚植家国情怀、涵养进取品格。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "教育影响",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "春风化雨，润物无声。广大学子在这堂“青春必修课”中厚植家国情怀、涵养进取品格。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "好的教育如润物无声。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "成风化人",
+  "pinyin": "chéng fēng huà rén",
+  "pinyinRaw": "chéngfēnghuàrén",
+  "definition": "形成良好的风气，教化、感化人。",
+  "note": "",
+  "memoryTip": "社会风气！用良好风气感化人。",
+  "confusable": "",
+  "example": "让清廉文化在潜移默化中成风化人。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "教育影响",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "让清廉文化在潜移默化中成风化人。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "以榜样力量成风化人。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "耳提面命",
+  "pinyin": "ěr tí miàn mìng",
+  "pinyinRaw": "ěrtímiànmìng",
+  "definition": "提着耳朵当面教导。形容长辈殷切、严格地教诲。",
+  "note": "",
+  "memoryTip": "严格教导！提溜着耳朵批评教育。",
+  "confusable": "",
+  "example": "老师对我们耳提面命，谆谆教诲。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "批评",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "老师对我们耳提面命，谆谆教诲。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "父母耳提面命，望子成才。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "苦口婆心",
+  "pinyin": "kǔ kǒu pó xīn",
+  "pinyinRaw": "kǔkǒupóxīn",
+  "definition": "怀着像老婆婆一样慈爱的心肠，反复恳切地劝说。",
+  "note": "",
+  "memoryTip": "耐心反复地劝导他人。",
+  "confusable": "",
+  "example": "老师苦口婆心地劝他改正。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "批评",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "老师苦口婆心地劝他改正。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "父母苦口婆心，他却听不进去。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "循循善诱",
+  "pinyin": "xún xún shàn yòu",
+  "pinyinRaw": "xúnxúnshànyòu",
+  "definition": "善于有步骤地引导别人学习。",
+  "note": "",
+  "memoryTip": "有步骤！教育得法，善于一步步引导他人。",
+  "confusable": "",
+  "example": "老师循循善诱，学生受益匪浅。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "批评",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "老师循循善诱，学生受益匪浅。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "好的教育在于循循善诱。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "诲人不倦",
+  "pinyin": "huì rén bù juàn",
+  "pinyinRaw": "huìrénbùjuàn",
+  "definition": "教导别人不知疲倦。形容教导有耐心、不厌倦。",
+  "note": "",
+  "memoryTip": "不知疲倦！多形容老师。",
+  "confusable": "",
+  "example": "老师诲人不倦，深受爱戴。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "批评",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "老师诲人不倦，深受爱戴。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他诲人不倦的精神令人敬佩。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "春风化雨",
+  "pinyin": "chūn fēng huà yǔ",
+  "pinyinRaw": "chūnfēnghuàyǔ",
+  "definition": "适宜万物生长的春风和滋润万物的雨水。比喻良好的教育、潜移默化的影响。",
+  "note": "",
+  "memoryTip": "暖心！像春风化雨一样温暖人心、滋养人。",
+  "confusable": "",
+  "example": "这一暖心工程，如同春风化雨，为千家万户带来了期盼已久的福祉。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "教育影响",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这一暖心工程，如同春风化雨，为千家万户带来了期盼已久的福祉。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老师的教诲如春风化雨。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "和风细雨",
+  "pinyin": "hé fēng xì yǔ",
+  "pinyinRaw": "héfēngxìyǔ",
+  "definition": "温和的风，细小的雨。比喻方式和缓、态度耐心、不粗暴（常用于批评的语境）。",
+  "note": "",
+  "memoryTip": "耐心！和颜悦色！用在批评的语境。",
+  "confusable": "",
+  "example": "和风细雨式的管理是否也遇到过一些解决不了的问题？",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "教育影响",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "和风细雨式的管理是否也遇到过一些解决不了的问题？",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "批评要像和风细雨，让人易于接受。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "醍醐灌顶",
+  "pinyin": "tí hú guàn dǐng",
+  "pinyinRaw": "tíhúguàndǐng",
+  "definition": "用酥油浇到头上。比喻听到高明的见解，受到很大启发，彻底醒悟。",
+  "note": "",
+  "memoryTip": "透了！顿悟！一下就想通了。",
+  "confusable": "",
+  "example": "他一番话让我醍醐灌顶。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "教育影响",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他一番话让我醍醐灌顶。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "听了专家的讲解，我如醍醐灌顶。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "振聋发聩",
+  "pinyin": "zhèn lóng fā kuì",
+  "pinyinRaw": "zhènlóngfākuì",
+  "definition": "发出很大的声响，使耳聋的人也能听见。比喻用语言文字唤醒糊涂麻木的人。",
+  "note": "",
+  "memoryTip": "唤醒麻木的人们（一般形容过去、民国时期等，不用于现在的人）。",
+  "confusable": "",
+  "example": "他的演讲振聋发聩。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "教育影响",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的演讲振聋发聩。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这篇文章振聋发聩，发人深省。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如履薄冰",
+  "pinyin": "rú lǚ bó bīng",
+  "pinyinRaw": "rúlǚbóbīng",
+  "definition": "像走在薄冰上一样。比喻行事极为谨慎，存有戒心。",
+  "note": "",
+  "memoryTip": "非常谨慎！战战兢兢的样子。",
+  "confusable": "",
+  "example": "对待安全要如履薄冰。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "谨慎认真",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对待安全要如履薄冰。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他做事如履薄冰，一丝不苟。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "专心致志",
+  "pinyin": "zhuān xīn zhì zhì",
+  "pinyinRaw": "zhuānxīnzhìzhì",
+  "definition": "一心一意，集中精神。",
+  "note": "",
+  "memoryTip": "短时间的状态！看蚂蚁、听一节课、做笔记等（不能说“专心致志四十年”）。",
+  "confusable": "专心致志、聚精会神都指短时间集中精神，不能修饰长期状态。",
+  "example": "他专心致志地做笔记。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "钻研学习",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他专心致志地做笔记。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "同学们专心致志地听讲。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "聚精会神",
+  "pinyin": "jù jīng huì shén",
+  "pinyinRaw": "jùjīnghuìshén",
+  "definition": "集中精神，注意力高度集中。",
+  "note": "",
+  "memoryTip": "短时间的状态！和专心致志同义，都指短时专注。",
+  "confusable": "",
+  "example": "大家聚精会神地看比赛。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "钻研学习",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大家聚精会神地看比赛。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他聚精会神地听课。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "苦心孤诣",
+  "pinyin": "kǔ xīn gū yì",
+  "pinyinRaw": "kǔxīngūyì",
+  "definition": "费尽心思钻研或经营，达到别人达不到的境地。形容造诣很高。",
+  "note": "",
+  "memoryTip": "造诣高！用心研究且达到很高高度。",
+  "confusable": "",
+  "example": "他苦心孤诣，终成大家。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "钻研学习",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他苦心孤诣，终成大家。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这是她苦心孤诣之作。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "废寝忘食",
+  "pinyin": "fèi qǐn wàng shí",
+  "pinyinRaw": "fèiqǐnwàngshí",
+  "definition": "顾不得睡觉，忘记吃饭。形容非常专心努力。",
+  "note": "",
+  "memoryTip": "夸！夸别人可以，但不能要求别人（导师说“你写论文要废寝忘食”×）。",
+  "confusable": "",
+  "example": "他废寝忘食地工作。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "钻研学习",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他废寝忘食地工作。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "为了备考，他废寝忘食。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "皓首穷经",
+  "pinyin": "hào shǒu qióng jīng",
+  "pinyinRaw": "hàoshǒuqióngjīng",
+  "definition": "头发白了仍在钻研经书。形容活到老学到老，长期钻研。",
+  "note": "",
+  "memoryTip": "学到老！头都白了还在钻研。",
+  "confusable": "",
+  "example": "他皓首穷经，著述颇丰。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "钻研学习",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他皓首穷经，著述颇丰。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老学者皓首穷经，令人敬佩。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "挖空心思",
+  "pinyin": "wā kōng xīn sī",
+  "pinyinRaw": "wākōngxīnsī",
+  "definition": "想尽一切办法。多含贬义。",
+  "note": "",
+  "memoryTip": "贬义词！想尽办法（多用于不好的目的）。",
+  "confusable": "",
+  "example": "他挖空心思地钻空子。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "工作学习状态",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他挖空心思地钻空子。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "一些人挖空心思谋私利。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "夜以继日",
+  "pinyin": "yè yǐ jì rì",
+  "pinyinRaw": "yèyǐjìrì",
+  "definition": "晚上接着白天，日夜不停。形容加紧工作或学习。",
+  "note": "",
+  "memoryTip": "日夜不停歇。",
+  "confusable": "",
+  "example": "建设者们夜以继日地工作。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "工作学习状态",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "建设者们夜以继日地工作。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他夜以继日地复习备考。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
