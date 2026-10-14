@@ -45,11 +45,17 @@
         <div>${U.nl2br(s.body)}</div>`)
       .join("");
 
-    const exampleHtml = (w.example || "").trim() ? `
+    const exList = (w.examples && w.examples.length)
+      ? w.examples
+      : ((w.example || "").trim() ? [{ text: w.example, source: w.exampleSource, url: w.exampleUrl }] : []);
+
+    const exampleHtml = exList.length ? `
       <div class="section-title">📖 例句</div>
-      <div style="color:var(--text)">${U.nl2br(w.example)}</div>
-      ${w.exampleSource ? `<div class="small">—— 来源：${U.escapeHtml(w.exampleSource)}</div>` : ""}
-      ${w.exampleUrl ? `<div class="small"><a href="${U.escapeHtml(w.exampleUrl)}" target="_blank" rel="noopener">查看原文 ↗</a></div>` : ""}` : "";
+      ${exList.map((ex, i) => `
+        <div class="example-item">
+          <div>${i + 1}. ${U.nl2br(ex.text || "")}</div>
+          ${ex.source ? `<div class="small">—— 来源：${U.escapeHtml(ex.source)}${ex.url ? ` · <a href="${U.escapeHtml(ex.url)}" target="_blank" rel="noopener">查看原文 ↗</a>` : ""}</div>` : ""}
+        </div>`).join("")}` : "";
 
     document.getElementById("detail-body").innerHTML = `
       <div class="card">

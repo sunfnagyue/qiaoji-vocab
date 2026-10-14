@@ -156,6 +156,8 @@ textarea { min-height: 72px; resize: vertical; }
 
 /* 详情板块 */
 .section-title { font-weight: bold; color: var(--text); margin: 14px 0 4px; font-size: 16px; }
+.example-item { margin: 8px 0; padding-left: 2px; }
+.example-item .small { margin-top: 2px; }
 .section-title.tip { color: var(--primary); }
 .section-title.conf { color: var(--wrong); }
 .muted { color: var(--text-sub); }

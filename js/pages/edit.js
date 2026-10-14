@@ -78,6 +78,16 @@
     });
 
     document.getElementById("btn-save").onclick = async () => {
+      const example = document.getElementById("f-example").value.trim();
+      const exampleSource = document.getElementById("f-source").value.trim();
+      const exampleUrl = document.getElementById("f-url").value.trim();
+      // 更新第一条例句，其余例句保留
+      const examples = (w.examples && w.examples.length ? w.examples.slice() : []);
+      if (example) {
+        const first = { text: example, source: exampleSource, url: exampleUrl };
+        if (examples.length) examples[0] = first;
+        else examples.push(first);
+      }
       const data = {
         word: wordEl.value.trim(),
         pinyin: pinyinEl.value.trim(),
@@ -85,9 +95,10 @@
         memoryTip: document.getElementById("f-tip").value.trim(),
         confusable: document.getElementById("f-conf").value.trim(),
         note: document.getElementById("f-note").value.trim(),
-        example: document.getElementById("f-example").value.trim(),
-        exampleSource: document.getElementById("f-source").value.trim(),
-        exampleUrl: document.getElementById("f-url").value.trim(),
+        example: example,
+        exampleSource: exampleSource,
+        exampleUrl: exampleUrl,
+        examples: examples,
         tags: document.getElementById("f-tags").value.trim(),
       };
       if (!data.word) { setMsg("请填写词语"); return; }

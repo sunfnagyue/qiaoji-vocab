@@ -11,7 +11,34 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "发展产业要因地制宜，不能盲目照搬别处经验。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各地要因地制宜发展特色产业，走出一条符合本地实际的发展路子。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "推进乡村振兴要坚持因地制宜，不能搞一刀切。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "因地制宜 ,针对的是矛盾的特殊性,突出的是策略的灵活性,而不是为“自行其是、搞本位主义”开绿灯。",
+    "source": "人民日报",
+    "url": "https://paper.people.com.cn/rmzk/pc/content/202601/12/content_30134212.html"
+   },
+   {
+    "text": "12月8日召开的中央政治局会议强调“ 因地制宜 做好经济工作”。",
+    "source": "人民日报",
+    "url": "https://paper.people.com.cn/rmrb/pad/content/202512/14/content_30120284.html"
+   }
+  ]
  },
  {
   "word": "因势利导",
@@ -25,7 +52,34 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对群众反映的问题要因势利导、妥善化解。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对群众的合理诉求要因势利导，及时转化为推动工作的动力。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "宣传工作要因势利导，把正能量做大做强。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "“谋划‘十五五’时期经济社会发展,要前瞻性把握国际形势发展变化对我国的影响, 因势利导 对经济布局进行调整优化。",
+    "source": "人民网",
+    "url": "http://cpc.people.com.cn/n1/2025/0501/c64387-40472155.html"
+   },
+   {
+    "text": "我们 因势利导 ,谋划打造了许家山石头记小镇、桑洲南山花屿小镇、深甽温泉度假小镇,等等。",
+    "source": "人民网",
+    "url": "http://opinion.people.com.cn/GB/n1/2016/0524/c1003-28373159.html"
+   }
+  ]
  },
  {
   "word": "循序渐进",
@@ -39,7 +93,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "学习要循序渐进，不能急于求成。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改革要循序渐进、稳扎稳打，不能操之过急。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "学习新知识必须循序渐进，由浅入深、由易到难。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "举一反三",
@@ -53,7 +124,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "要善于举一反三，把学到的知识灵活运用。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "要善于举一反三，从一个问题的解决中总结出普遍经验。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "整改工作要举一反三、标本兼治，防止类似问题再次发生。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "触类旁通",
@@ -67,7 +155,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "学好原理才能触类旁通、应对各类题目。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "学习要善于触类旁通，把学到的知识灵活运用到实际工作中。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "掌握了基本方法，就能触类旁通，解决更多同类问题。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "融会贯通",
@@ -81,7 +186,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "只有把知识融会贯通，才能灵活解决问题。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "要把理论学习与实际工作融会贯通，做到学以致用。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "只有把各科知识融会贯通，才能形成系统的知识体系。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "相辅相成",
@@ -95,7 +217,34 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "经济发展与生态保护相辅相成、不可偏废。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "经济发展与生态保护相辅相成、有机统一。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "物质文明和精神文明相辅相成，不可偏废。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "医师节来临之际,记者走进医院采访四名上海青年医生,他们在繁忙工作之余,保持着业余爱好,医术与人文 相辅相成 ,医病之时也常医 心 。",
+    "source": "人民网",
+    "url": "http://sh.people.com.cn/n2/2026/0819/c176737-41672312.html"
+   },
+   {
+    "text": "推动基础研究和应用研究 相辅相成 -基础研究和应用研究是哲学社会科学研究的两个重要方面。",
+    "source": "新华网",
+    "url": "http://www.xinhuanet.com/tech/20210820/2687d10ce1f746bdbf152dccc3e1a952/c.html"
+   }
+  ]
  },
  {
   "word": "相得益彰",
@@ -109,7 +258,34 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "理论与实践相得益彰，缺一不可。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "线上和线下服务相得益彰，共同提升了办事效率。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "传统媒体与新媒体相得益彰，形成立体化传播格局。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "站在改革开放新的历史起点上,习近平总书记明确指出,必须 坚定不移深化各方面改革,坚定不移扩大开放,使改革和开放相互促进、 相得益彰 。",
+    "source": "求是网",
+    "url": "https://www.qstheory.cn/wp/2019-03/09/c_1124212751.htm"
+   },
+   {
+    "text": "2018年9月,习近平总书记到查干湖考察,作出 保护生态和发展生态旅游 相得益彰 ,这条路要扎实走下去 的殷切嘱托。",
+    "source": "新华网",
+    "url": "http://jl.xinhuanet.com/20241029/23d97ae967914e278ba467c075f8168a/c.html"
+   }
+  ]
  },
  {
   "word": "珠联璧合",
@@ -123,7 +299,34 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "传统文化与现代科技珠联璧合，焕发出新活力。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "政府、市场两只手珠联璧合，共同推动经济高质量发展。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "产学研珠联璧合，加速了科技成果转化。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "诗 和 远方 的 珠联璧合 ,近年来在 中国诗歌之乡 巩义市大放异彩。",
+    "source": "求是网",
+    "url": "https://www.qstheory.cn/dukan/hqwg/2020-07/21/c_1126265446.htm"
+   },
+   {
+    "text": "记者来到红河哈尼梯田,展现在眼前的是梯田与森林 珠联璧合 ,蓝天白云与清澈水面相映成趣的美好景象。",
+    "source": "求是网",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-03/16/c_1128468374.htm"
+   }
+  ]
  },
  {
   "word": "浑然一体",
@@ -137,7 +340,29 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "建筑与自然景观浑然一体，十分和谐。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "城乡融合发展使城市与乡村浑然一体、互促共进。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这部作品把思想性与艺术性浑然一体地结合起来。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "学史明理、学史增信、学史崇德、学史力行,这四者相互关联、 浑然一体 。",
+    "source": "求是网",
+    "url": "https://www.qstheory.cn/qshyjx/2021-04/12/c_1127320081.htm"
+   }
+  ]
  },
  {
   "word": "水乳交融",
@@ -151,7 +376,29 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "干部与群众水乳交融、亲如一家。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "党同人民群众水乳交融，形成了不可分割的血肉联系。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "基层干部与群众水乳交融，结下了深厚情谊。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "如今,沂蒙儿女的故事仍被久久传唱,军民 水乳交融 、生死与共铸就的沂蒙精神更是历久弥新,焕发出新的光芒。",
+    "source": "新华网",
+    "url": "http://www.xinhuanet.com/politics/2021-11/04/c_1128031316.htm?ivk_sa=1023197a"
+   }
+  ]
  },
  {
   "word": "推陈出新",
@@ -165,7 +412,34 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "文化要在继承传统的基础上推陈出新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "传统文化要在继承中推陈出新，焕发新的生机活力。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "产品设计不断推陈出新，才能满足消费者日益多元的需求。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "国家发改委产业经济与技术经济研究所研究员洪群联说,首发经济作为一种新兴经济模式,正通过 推陈出新 助推企业加强创新,促进产业提质增效。",
+    "source": "人民网",
+    "url": "http://finance.people.com.cn/n1/2024/1226/c1004-40389877.html"
+   },
+   {
+    "text": "文明永续发展,既需要薪火相传、代代守护,更需要顺时应势、 推陈出新 。",
+    "source": "求是网",
+    "url": "https://www.qstheory.cn/llwx/2019-05/19/c_1124513695.htm"
+   }
+  ]
  },
  {
   "word": "革故鼎新",
@@ -179,7 +453,34 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "改革就是要革故鼎新、破除积弊。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改革就是要革故鼎新，破除体制机制障碍。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "唯有革故鼎新，才能跟上时代发展的步伐。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "革故鼎新 焕新颜 ——中国石油长庆油田 十四五 高质量发展的创新密码 来源:求是网作者:刘娟 栗倩玮 肖丹2025-12-25 10:12:17隆冬时节,捷报频传。",
+    "source": "求是网",
+    "url": "https://www.qstheory.cn/20251225/2ee8bee6e15544f7a32489378a690f0c/c.html"
+   },
+   {
+    "text": "革故鼎新 这个成语就是由此而来.从思想的层面看,古人很早就认识到革新的道理。",
+    "source": "求是网",
+    "url": "https://www.qstheory.cn/qshyjx/2020-12/11/c_1126847101.htm"
+   }
+  ]
  },
  {
   "word": "标新立异",
@@ -193,7 +494,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "设计不能一味标新立异，还要兼顾实用。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "创新不能为了标新立异而脱离实际。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "设计方案标新立异，赢得了评委的一致好评。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "独树一帜",
@@ -207,7 +525,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的作品风格独树一帜，辨识度很高。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "该企业在绿色制造领域独树一帜，走在行业前列。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他的书法风格独树一帜，自成一派。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "别具一格",
@@ -221,7 +556,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这组展品设计别具一格，令人印象深刻。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这场展览别具一格，吸引了众多观众前来参观。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "古镇建筑别具一格，保留了浓郁的江南水乡特色。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "别开生面",
@@ -235,7 +587,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这次活动形式别开生面，很受欢迎。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "学校用别开生面的形式开展思政教育，深受学生欢迎。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "今年的招商大会别开生面，采用了线上线下相结合的方式。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "耳目一新",
@@ -249,7 +618,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "新班子带来新气象，令人耳目一新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新版政务App界面清爽、操作便捷，让人耳目一新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "会场布置耳目一新，处处体现着创新理念。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "焕然一新",
@@ -263,7 +649,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "改造后的小区环境焕然一新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "经过环境整治，村容村貌焕然一新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "机构改革后，部门精神面貌焕然一新，工作效率明显提升。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "波澜壮阔",
@@ -277,7 +680,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "改革历程波澜壮阔、成就举世瞩目。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改革开放四十多年来，中国发生了波澜壮阔的历史性变革。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这部影片展现了波澜壮阔的革命历程。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "引人注目",
@@ -291,7 +711,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这组数据格外引人注目。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "本次博览会上，国产大飞机格外引人注目。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "近年来，我国在科技创新方面取得的成就引人注目。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "举足轻重",
@@ -305,7 +742,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "制造业在国民经济中举足轻重。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "制造业在国民经济中具有举足轻重的地位。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他在团队中扮演着举足轻重的角色。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "不可或缺",
@@ -319,7 +773,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "创新是高质量发展不可或缺的动力。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "人才是推动创新不可或缺的第一资源。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "诚信是市场经济不可或缺的基石。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "至关重要",
@@ -333,7 +804,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "食品安全对民生至关重要。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "粮食安全对国家发展至关重要。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "良好的营商环境对招商引资至关重要。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "无足轻重",
@@ -347,7 +835,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "细节看似无足轻重，往往决定成败。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "细节看似无足轻重，却往往决定成败。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "任何一项工作都不能当作无足轻重的小事来对待。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "首当其冲",
@@ -361,7 +866,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "变革中传统行业往往首当其冲。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "台风登陆后，沿海地区首当其冲。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "传统行业在数字化转型中首当其冲，面临较大压力。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "一马当先",
@@ -375,7 +897,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "党员干部要一马当先、冲锋在前。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "党员在急难险重任务中一马当先、冲锋在前。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "该企业在技术创新上一马当先，引领行业发展。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "责无旁贷",
@@ -389,7 +928,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "保护环境，人人责无旁贷。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "保护生态环境，各级政府责无旁贷。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "维护国家安全，人人有责、责无旁贷。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "义不容辞",
@@ -403,7 +959,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "支援灾区，我们义不容辞。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "支援灾区、抢险救灾，人民子弟兵义不容辞。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "承担社会责任，是企业义不容辞的义务。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "当仁不让",
@@ -417,7 +990,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "面对困难任务，他当仁不让地挑起重担。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对急难险重任务，年轻干部当仁不让、挺身而出。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "推动技术攻关，科研人员当仁不让。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "全力以赴",
@@ -431,7 +1021,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "各部门要全力以赴完成既定目标。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各地全力以赴做好防汛救灾工作。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "全体工作人员全力以赴，确保大会顺利召开。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "殚精竭虑",
@@ -445,7 +1052,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "科研人员殚精竭虑，攻克技术难关。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "科研团队殚精竭虑，攻克了一个又一个技术难题。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他为教育事业殚精竭虑，倾注了毕生心血。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "呕心沥血",
@@ -459,7 +1083,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "老一辈科学家为事业呕心沥血一生。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老专家呕心沥血数十年，培养了一大批优秀人才。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这部著作凝聚了作者呕心沥血的研究成果。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "兢兢业业",
@@ -473,7 +1114,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他几十年如一日，兢兢业业地工作。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他几十年如一日，兢兢业业地工作，从未懈怠。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "基层工作者兢兢业业、任劳任怨，守护着一方安宁。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "恪尽职守",
@@ -487,7 +1145,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "每位工作人员都要恪尽职守、履职尽责。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "值班人员恪尽职守，确保节假日期间安全稳定。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "医务人员恪尽职守，全力守护人民群众生命健康。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "一丝不苟",
@@ -501,7 +1176,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "质检员对每道工序都一丝不苟。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "质检人员一丝不苟，严把产品质量关。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他对每一项数据都一丝不苟，确保准确无误。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "精益求精",
@@ -515,7 +1207,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "工匠精神就是精益求精、追求卓越。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "工匠们精益求精，把产品做到极致。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "科研工作要精益求精，容不得半点马虎。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "推波助澜",
@@ -529,7 +1238,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能对不正之风推波助澜。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "网络谣言推波助澜，加剧了社会恐慌情绪。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "个别自媒体为博眼球推波助澜，扰乱舆论生态。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "雪上加霜",
@@ -543,7 +1269,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "灾后重建又遇暴雨，可谓雪上加霜。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "疫情叠加洪灾，让受灾群众雪上加霜。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "原材料涨价使本就经营困难的中小企业雪上加霜。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "落井下石",
@@ -557,7 +1300,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "朋友有难时应伸出援手，而非落井下石。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "在别人遇到困难时落井下石，是极不道德的行为。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对竞争对手的失误，与其落井下石，不如良性竞争。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "釜底抽薪",
@@ -571,7 +1331,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "治理乱象要釜底抽薪，从源头抓起。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "要从源头上釜底抽薪，彻底铲除安全隐患。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "治理污染要釜底抽薪，关停高耗能高排放企业。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "标本兼治",
@@ -585,7 +1362,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "生态环境治理要坚持标本兼治。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "安全生产要标本兼治，既要解决眼前问题，也要建立长效机制。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "作风建设要标本兼治，从源头上防止问题反弹。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "立竿见影",
@@ -599,7 +1393,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "新政策落地后成效立竿见影。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "优化审批流程后，企业办事效率立竿见影地提高了。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "减税降费政策立竿见影，有效减轻了企业负担。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "一蹴而就",
@@ -613,7 +1424,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "改革不可能一蹴而就，需要久久为功。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "科技创新不可能一蹴而就，需要长期积累和持续投入。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "治理污染是一项长期任务，不能指望一蹴而就。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "急于求成",
@@ -627,7 +1455,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "学习要循序渐进，不能急于求成。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "抓工作不能急于求成，要尊重规律、稳扎稳打。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "培养人才不能急于求成，需要耐心和长期投入。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "急功近利",
@@ -641,7 +1486,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "发展不能急功近利、竭泽而渔。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "搞建设不能急功近利，要树立正确的政绩观。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "做学问最忌讳急功近利，要坐得住冷板凳。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "好高骛远",
@@ -655,7 +1517,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "做事要脚踏实地，不要好高骛远。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "制定目标要立足实际，不能好高骛远。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "年轻人要脚踏实地，切勿好高骛远。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "脚踏实地",
@@ -669,7 +1548,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "青年要脚踏实地，一步一个脚印。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "幸福都是奋斗出来的，要脚踏实地、真抓实干。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他从基层干起，脚踏实地，一步一个脚印。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "实事求是",
@@ -683,7 +1579,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "调查研究要实事求是、深入一线。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "调查研究要坚持实事求是，全面掌握真实情况。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "评价工作要实事求是，既看成绩也看不足。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "高瞻远瞩",
@@ -697,7 +1610,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "战略规划要高瞻远瞩、着眼长远。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "战略谋划要高瞻远瞩，着眼长远发展。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "高瞻远瞩的战略布局，为发展指明了方向。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "深谋远虑",
@@ -711,7 +1641,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "重大决策必须深谋远虑、通盘考虑。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "推进重大工程要深谋远虑，科学论证、审慎决策。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他做事深谋远虑，总能提前预见各种风险。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "未雨绸缪",
@@ -725,7 +1672,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "防汛工作要未雨绸缪、提前部署。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "防汛工作要未雨绸缪，提前做好各项准备。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "企业发展要未雨绸缪，及早防范市场风险。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "防患未然",
@@ -739,7 +1703,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "安全生产要防患未然，把隐患消除在萌芽。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "安全生产要防患未然，把隐患消灭在萌芽状态。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "加强应急演练，做到防患未然。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "居安思危",
@@ -753,7 +1734,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "越是形势向好，越要居安思危。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "越是形势好的时候，越要居安思危、增强忧患意识。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "企业要居安思危，始终保持危机感。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "见微知著",
@@ -767,7 +1765,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "从苗头性问题入手，见微知著、防微杜渐。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "要从苗头性问题中见微知著，及时防范化解风险。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "领导干部要善于见微知著，从小事中发现问题。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "明察秋毫",
@@ -781,7 +1796,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "执法人员要明察秋毫，不放过任何线索。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "纪检监察干部要明察秋毫，不放过任何违纪线索。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他办案明察秋毫，任何细节都逃不过他的眼睛。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "提纲挈领",
@@ -795,7 +1827,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他提纲挈领地总结了会议精神。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "报告提纲挈领，把主要观点讲得清清楚楚。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "学习文件要提纲挈领，抓住核心要义。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "统筹兼顾",
@@ -809,7 +1858,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "谋划工作要统筹兼顾、协调推进。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "推进各项工作要统筹兼顾，突出重点、带动全局。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "发展要统筹兼顾经济效益与社会效益。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "顾此失彼",
@@ -823,7 +1889,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "工作安排要科学合理，避免顾此失彼。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "工作安排要避免顾此失彼，做到全面协调。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "只抓发展不顾环保，就会顾此失彼。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "捉襟见肘",
@@ -837,7 +1920,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "资金不足导致项目建设捉襟见肘。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "经费捉襟见肘，影响了项目的顺利推进。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "人手不足使基层工作捉襟见肘。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "力不从心",
@@ -851,7 +1951,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "想多干些实事，却常常感到力不从心。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "年纪大了，做起繁重的工作有些力不从心。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对日益复杂的工作，他感到有些力不从心。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "任重道远",
@@ -865,7 +1982,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "实现乡村振兴任重道远。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "实现乡村振兴任重道远，需要接续奋斗。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "生态环境保护任重道远，必须久久为功。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "错综复杂",
@@ -879,7 +2013,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "形势错综复杂，必须保持清醒头脑。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "国际形势错综复杂，面临许多不确定因素。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "案情错综复杂，办案人员抽丝剥茧、深入调查。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "一目了然",
@@ -893,7 +2044,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "数据可视化让趋势一目了然。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "图表化呈现让数据一目了然，便于分析决策。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "改造后的办事指南一目了然，群众一看就懂。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "一成不变",
@@ -907,7 +2075,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "事物是发展变化的，不能一成不变地看问题。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "形势在发展变化，不能一成不变地看问题。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "政策要根据实际及时调整，不能一成不变。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "刻舟求剑",
@@ -921,7 +2106,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "形势已变，仍按老办法办事无异于刻舟求剑。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对新情况新问题，不能刻舟求剑、墨守成规。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "照搬过去的经验，无异于刻舟求剑。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "缘木求鱼",
@@ -935,7 +2137,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "方向错了再努力也是缘木求鱼。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不解决根本问题而一味追求形式，无异于缘木求鱼。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "靠牺牲环境换取增长，是缘木求鱼的做法。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "南辕北辙",
@@ -949,7 +2168,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "若措施与目标南辕北辙，结果必然适得其反。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "目标与手段南辕北辙，再努力也达不到效果。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "如果方向错了，就会南辕北辙、越走越远。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "本末倒置",
@@ -963,7 +2199,24 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "重形式轻实效是本末倒置。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "把手段当目的，是本末倒置的做法。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "重形式轻实效，是本末倒置、劳而无功。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  },
  {
   "word": "喧宾夺主",
@@ -977,6 +2230,23 @@ window.BUILTIN_TERMS = [
   "exampleSource": "参考示例",
   "exampleUrl": "",
   "tags": "公考",
-  "source": "builtin"
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "装饰过于华丽反而喧宾夺主。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "文章主题被无关细节喧宾夺主，冲淡了中心思想。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "宣传要突出主题，不能让形式喧宾夺主。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];

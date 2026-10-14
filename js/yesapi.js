@@ -115,6 +115,13 @@
       lapses: num(r.lapses),
       fav: num(r.fav) !== 0,
       lastWrongAt: r.lastWrongAt ? num(r.lastWrongAt) : null,
+      examples: (function () {
+        try {
+          const a = JSON.parse(r.examples || "[]");
+          if (Array.isArray(a)) return a;
+        } catch (e) { /* 忽略，走旧字段兜底 */ }
+        return r.example ? [{ text: r.example, source: r.exampleSource || "", url: r.exampleUrl || "" }] : [];
+      })(),
     };
   }
 
@@ -132,6 +139,7 @@
       reviewCount: "reviewCount", correctCount: "correctCount",
       wrongCount: "wrongCount", lapses: "lapses",
       fav: "fav", lastWrongAt: "lastWrongAt",
+      examples: "examples",
     };
     const out = {};
     Object.keys(fields).forEach((k) => {
@@ -140,6 +148,7 @@
       if (v instanceof Date) v = String(v.getTime());
       else if (k === "dueAt" || k === "lastReviewedAt" || k === "lastWrongAt") v = String(v);
       else if (k === "enabled" || k === "fav") v = v ? 1 : 0;
+      else if (k === "examples") v = JSON.stringify(v || []);
       out[map[k]] = v;
     });
     return out;
@@ -454,11 +463,37 @@
         example: t.example,
         exampleSource: t.exampleSource,
         exampleUrl: t.exampleUrl,
+        examples: t.examples,
         tags: t.tags,
         source: "builtin",
       })));
     }
     return true;
+  };
+
+  // 老用户已有内置词库：把新增的权威例句补进内置词条（只更新未改过的占位例句）
+  DB.enrichExamples = async function () {
+    const KEY = "examples_v";
+    if ((await DB.getSetting(KEY, "0")) === "2") return;
+    const d = await post(Object.assign({}, auth(), {
+      s: "App.Table.FreeQuery",
+      model_name: WORD,
+      where: [["uid", "=", uid()], ["src", "=", "builtin"]],
+      perpage: 10000,
+    }));
+    const byWord = {};
+    (d.list || []).forEach((r) => { byWord[r.word] = r; });
+    for (const t of BUILTIN_TERMS) {
+      const row = byWord[t.word];
+      if (!row) continue;
+      // 例句仍是默认占位才更新，避免覆盖用户手动改过的
+      if (row.exampleSource && row.exampleSource !== "参考示例") continue;
+      await DB.updateWord(row.id, {
+        example: t.example, exampleSource: t.exampleSource, exampleUrl: t.exampleUrl,
+        examples: t.examples,
+      });
+    }
+    await DB.setSetting(KEY, "2");
   };
 
   window.DB = DB;
