@@ -5472,5 +5472,915 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "焚膏继晷",
+  "pinyin": "fén gāo jì guǐ",
+  "pinyinRaw": "féngāojìguǐ",
+  "definition": "点燃灯烛来接替日光照明。形容夜以继日地学习或工作。",
+  "note": "",
+  "memoryTip": "太阳下山了就点灯学习——焚膏（点灯油）继晷（接上日光）。",
+  "confusable": "",
+  "example": "他焚膏继晷，苦读不辍。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "勤奋刻苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他焚膏继晷，苦读不辍。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "科研人员焚膏继晷，攻克难关。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "夙兴夜寐",
+  "pinyin": "sù xīng yè mèi",
+  "pinyinRaw": "sùxīngyèmèi",
+  "definition": "早起晚睡。形容勤奋不懈。",
+  "note": "",
+  "memoryTip": "早起晚睡，勤奋不懈。",
+  "confusable": "",
+  "example": "他夙兴夜寐，勤于政务。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "勤奋刻苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他夙兴夜寐，勤于政务。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "为了备考，他夙兴夜寐。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "目不窥园",
+  "pinyin": "mù bù kuī yuán",
+  "pinyinRaw": "mùbùkuīyuán",
+  "definition": "眼睛不看园子。形容专心致志、埋头苦读。",
+  "note": "",
+  "memoryTip": "董仲舒专心读书，家里的园子看都不看一眼（他提出“罢黜百家，独尊儒术”）。",
+  "confusable": "",
+  "example": "他读书目不窥园，终有所成。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "勤奋刻苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他读书目不窥园，终有所成。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "求学期间他目不窥园。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "栉风沐雨",
+  "pinyin": "zhì fēng mù yǔ",
+  "pinyinRaw": "zhìfēngmùyǔ",
+  "definition": "用风梳头，用雨洗澡。形容常年在外辛苦奔波、不避风雨。",
+  "note": "",
+  "memoryTip": "辛苦奔波、劳碌！用风梳头、用雨洗澡。",
+  "confusable": "",
+  "example": "60年的栉风沐雨、砥砺奋进，大兴安岭让“绿水青山”本色更浓，“金山银山”成色更足。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "辛苦奔波",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "60年的栉风沐雨、砥砺奋进，大兴安岭让“绿水青山”本色更浓，“金山银山”成色更足。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "建设者们栉风沐雨，奋战在工地一线。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "筚路蓝缕",
+  "pinyin": "bì lù lán lǚ",
+  "pinyinRaw": "bìlùlánlǚ",
+  "definition": "驾着柴车，穿着破衣服去开辟山林。形容创业的艰苦。",
+  "note": "",
+  "memoryTip": "创业艰苦！航空事业、党的事业等，也拓展形容事情发展的初期阶段。",
+  "confusable": "",
+  "example": "以施昕更为代表的初代研究者，白手起家、筚路蓝缕，为后世研究打下基础。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "辛苦奔波",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "以施昕更为代表的初代研究者，白手起家、筚路蓝缕，为后世研究打下基础。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "先辈们筚路蓝缕，开创基业。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "鳞次栉比",
+  "pinyin": "lín cì zhì bǐ",
+  "pinyinRaw": "líncìzhìbǐ",
+  "definition": "像鱼鳞和梳篦的齿那样紧密排列。形容房屋、船只等密集排列。",
+  "note": "",
+  "memoryTip": "房屋等！像鱼鳞或梳篦的齿那样紧密排列（房屋或船只密集）。",
+  "confusable": "",
+  "example": "高楼大厦鳞次栉比。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "排列密集",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "高楼大厦鳞次栉比。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "港口里船只鳞次栉比。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "风餐露宿",
+  "pinyin": "fēng cān lù sù",
+  "pinyinRaw": "fēngcānlùsù",
+  "definition": "在风里吃饭，在露天睡觉。形容旅途或野外生活的艰苦。",
+  "note": "",
+  "memoryTip": "苦逼土木人！风里吃饭、露天睡觉。",
+  "confusable": "",
+  "example": "建设者们风餐露宿，日夜奋战。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "辛苦奔波",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "建设者们风餐露宿，日夜奋战。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "野外勘测风餐露宿是常事。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "披星戴月",
+  "pinyin": "pī xīng dài yuè",
+  "pinyinRaw": "pīxīngdàiyuè",
+  "definition": "身披星星、头戴月亮。形容早出晚归或连夜赶路，十分辛劳。",
+  "note": "",
+  "memoryTip": "早出晚归！连夜赶路！",
+  "confusable": "",
+  "example": "他披星戴月，早出晚归。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "辛苦奔波",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他披星戴月，早出晚归。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "扶贫干部披星戴月地走访。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "孜孜不倦",
+  "pinyin": "zī zī bù juàn",
+  "pinyinRaw": "zīzībùjuàn",
+  "definition": "勤奋努力，不知疲倦。",
+  "note": "",
+  "memoryTip": "勤勉不懈怠，不知疲倦地学习工作。",
+  "confusable": "",
+  "example": "他孜孜不倦地学习。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "勤奋刻苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他孜孜不倦地学习。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老师们孜孜不倦地教书育人。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "孜孜矻矻",
+  "pinyin": "zī zī kū kū",
+  "pinyinRaw": "zīzīkūkū",
+  "definition": "勤勉不懈的样子。",
+  "note": "",
+  "memoryTip": "矻（kū）！勤勉不懈怠，和“孜孜不倦”近义。",
+  "confusable": "",
+  "example": "他孜孜矻矻，笔耕不辍。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "勤奋刻苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他孜孜矻矻，笔耕不辍。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老编辑孜孜矻矻几十年。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "孜孜以求",
+  "pinyin": "zī zī yǐ qiú",
+  "pinyinRaw": "zīzīyǐqiú",
+  "definition": "不知疲倦地追求。",
+  "note": "",
+  "memoryTip": "勤勉地追求（目标、真理）。",
+  "confusable": "",
+  "example": "他对真理孜孜以求。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "勤奋刻苦",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他对真理孜孜以求。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "一代代学者孜孜以求，探索未知。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "条分缕析",
+  "pinyin": "tiáo fēn lǚ xī",
+  "pinyinRaw": "tiáofēnlǚxī",
+  "definition": "有条有理地细致分析。",
+  "note": "",
+  "memoryTip": "细致！一条一条的！分析有条理、细致（像奶酪条，分成很多部分）。",
+  "confusable": "",
+  "example": "他把问题条分缕析，讲得很清楚。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "分析问题",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他把问题条分缕析，讲得很清楚。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "报告对数据条分缕析。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "抽丝剥茧",
+  "pinyin": "chōu sī bō jiǎn",
+  "pinyinRaw": "chōusībōjiǎn",
+  "definition": "抽丝、剥茧，逐步分析。比喻由表及里、层层深入地分析。",
+  "note": "",
+  "memoryTip": "由表入深！一层一层的！有层次（像戗面馒头，分成很多层次）。",
+  "confusable": "",
+  "example": "办案人员抽丝剥茧，终于查明真相。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "分析问题",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "办案人员抽丝剥茧，终于查明真相。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他抽丝剥茧般地梳理线索。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "深入浅出",
+  "pinyin": "shēn rù qiǎn chū",
+  "pinyinRaw": "shēnrùqiǎnchū",
+  "definition": "内容或道理很深刻，表达却浅显易懂。",
+  "note": "",
+  "memoryTip": "好理解！讲解深奥的文章、题目、道理，讲得易懂。一般放在最后一步，由浅入深、抵达根本后深入浅出。",
+  "confusable": "",
+  "example": "他把高深的理论讲得深入浅出。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "分析问题",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他把高深的理论讲得深入浅出。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这本教材深入浅出，通俗易懂。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "纲举目张",
+  "pinyin": "gāng jǔ mù zhāng",
+  "pinyinRaw": "gāngjǔmùzhāng",
+  "definition": "提起大网的总绳，网眼就都张开。比喻抓住主要环节，带动一切。",
+  "note": "",
+  "memoryTip": "抓住主要环节就带动一切！提起大网的总绳一撒，所有网眼都张开。",
+  "confusable": "",
+  "example": "抓主要矛盾、抓住重大关键环节，纲举目张做好工作。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "抓住关键",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "抓主要矛盾、抓住重大关键环节，纲举目张做好工作。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "提纲挈领、纲举目张，工作才能高效推进。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "以一持万",
+  "pinyin": "yǐ yī chí wàn",
+  "pinyinRaw": "yǐyīchíwàn",
+  "definition": "抓住一个关键，就能把握全局。比喻抓住关键、提纲挈领。",
+  "note": "",
+  "memoryTip": "抓住问题的重点！",
+  "confusable": "",
+  "example": "千头万绪，以一持万。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "抓住关键",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "千头万绪，以一持万。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "抓住主要矛盾，以一持万。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "博采众长",
+  "pinyin": "bó cǎi zhòng cháng",
+  "pinyinRaw": "bócǎizhòngcháng",
+  "definition": "广泛吸取各方面的长处。",
+  "note": "",
+  "memoryTip": "吸取各家长处！向他人学习。",
+  "confusable": "",
+  "example": "要博采众长，兼收并蓄。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "向他人学习",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "要博采众长，兼收并蓄。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他博采众长，形成了自己的风格。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "见贤思齐",
+  "pinyin": "jiàn xián sī qí",
+  "pinyinRaw": "jiànxiánsīqí",
+  "definition": "见到有才德的人就想向他看齐。",
+  "note": "",
+  "memoryTip": "向有才德的人看齐！",
+  "confusable": "",
+  "example": "要见贤思齐，向先进看齐。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "向他人学习",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "要见贤思齐，向先进看齐。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "榜样的力量在于让人见贤思齐。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "量力而行",
+  "pinyin": "liàng lì ér xíng",
+  "pinyinRaw": "liànglìérxíng",
+  "definition": "估量自己的能力再去做。比喻按自己的实际能力办事。",
+  "note": "",
+  "memoryTip": "踏实做法——按自己的能力去做，不勉强。",
+  "confusable": "",
+  "example": "做事要量力而行。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "踏实做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "做事要量力而行。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "发展要量力而行，实事求是。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "厚积薄发",
+  "pinyin": "hòu jī bó fā",
+  "pinyinRaw": "hòujībófā",
+  "definition": "大量积累，少量地放出。指积累深厚，然后慢慢施展。",
+  "note": "",
+  "memoryTip": "踏实做法——积累够了才发力。",
+  "confusable": "",
+  "example": "学问要厚积薄发。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "踏实做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "学问要厚积薄发。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他厚积薄发，一举成名。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "过犹不及",
+  "pinyin": "guò yóu bù jí",
+  "pinyinRaw": "guòyóubùjí",
+  "definition": "事情做过了头，就和做得不够一样，都不合适。",
+  "note": "",
+  "memoryTip": "做过了头！就和做的不够一样都不合适。",
+  "confusable": "",
+  "example": "凡事要有度，过犹不及。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "凡事要有度，过犹不及。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "用力过猛，过犹不及。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "矫枉过正",
+  "pinyin": "jiǎo wǎng guò zhèng",
+  "pinyinRaw": "jiǎowǎngguòzhèng",
+  "definition": "纠正偏差做得过了头，超过了限度。",
+  "note": "",
+  "memoryTip": "纠正超过限度！",
+  "confusable": "",
+  "example": "纠正错误也不能矫枉过正。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "纠正错误也不能矫枉过正。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "管理松了再严，容易矫枉过正。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "于事无补",
+  "pinyin": "yú shì wú bǔ",
+  "pinyinRaw": "yúshìwúbǔ",
+  "definition": "对事情没有什么帮助。",
+  "note": "",
+  "memoryTip": "对事情没有帮助、补益。",
+  "confusable": "",
+  "example": "事后懊悔于事无补。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "事后懊悔于事无补。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "空喊口号于事无补。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "欲速不达",
+  "pinyin": "yù sù bù dá",
+  "pinyinRaw": "yùsùbùdá",
+  "definition": "一味求快，反而达不到目的。",
+  "note": "",
+  "memoryTip": "越想快反而达不到。近义：欲速则不达。",
+  "confusable": "",
+  "example": "急于求成，欲速不达。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "急于求成，欲速不达。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "基础不牢，欲速不达。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "作茧自缚",
+  "pinyin": "zuò jiǎn zì fù",
+  "pinyinRaw": "zuòjiǎnzìfù",
+  "definition": "蚕吐丝作茧，把自己包在里面。比喻自己束缚自己，使自己陷入困境。",
+  "note": "",
+  "memoryTip": "自己！束缚自己！",
+  "confusable": "",
+  "example": "他这是作茧自缚。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他这是作茧自缚。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "条条框框太多，反而作茧自缚。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "扬汤止沸",
+  "pinyin": "yáng tāng zhǐ fèi",
+  "pinyinRaw": "yángtāngzhǐfèi",
+  "definition": "舀起开水再倒回去，想制止沸腾。比喻办法不彻底，不能从根本上解决问题。",
+  "note": "",
+  "memoryTip": "无法解决根本问题！反义词：釜底抽薪（从根本上解决）。",
+  "confusable": "",
+  "example": "只治标不治本，无异于扬汤止沸。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "只治标不治本，无异于扬汤止沸。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "与其扬汤止沸，不如釜底抽薪。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "隔靴搔痒",
+  "pinyin": "gé xuē sāo yǎng",
+  "pinyinRaw": "géxuēsāoyǎng",
+  "definition": "隔着靴子挠痒。比喻说话写文章不中肯，没有抓住要害；或做事不切实际，不解决问题。",
+  "note": "",
+  "memoryTip": "没抓到痒处、不解决问题。",
+  "confusable": "",
+  "example": "他的批评隔靴搔痒，不痛不痒。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的批评隔靴搔痒，不痛不痒。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不深入调研，措施就会隔靴搔痒。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "以邻为壑",
+  "pinyin": "yǐ lín wéi hè",
+  "pinyinRaw": "yǐlínwéihè",
+  "definition": "把邻国当成排水沟，把本国的洪水排到邻国去。比喻只顾自己利益，把困难或灾祸转嫁给别人。",
+  "note": "",
+  "memoryTip": "灾祸推给别人！（宏观语境）小日本排核污水……",
+  "confusable": "",
+  "example": "各国应坚持对话合作，共同推动经济绿色转型，而不是以邻为壑，人为扰乱全球产业链供应链。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "错误做法",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "各国应坚持对话合作，共同推动经济绿色转型，而不是以邻为壑，人为扰乱全球产业链供应链。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "转嫁污染是以邻为壑的行为。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "穿凿附会",
+  "pinyin": "chuān záo fù huì",
+  "pinyinRaw": "chuānzáofùhuì",
+  "definition": "把讲不通或不相干的道理、事情硬扯在一起解释。",
+  "note": "",
+  "memoryTip": "硬扯！不相关、讲不通的道理硬扯在一起。",
+  "confusable": "",
+  "example": "为打压其他地方的发展权力和安全利益而堆砌故事穿凿附会。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "国际语境",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "为打压其他地方的发展权力和安全利益而堆砌故事穿凿附会。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这种解读纯属穿凿附会。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "亦步亦趋",
+  "pinyin": "yì bù yì qū",
+  "pinyinRaw": "yìbùyìqū",
+  "definition": "别人慢走就慢走，别人快走就快走。比喻事事模仿、追随别人，没有主见。",
+  "note": "",
+  "memoryTip": "行动模仿别人！没有主见。美国做什么，澳大利亚跟着做什么……",
+  "confusable": "",
+  "example": "跟在别人后面亦步亦趋，难有创新。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "国际语境",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "跟在别人后面亦步亦趋，难有创新。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能亦步亦趋，要有自己的主见。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "隔岸观火",
+  "pinyin": "gé àn guān huǒ",
+  "pinyinRaw": "géànguānhuǒ",
+  "definition": "隔着河看对岸起火。比喻对别人的危难不去救助，在一旁看热闹。",
+  "note": "",
+  "memoryTip": "看热闹！俄乌冲突，美国隔岸观火。",
+  "confusable": "",
+  "example": "看到别国有难，不应隔岸观火。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "国际语境",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "看到别国有难，不应隔岸观火。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他隔岸观火，袖手旁观。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "置身事外",
+  "pinyin": "zhì shēn shì wài",
+  "pinyinRaw": "zhìshēnshìwài",
+  "definition": "把自己放在事情之外，毫不关心。",
+  "note": "",
+  "memoryTip": "局内人！不做辨析时≈袖手旁观，但做辨析时侧重“局内人”。",
+  "confusable": "置身事外（局内人却置身事外）vs 袖手旁观（局外人、口语化）vs 作壁上观（双方交战旁观）。",
+  "example": "面对问题不能置身事外。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "国际语境",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "面对问题不能置身事外。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他是当事人，却想置身事外。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "袖手旁观",
+  "pinyin": "xiù shǒu páng guān",
+  "pinyinRaw": "xiùshǒupángguān",
+  "definition": "把手揣在袖子里在一旁观看。比喻置身事外，不帮助别人。",
+  "note": "",
+  "memoryTip": "局外人！相对口语化！自己站在旁边插兜观看。",
+  "confusable": "",
+  "example": "看到别人有困难，不能袖手旁观。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "国际语境",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "看到别人有困难，不能袖手旁观。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "路见不平时，他从不袖手旁观。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "作壁上观",
+  "pinyin": "zuò bì shàng guān",
+  "pinyinRaw": "zuòbìshàngguān",
+  "definition": "双方交战，自己站在营垒上观看。比喻坐观成败，不帮助任何一方。",
+  "note": "",
+  "memoryTip": "双方交战！自己站在旁边不动手帮忙。",
+  "confusable": "",
+  "example": "两方相争，他作壁上观。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "国际语境",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两方相争，他作壁上观。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "面对冲突，不能作壁上观。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "坐收渔利",
+  "pinyin": "zuò shōu yú lì",
+  "pinyinRaw": "zuòshōuyúlì",
+  "definition": "利用别人之间的矛盾，从中获利。",
+  "note": "",
+  "memoryTip": "别人有矛盾！从这之中获得利益（旁观得利）。",
+  "confusable": "",
+  "example": "鹬蚌相争，坐收渔利。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "国际语境",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "鹬蚌相争，坐收渔利。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他挑拨离间，好坐收渔利。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
