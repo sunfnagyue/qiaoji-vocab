@@ -7344,5 +7344,1279 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "开源节流",
+  "pinyin": "kāi yuán jié liú",
+  "pinyinRaw": "kāiyuánjiéliú",
+  "definition": "开发财源，节省支出。",
+  "note": "",
+  "memoryTip": "赚钱和省钱……开发财源，节省支出。",
+  "confusable": "",
+  "example": "增收要开源节流。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "节约理财",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "增收要开源节流。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "财政开源节流，过紧日子。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "降本增效",
+  "pinyin": "jiàng běn zēng xiào",
+  "pinyinRaw": "jiàngběnzēngxiào",
+  "definition": "降低成本，增加效益。",
+  "note": "",
+  "memoryTip": "降低成本增加效益！",
+  "confusable": "",
+  "example": "企业要降本增效。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "节约理财",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "企业要降本增效。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "通过技术革新降本增效。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "精打细算",
+  "pinyin": "jīng dǎ xì suàn",
+  "pinyinRaw": "jīngdǎxìsuàn",
+  "definition": "精密地计划，详细地计算。指在使用人力物力时仔细盘算。",
+  "note": "",
+  "memoryTip": "精密计划、详细计算。",
+  "confusable": "",
+  "example": "过日子要精打细算。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "节约理财",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "过日子要精打细算。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "精打细算，杜绝浪费。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "细水长流",
+  "pinyin": "xì shuǐ cháng liú",
+  "pinyinRaw": "xìshuǐchángliú",
+  "definition": "一点一滴、持续不断。比喻节约使用财物，使经常不缺用。",
+  "note": "",
+  "memoryTip": "一点一滴的！",
+  "confusable": "",
+  "example": "花钱要细水长流。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "节约理财",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "花钱要细水长流。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "细水长流，有备无患。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "量入为出",
+  "pinyin": "liàng rù wéi chū",
+  "pinyinRaw": "liàngrùwéichū",
+  "definition": "根据收入多少来安排支出。",
+  "note": "",
+  "memoryTip": "挣多少钱就花多少！（你的花呗还了吗！）",
+  "confusable": "",
+  "example": "所有消费都应该建立在自己已有的经济基础之上，应该量入为出消费、有所节制。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "节约理财",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "所有消费都应该建立在自己已有的经济基础之上，应该量入为出消费、有所节制。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "过日子要量入为出。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "勤俭持家",
+  "pinyin": "qín jiǎn chí jiā",
+  "pinyinRaw": "qínjiǎnchíjiā",
+  "definition": "勤劳节约地操持家务。",
+  "note": "",
+  "memoryTip": "操持家务！勤劳节约的精神。",
+  "confusable": "",
+  "example": "她勤俭持家，把日子过得井井有条。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "节约理财",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "她勤俭持家，把日子过得井井有条。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "发扬勤俭持家的传统。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一劳永逸",
+  "pinyin": "yì láo yǒng yì",
+  "pinyinRaw": "yìláoyǒngyì",
+  "definition": "辛苦一次，把事情办好，以后就不再费事。",
+  "note": "",
+  "memoryTip": "一次努力，永久安逸。",
+  "confusable": "",
+  "example": "没有一劳永逸的解决方案。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "见效有效",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "没有一劳永逸的解决方案。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能指望一劳永逸。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "行之有效",
+  "pinyin": "xíng zhī yǒu xiào",
+  "pinyinRaw": "xíngzhīyǒuxiào",
+  "definition": "实行起来确有成效。",
+  "note": "",
+  "memoryTip": "已经实行过！证明有效果。",
+  "confusable": "",
+  "example": "这是行之有效的办法。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "见效有效",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这是行之有效的办法。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "行之有效的经验要推广。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一步登天",
+  "pinyin": "yī bù dēng tiān",
+  "pinyinRaw": "yībùdēngtiān",
+  "definition": "一下子爬到很高的地位。比喻一下子达到很高的境界或程度（多含贬义）。",
+  "note": "",
+  "memoryTip": "一下子爬到高位（有点贬义）。",
+  "confusable": "",
+  "example": "没有人能一步登天。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "措施评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "没有人能一步登天。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "想一步登天是不现实的。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "迎刃而解",
+  "pinyin": "yíng rèn ér jiě",
+  "pinyinRaw": "yíngrènérjiě",
+  "definition": "劈竹子的节，迎着刀刃就裂开。比喻主要问题解决了，其他问题就很容易解决。",
+  "note": "",
+  "memoryTip": "做法（xxx）+ xx 问题就迎刃而解了。",
+  "confusable": "",
+  "example": "抓住关键，问题就迎刃而解。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "措施评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "抓住关键，问题就迎刃而解。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "堵点打通后，难题迎刃而解。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "事半功倍",
+  "pinyin": "shì bàn gōng bèi",
+  "pinyinRaw": "shìbàngōngbèi",
+  "definition": "费力小，收效大。",
+  "note": "",
+  "memoryTip": "费力小、收获大。",
+  "confusable": "",
+  "example": "找对方法，事半功倍。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "措施评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "找对方法，事半功倍。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "科学规划让工作事半功倍。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "正本清源",
+  "pinyin": "zhèng běn qīng yuán",
+  "pinyinRaw": "zhèngběnqīngyuán",
+  "definition": "从源头上进行整顿和清理，以从根本上解决问题。",
+  "note": "",
+  "memoryTip": "从源头上进行整顿和清理，以达到解决问题的目的。",
+  "confusable": "正本清源（正面解决问题）vs 釜底抽薪（范围更广，可含暗中破坏）。",
+  "example": "加强治理要从正本清源入手。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "措施评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "加强治理要从正本清源入手。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "正本清源，标本兼治。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "触手可及",
+  "pinyin": "chù shǒu kě jí",
+  "pinyinRaw": "chùshǒukějí",
+  "definition": "近在手边，一伸手就可以碰到。形容距离很近、容易达到。",
+  "note": "",
+  "memoryTip": "距离近！",
+  "confusable": "",
+  "example": "目标触手可及。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "措施评价",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "目标触手可及。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "便利服务触手可及。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "唾手可得",
+  "pinyin": "tuò shǒu kě dé",
+  "pinyinRaw": "tuòshǒukědé",
+  "definition": "手上吐唾沫，动手就可以取得。比喻极容易得到。",
+  "note": "",
+  "memoryTip": "容易获得！",
+  "confusable": "",
+  "example": "胜利并非唾手可得。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "成功失败",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "胜利并非唾手可得。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "成功不会唾手可得。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "手到擒来",
+  "pinyin": "shǒu dào qín lái",
+  "pinyinRaw": "shǒudàoqínlái",
+  "definition": "一出手就把敌人捉住。比喻做事有把握，毫不费力。",
+  "note": "",
+  "memoryTip": "把握！",
+  "confusable": "",
+  "example": "有经验，办这事手到擒来。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "成功失败",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "有经验，办这事手到擒来。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "难题在他手里手到擒来。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "信手拈来",
+  "pinyin": "xìn shǒu niān lái",
+  "pinyinRaw": "xìnshǒuniānlái",
+  "definition": "随手拿来。多指写文章时能自由纯熟地选用词语或应用典故，毫不费力。",
+  "note": "",
+  "memoryTip": "容易获得/引经据典/做事不费力。",
+  "confusable": "",
+  "example": "他引经据典，信手拈来。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "成功失败",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他引经据典，信手拈来。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "素材信手拈来，毫不费力。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "游刃有余",
+  "pinyin": "yóu rèn yǒu yú",
+  "pinyinRaw": "yóurènyǒuyú",
+  "definition": "刀刃运转于骨节空隙中还有回旋余地。比喻技术熟练、经验丰富，解决问题轻松。",
+  "note": "",
+  "memoryTip": "技术高、经验足！轻松解决问题。",
+  "confusable": "",
+  "example": "他处理复杂问题游刃有余。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "成功失败",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他处理复杂问题游刃有余。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老将出马，游刃有余。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "束手无策",
+  "pinyin": "shù shǒu wú cè",
+  "pinyinRaw": "shùshǒuwúcè",
+  "definition": "手被捆住，无法解脱。形容遇到问题没有解决的办法。",
+  "note": "",
+  "memoryTip": "没办法！手被捆住。",
+  "confusable": "",
+  "example": "面对难题，大家束手无策。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "成功失败",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "面对难题，大家束手无策。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他束手无策，只能求助。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一筹莫展",
+  "pinyin": "yì chóu mò zhǎn",
+  "pinyinRaw": "yìchóumòzhǎn",
+  "definition": "一点计策也施展不出，一点办法也没有。",
+  "note": "",
+  "memoryTip": "一点办法也没有。",
+  "confusable": "",
+  "example": "遇到难题一筹莫展。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "成功失败",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "遇到难题一筹莫展。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他急得一筹莫展。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "功亏一篑",
+  "pinyin": "gōng kuī yí kuì",
+  "pinyinRaw": "gōngkuīyíkuì",
+  "definition": "只差一筐土而没有堆成山。比喻事情只差最后一点而没有成功。",
+  "note": "",
+  "memoryTip": "差最后一步没成功（篑=土筐）。",
+  "confusable": "",
+  "example": "坚持到最后，不能功亏一篑。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "成功失败",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "坚持到最后，不能功亏一篑。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "眼看要成功，却功亏一篑。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "事与愿违",
+  "pinyin": "shì yǔ yuàn wéi",
+  "pinyinRaw": "shìyǔyuànwéi",
+  "definition": "事情的发展与愿望相反。",
+  "note": "",
+  "memoryTip": "违背！没达到预期，不代表一定相反。",
+  "confusable": "事与愿违（没达到预期，不一定相反）vs 适得其反（和预期相反）。",
+  "example": "柏克和阿伦特等思想家把博爱和同情视为感伤主义，是滥情、不理智的表现，认为结果会事与愿违，达不到改善弱者鲸鱼的效果。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "成功失败",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "柏克和阿伦特等思想家把博爱和同情视为感伤主义，是滥情、不理智的表现，认为结果会事与愿违，达不到改善弱者鲸鱼的效果。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "本想帮忙，结果事与愿违。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "适得其反",
+  "pinyin": "shì dé qí fǎn",
+  "pinyinRaw": "shìdéqífǎn",
+  "definition": "恰恰得到与预期相反的结果。",
+  "note": "",
+  "memoryTip": "相反！和预期相反。",
+  "confusable": "适得其反=和预期相反；事与愿违=没达到预期（不一定相反）。",
+  "example": "方法不当会适得其反。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "成功失败",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "方法不当会适得其反。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "过度施肥适得其反。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "高屋建瓴",
+  "pinyin": "gāo wū jiàn líng",
+  "pinyinRaw": "gāowūjiànlíng",
+  "definition": "在高屋脊上往下倒水。形容居高临下、不可阻挡的形势；比喻站得高、看得远，有高度。",
+  "note": "",
+  "memoryTip": "有高度。",
+  "confusable": "",
+  "example": "习近平总书记在全会发表重要讲话，高屋建瓴有高度，思想深邃有深度，内涵丰富有广度。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "习近平总书记在全会发表重要讲话，高屋建瓴有高度，思想深邃有深度，内涵丰富有广度。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "这篇报告高屋建瓴，很有指导意义。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "审时度势",
+  "pinyin": "shěn shí duó shì",
+  "pinyinRaw": "shěnshíduóshì",
+  "definition": "观察时机，估量形势。",
+  "note": "",
+  "memoryTip": "观察时机、估量形势（度=duó 估量）。",
+  "confusable": "",
+  "example": "审时度势，作出正确决策。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "审时度势，作出正确决策。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "要善于审时度势。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "运筹帷幄",
+  "pinyin": "yùn chóu wéi wò",
+  "pinyinRaw": "yùnchóuwéiwò",
+  "definition": "在后方决定作战策略。泛指筹划、指挥。",
+  "note": "",
+  "memoryTip": "在帐幕中谋划（帷幄=军中帐幕）。",
+  "confusable": "",
+  "example": "运筹帷幄之中，决胜千里之外。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "运筹帷幄之中，决胜千里之外。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他运筹帷幄，统筹全局。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "以身作则",
+  "pinyin": "yǐ shēn zuò zé",
+  "pinyinRaw": "yǐshēnzuòzé",
+  "definition": "用自己的行动做出榜样。",
+  "note": "",
+  "memoryTip": "自己作表率、做榜样。",
+  "confusable": "",
+  "example": "领导干部要以身作则。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "领导干部要以身作则。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "家长以身作则，孩子耳濡目染。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "身体力行",
+  "pinyin": "shēn tǐ lì xíng",
+  "pinyinRaw": "shēntǐlìxíng",
+  "definition": "亲身体验，努力实行。",
+  "note": "",
+  "memoryTip": "亲自去实践。",
+  "confusable": "",
+  "example": "他身体力行，带头示范。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他身体力行，带头示范。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "好习惯要身体力行。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "事必躬亲",
+  "pinyin": "shì bì gōng qīn",
+  "pinyinRaw": "shìbìgōngqīn",
+  "definition": "凡事一定亲自去做。",
+  "note": "",
+  "memoryTip": "什么事都亲自做。",
+  "confusable": "",
+  "example": "他做事事必躬亲。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他做事事必躬亲。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不必事事都事必躬亲。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "亲力亲为",
+  "pinyin": "qīn lì qīn wéi",
+  "pinyinRaw": "qīnlìqīnwéi",
+  "definition": "亲自出力去做，不假手他人。",
+  "note": "",
+  "memoryTip": "亲自出力去做（常误写为“亲历亲为”）。",
+  "confusable": "",
+  "example": "关键环节他亲力亲为。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "关键环节他亲力亲为。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "领导亲力亲为，亲自督办。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "克己奉公",
+  "pinyin": "kè jǐ fèng gōng",
+  "pinyinRaw": "kèjǐfènggōng",
+  "definition": "克制自己，一心为公。",
+  "note": "",
+  "memoryTip": "和“廉洁”放在一起使用。",
+  "confusable": "",
+  "example": "干部要克己奉公、清正廉洁。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "干部要克己奉公、清正廉洁。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "克己奉公，无私奉献。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "上行下效",
+  "pinyin": "shàng xíng xià xiào",
+  "pinyinRaw": "shàngxíngxiàxiào",
+  "definition": "上面的人怎么做，下面的人就跟着怎么学。",
+  "note": "",
+  "memoryTip": "上级怎么做，下级跟着学（多含贬义）。",
+  "confusable": "",
+  "example": "领导带头浪费，上行下效。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "领导带头浪费，上行下效。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "作风问题会上行下效。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "事无巨细",
+  "pinyin": "shì wú jù xì",
+  "pinyinRaw": "shìwújùxì",
+  "definition": "事情不分大小。形容什么事都管。",
+  "note": "",
+  "memoryTip": "事情不分大小，全都过问。",
+  "confusable": "",
+  "example": "他事无巨细，样样操心。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他事无巨细，样样操心。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "事无巨细都要过问。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一以贯之",
+  "pinyin": "yī yǐ guàn zhī",
+  "pinyinRaw": "yīyǐguànzhī",
+  "definition": "用一个根本性的事理贯穿事情的始末或全部。指始终如一。",
+  "note": "",
+  "memoryTip": "始终如一、贯穿始终。",
+  "confusable": "",
+  "example": "好的作风要一以贯之。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "好的作风要一以贯之。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "坚持党的领导要一以贯之。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "矢志不渝",
+  "pinyin": "shǐ zhì bù yú",
+  "pinyinRaw": "shǐzhìbùyú",
+  "definition": "立下志愿，绝不改变。",
+  "note": "",
+  "memoryTip": "立下志愿，绝不改变。~铸造大国重器。",
+  "confusable": "",
+  "example": "矢志不渝，铸造大国重器。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "矢志不渝，铸造大国重器。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "矢志不渝地追求真理。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "坚定不移",
+  "pinyin": "jiān dìng bù yí",
+  "pinyinRaw": "jiāndìngbùyí",
+  "definition": "稳定坚强，毫不动摇。",
+  "note": "",
+  "memoryTip": "始终坚持，毫不动摇。",
+  "confusable": "",
+  "example": "坚定不移走自己的路。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "领导力",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "坚定不移走自己的路。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "坚定不移推进改革。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "英勇无畏",
+  "pinyin": "yīng yǒng wú wèi",
+  "pinyinRaw": "yīngyǒngwúwèi",
+  "definition": "勇敢坚强，毫不畏惧。",
+  "note": "",
+  "memoryTip": "勇敢、不怕牺牲。",
+  "confusable": "",
+  "example": "英雄们英勇无畏。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "英雄们英勇无畏。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "英勇无畏地冲锋陷阵。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "前仆后继",
+  "pinyin": "qián pū hòu jì",
+  "pinyinRaw": "qiánpūhòujì",
+  "definition": "前面的人倒下，后面的人继续跟上去。形容英勇奋斗，不怕牺牲。",
+  "note": "",
+  "memoryTip": "前面的倒下，后面的继续上。",
+  "confusable": "",
+  "example": "先辈前仆后继，英勇奋斗。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "先辈前仆后继，英勇奋斗。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "一代代人前仆后继。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "视死如归",
+  "pinyin": "shì sǐ rú guī",
+  "pinyinRaw": "shìsǐrúguī",
+  "definition": "把死看得像回家一样平常。形容不怕牺牲。",
+  "note": "",
+  "memoryTip": "把死看作回家，不怕牺牲。",
+  "confusable": "",
+  "example": "革命志士视死如归。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "革命志士视死如归。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他们视死如归，慷慨就义。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "大义凛然",
+  "pinyin": "dà yì lǐn rán",
+  "pinyinRaw": "dàyìlǐnrán",
+  "definition": "正义之气令人敬畏。形容为了正义而坚强不屈。",
+  "note": "",
+  "memoryTip": "正义凛然、令人敬畏。",
+  "confusable": "",
+  "example": "他大义凛然，无所畏惧。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他大义凛然，无所畏惧。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "大义凛然地面对威胁。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "勇往直前",
+  "pinyin": "yǒng wǎng zhí qián",
+  "pinyinRaw": "yǒngwǎngzhíqián",
+  "definition": "勇敢地一直向前。",
+  "note": "",
+  "memoryTip": "勇敢向前，无所畏惧。",
+  "confusable": "",
+  "example": "面对困难勇往直前。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "面对困难勇往直前。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "勇往直前，开拓进取。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "挺身而出",
+  "pinyin": "tǐng shēn ér chū",
+  "pinyinRaw": "tǐngshēnérchū",
+  "definition": "勇敢地站出来面对困难或危险。",
+  "note": "",
+  "memoryTip": "挺身站出、担当。",
+  "confusable": "",
+  "example": "危急时刻他挺身而出。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "危急时刻他挺身而出。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "关键时刻有人挺身而出。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "踔厉奋发",
+  "pinyin": "chuō lì fèn fā",
+  "pinyinRaw": "chuōlìfènfā",
+  "definition": "精神振奋，斗志昂扬地奋发努力。",
+  "note": "",
+  "memoryTip": "精神振奋、奋发向上。",
+  "confusable": "",
+  "example": "踔厉奋发、笃行不怠。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "踔厉奋发、笃行不怠。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新时代青年踔厉奋发。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "笃行不怠",
+  "pinyin": "dǔ xíng bù dài",
+  "pinyinRaw": "dǔxíngbùdài",
+  "definition": "忠实地践行，不懈怠。",
+  "note": "",
+  "memoryTip": "踏实去做、不懈怠。",
+  "confusable": "",
+  "example": "踔厉奋发、笃行不怠。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "踔厉奋发、笃行不怠。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "笃行不怠，久久为功。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "赓续前行",
+  "pinyin": "gēng xù qián xíng",
+  "pinyinRaw": "gēngxùqiánxíng",
+  "definition": "继续前进，不断传承。",
+  "note": "",
+  "memoryTip": "接续前行（赓=继续）。",
+  "confusable": "",
+  "example": "赓续前行，奋楫争先。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "赓续前行，奋楫争先。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "赓续红色血脉，砥砺前行。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "奋楫争先",
+  "pinyin": "fèn jí zhēng xiān",
+  "pinyinRaw": "fènjízhēngxiān",
+  "definition": "奋力划桨，争先向前。",
+  "note": "",
+  "memoryTip": "奋力划船、争先恐后。",
+  "confusable": "",
+  "example": "奋楫争先，勇立潮头。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "奋楫争先，勇立潮头。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "各地奋楫争先谋发展。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "砥砺前行",
+  "pinyin": "dǐ lì qián xíng",
+  "pinyinRaw": "dǐlìqiánxíng",
+  "definition": "经历磨炼，勇往直前。",
+  "note": "",
+  "memoryTip": "历经磨炼、向前进。",
+  "confusable": "",
+  "example": "披荆斩棘、砥砺前行。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "披荆斩棘、砥砺前行。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "风雨无阻，砥砺前行。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "勇毅前行",
+  "pinyin": "yǒng yì qián xíng",
+  "pinyinRaw": "yǒngyìqiánxíng",
+  "definition": "勇敢坚毅地向前。",
+  "note": "",
+  "memoryTip": "勇敢坚毅地前进。",
+  "confusable": "",
+  "example": "勇毅前行，不负韶华。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "勇毅前行，不负韶华。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "攻坚克难、勇毅前行。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "一鼓作气",
+  "pinyin": "yī gǔ zuò qì",
+  "pinyinRaw": "yīgǔzuòqì",
+  "definition": "第一次击鼓能振作士气。比喻趁劲头大时一口气把事情做完。",
+  "note": "",
+  "memoryTip": "趁劲头足一口气做完。",
+  "confusable": "",
+  "example": "一鼓作气，完成任务。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "正义担当",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "一鼓作气，完成任务。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "趁热打铁，一鼓作气。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "好大喜功",
+  "pinyin": "hào dà xǐ gōng",
+  "pinyinRaw": "hàodàxǐgōng",
+  "definition": "一心想做大事、立大功。多含贬义。",
+  "note": "",
+  "memoryTip": "追求做大事！大成绩！也可形容君王、领导。",
+  "confusable": "",
+  "example": "搞政绩不能好大喜功。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "干部作风",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "搞政绩不能好大喜功。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "好大喜功，劳民伤财。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
