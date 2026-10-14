@@ -5,6 +5,29 @@
 
   App.register("study", async function (root, params) {
     const mode = params.mode || "new";
+
+    // 学习进度持久化：没学完时退出，下次进来继续，直到按计划学完
+    const LS_STUDY = "qiaoji.study";
+    function saveStudy() {
+      const s = App.study;
+      if (s && s.queue && s.idx < s.queue.length) {
+        localStorage.setItem(LS_STUDY, JSON.stringify({
+          mode: s.mode,
+          idx: s.idx,
+          queue: s.queue.map((w) => ({ id: w.id, word: w.word, pinyin: w.pinyin, definition: w.definition })),
+        }));
+      } else {
+        localStorage.removeItem(LS_STUDY);
+      }
+    }
+    function loadStudy(m) {
+      try {
+        const d = JSON.parse(localStorage.getItem(LS_STUDY) || "null");
+        if (d && d.mode === m && Array.isArray(d.queue) && d.queue.length && d.idx < d.queue.length) return d;
+      } catch (e) { /* 忽略 */ }
+      return null;
+    }
+
     root.innerHTML = `
       <div class="shell">
         <div class="row" style="margin:14px 0">
@@ -15,15 +38,21 @@
         <div id="study-body"></div>
       </div>`;
 
-    document.getElementById("btn-quit").onclick = () => {
-      App.study.queue = [];
-      App.go("home");
-    };
+    document.getElementById("btn-quit").onclick = () => App.go("home");
 
-    // 从详情页「继续下一题」返回：前进到下一题
+    // 从详情页「继续下一题」返回：idx 已在作答时前进，直接渲染下一题
     const resuming = params.continue && App.study.mode === mode && App.study.queue.length;
     if (resuming) {
-      App.study.idx += 1;
+      renderQuestion();
+      return;
+    }
+
+    // 有未完成的同模式学习 → 继续上次进度，直到学完
+    const saved = loadStudy(mode);
+    if (saved) {
+      App.study.mode = mode;
+      App.study.queue = saved.queue;
+      App.study.idx = saved.idx;
       renderQuestion();
       return;
     }
@@ -48,6 +77,7 @@
          </div>`;
       return;
     }
+    saveStudy();
     renderQuestion();
 
     async function renderQuestion() {
@@ -55,6 +85,7 @@
       const idx = App.study.idx;
       if (idx >= q.length) {
         App.study.queue = [];
+        saveStudy();
         document.getElementById("study-body").innerHTML =
           `<div class="card center">
              <p style="font-size:18px">🎉 本轮学习完成，做得很棒！</p>
@@ -115,6 +146,9 @@
           fb.classList.remove("hidden");
           if (ok) {
             fb.innerHTML = `<div class="head">✅ 回答正确！</div>`;
+            // 当前词已完成，前进到下一题并保存进度
+            App.study.idx += 1;
+            saveStudy();
             // 答对：自动跳详情
             setTimeout(() => App.go("detail", { id: w.id, fromStudy: true }), 500);
           } else {
@@ -122,15 +156,14 @@
             App.study.queue.push({
               id: w.id, word: w.word, pinyin: w.pinyin, definition: w.definition,
             });
+            App.study.idx += 1;
+            saveStudy();
             fb.innerHTML = `
               <div class="head">❌ 回答错误，绿色是正确答案</div>
               <div>释义：${U.escapeHtml(correct)}</div>
               <button class="block" style="margin-top:10px" id="btn-next">下一题 →</button>
               <button class="block secondary" style="margin-top:8px" id="btn-view">查看详细内容（记忆方法 / 易混淆辨析）</button>`;
-            document.getElementById("btn-next").onclick = () => {
-              App.study.idx += 1;
-              renderQuestion();
-            };
+            document.getElementById("btn-next").onclick = () => renderQuestion();
             document.getElementById("btn-view").onclick = () =>
               App.go("detail", { id: w.id, fromStudy: true });
           }

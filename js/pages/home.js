@@ -4,6 +4,16 @@
   "use strict";
 
   App.register("home", async function (root) {
+    // 未完成的学习进度：顶部显示「继续学习」
+    let saved = null;
+    try {
+      const d = JSON.parse(localStorage.getItem("qiaoji.study") || "null");
+      if (d && Array.isArray(d.queue) && d.queue.length && d.idx < d.queue.length) saved = d;
+    } catch (e) { /* 忽略 */ }
+    const continueBtn = saved ? `
+        <button class="block" id="btn-continue">▶ 继续学习（还剩 ${saved.queue.length - saved.idx} 词）</button>
+        <div style="height:10px"></div>` : "";
+
     root.innerHTML = `
       <div class="shell">
         <div class="page-title">今日学习</div>
@@ -23,6 +33,7 @@
           <div class="stat"><div class="num" id="st-mastered">…</div><div class="lbl">已掌握</div></div>
           <div class="stat"><div class="num" id="st-total">…</div><div class="lbl">总词数</div></div>
         </div>
+        ${continueBtn}
         <button class="block" id="btn-review">▶ 开始复习（待复习）</button>
         <div style="height:10px"></div>
         <button class="block secondary" id="btn-new">＋ 学习新词</button>
@@ -55,5 +66,9 @@
     dueBtn.onclick = () => App.go("study", { mode: "review" });
     newBtn.onclick = () => App.go("study", { mode: "new" });
     wrongBtn.onclick = () => App.go("study", { mode: "wrong" });
+
+    if (saved) {
+      document.getElementById("btn-continue").onclick = () => App.go("study", { mode: saved.mode });
+    }
   });
 })();
