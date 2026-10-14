@@ -10516,5 +10516,2215 @@ window.BUILTIN_TERMS = [
     "url": ""
    }
   ]
+ },
+ {
+  "word": "独当一面",
+  "pinyin": "dú dāng yí miàn",
+  "pinyinRaw": "dúdāngyímiàn",
+  "definition": "能独自承担一方面的工作。",
+  "note": "",
+  "memoryTip": "能独自承担工作！",
+  "confusable": "",
+  "example": "他能独当一面。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他能独当一面。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "培养能独当一面的人才。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "纸上谈兵",
+  "pinyin": "zhǐ shàng tán bīng",
+  "pinyinRaw": "zhǐshàngtánbīng",
+  "definition": "只空谈理论，不能解决实际问题。",
+  "note": "",
+  "memoryTip": "只理论！不实践！",
+  "confusable": "",
+  "example": "不能纸上谈兵，要真抓实干。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能纸上谈兵，要真抓实干。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他的方案只是纸上谈兵。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "无本之木",
+  "pinyin": "wú běn zhī mù",
+  "pinyinRaw": "wúběnzhīmù",
+  "definition": "没有根的树木。比喻没有根基的事物。",
+  "note": "",
+  "memoryTip": "没有根基基础！（常与“无源之水”连用）。",
+  "confusable": "",
+  "example": "没有群众基础，就成了无本之木。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "没有群众基础，就成了无本之木。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "脱离实际的理论如无本之木。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "坐而论道",
+  "pinyin": "zuò ér lùn dào",
+  "pinyinRaw": "zuòérlùndào",
+  "definition": "空谈理论，不行动。",
+  "note": "",
+  "memoryTip": "空谈，不行动！坐而论道不如起而行之。",
+  "confusable": "",
+  "example": "坐而论道不如起而行之。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "坐而论道不如起而行之。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "空谈误国，坐而论道解决不了问题。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "水中捞月",
+  "pinyin": "shuǐ zhōng lāo yuè",
+  "pinyinRaw": "shuǐzhōnglāoyuè",
+  "definition": "到水里捞月亮。比喻白费力气，根本办不到。",
+  "note": "",
+  "memoryTip": "白费力气！",
+  "confusable": "",
+  "example": "没有基础就谈成功，无异于水中捞月。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "没有基础就谈成功，无异于水中捞月。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不切实际的幻想如同水中捞月。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "画饼充饥",
+  "pinyin": "huà bǐng chōng jī",
+  "pinyinRaw": "huàbǐngchōngjī",
+  "definition": "画个饼来解饿。比喻用空想安慰自己。",
+  "note": "",
+  "memoryTip": "空想欺骗自己！",
+  "confusable": "",
+  "example": "空头承诺只是画饼充饥。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "空头承诺只是画饼充饥。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能靠画饼充饥过日子。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "空中楼阁",
+  "pinyin": "kōng zhōng lóu gé",
+  "pinyinRaw": "kōngzhōnglóugé",
+  "definition": "悬在空中的楼阁。比喻脱离实际、没有根基的事物。",
+  "note": "",
+  "memoryTip": "没有根基，没有基础。",
+  "confusable": "",
+  "example": "脱离实际的计划是空中楼阁。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "脱离实际的计划是空中楼阁。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "没有调查，方案就成了空中楼阁。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "镜花水月",
+  "pinyin": "jìng huā shuǐ yuè",
+  "pinyinRaw": "jìnghuāshuǐyuè",
+  "definition": "镜中花，水中月。比喻虚幻的景象。",
+  "note": "",
+  "memoryTip": "虚幻的东西。",
+  "confusable": "",
+  "example": "不切实际的愿望如镜花水月。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不切实际的愿望如镜花水月。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "镜花水月，可望而不可即。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "海市蜃楼",
+  "pinyin": "hǎi shì shèn lóu",
+  "pinyinRaw": "hǎishìshènlóu",
+  "definition": "比喻虚无缥缈的、实际不存在的事物。",
+  "note": "",
+  "memoryTip": "虚无的梦想、实际不存在的事物。",
+  "confusable": "",
+  "example": "所谓的繁荣只是海市蜃楼。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "办公管理",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "所谓的繁荣只是海市蜃楼。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "美好的愿景不能是海市蜃楼。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "接踵而至",
+  "pinyin": "jiē zhǒng ér zhì",
+  "pinyinRaw": "jiēzhǒngérzhì",
+  "definition": "后面的人的脚尖碰到前面的人的脚跟。形容接连不断地到来。",
+  "note": "",
+  "memoryTip": "接连不断的到来！人、事情都可以（好运接踵而至）。",
+  "confusable": "",
+  "example": "游客接踵而至。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "游客接踵而至。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "好运接踵而至。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "络绎不绝",
+  "pinyin": "luò yì bù jué",
+  "pinyinRaw": "luòyìbùjué",
+  "definition": "前后相连，连续不断。形容行人、车马等往来不断。",
+  "note": "",
+  "memoryTip": "人、游客、消费者来往不断。",
+  "confusable": "",
+  "example": "景区游客络绎不绝。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "景区游客络绎不绝。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "前来咨询的人络绎不绝。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "纷至沓来",
+  "pinyin": "fēn zhì tà lái",
+  "pinyinRaw": "fēnzhìtàlái",
+  "definition": "纷纷到来，接连不断地到来。",
+  "note": "",
+  "memoryTip": "纷纷！一个接一个，人和物！纷纷到来！",
+  "confusable": "",
+  "example": "订单纷至沓来。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "订单纷至沓来。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "游客纷至沓来。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "蜂拥而至",
+  "pinyin": "fēng yōng ér zhì",
+  "pinyinRaw": "fēngyōngérzhì",
+  "definition": "像蜂群似的拥挤着到来。",
+  "note": "",
+  "memoryTip": "一窝蜂的到来！",
+  "confusable": "",
+  "example": "顾客蜂拥而至。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "顾客蜂拥而至。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "人们蜂拥而至，抢购商品。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "门庭若市",
+  "pinyin": "mén tíng ruò shì",
+  "pinyinRaw": "méntíngruòshì",
+  "definition": "门前像集市一样。形容往来的人很多。",
+  "note": "",
+  "memoryTip": "某个地方（博物馆等）往来的人很多。",
+  "confusable": "门庭若市（人多）vs 门庭冷落、门可罗雀（人少）。",
+  "example": "博物馆门庭若市。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "博物馆门庭若市。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新店开业，门庭若市。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "无人问津",
+  "pinyin": "wú rén wèn jīn",
+  "pinyinRaw": "wúrénwènjīn",
+  "definition": "没有人来询问或购买。比喻受到冷落。",
+  "note": "",
+  "memoryTip": "受到冷落！无人理睬，程度较重。",
+  "confusable": "",
+  "example": "这本书出版后无人问津。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这本书出版后无人问津。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "老手艺无人问津。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "门庭冷落",
+  "pinyin": "mén tíng lěng luò",
+  "pinyinRaw": "méntínglěngluò",
+  "definition": "门前冷清。形容宾客稀少。",
+  "note": "",
+  "memoryTip": "宾客稀少！比较冷落。",
+  "confusable": "",
+  "example": "店门口门庭冷落。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "店门口门庭冷落。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "昔日热闹，如今门庭冷落。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "门可罗雀",
+  "pinyin": "mén kě luó què",
+  "pinyinRaw": "ménkěluóquè",
+  "definition": "门前可以张网捕雀。形容宾客稀少，十分冷落。",
+  "note": "",
+  "memoryTip": "与门庭若市相反。",
+  "confusable": "",
+  "example": "店里门可罗雀。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "店里门可罗雀。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "生意冷清，门可罗雀。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不期而遇",
+  "pinyin": "bù qī ér yù",
+  "pinyinRaw": "bùqīéryù",
+  "definition": "没有约定而意外相遇。",
+  "note": "",
+  "memoryTip": "偶遇！",
+  "confusable": "",
+  "example": "两人在街头不期而遇。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两人在街头不期而遇。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "与老友不期而遇。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "萍水相逢",
+  "pinyin": "píng shuǐ xiāng féng",
+  "pinyinRaw": "píngshuǐxiāngféng",
+  "definition": "像浮萍在水上偶然相逢。比喻素不相识的人偶然相遇。",
+  "note": "",
+  "memoryTip": "陌生人！偶遇。",
+  "confusable": "",
+  "example": "虽是萍水相逢，却一见如故。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "虽是萍水相逢，却一见如故。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "萍水相逢，尽是他乡之客。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如影随形",
+  "pinyin": "rú yǐng suí xíng",
+  "pinyinRaw": "rúyǐngsuíxíng",
+  "definition": "像影子跟着身体。比喻关系密切，常在一起。",
+  "note": "",
+  "memoryTip": "人和影子！",
+  "confusable": "",
+  "example": "两人如影随形。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "来者众多",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "两人如影随形。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "如影随形，形影不离。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "熙熙攘攘",
+  "pinyin": "xī xī rǎng rǎng",
+  "pinyinRaw": "xīxīrǎngrǎng",
+  "definition": "形容人来人往，非常热闹。",
+  "note": "",
+  "memoryTip": "熙熙攘攘的夜晚！",
+  "confusable": "",
+  "example": "熙熙攘攘的夜市。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "人多热闹",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "熙熙攘攘的夜市。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "大街上熙熙攘攘。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "川流不息",
+  "pinyin": "chuān liú bù xī",
+  "pinyinRaw": "chuānliúbùxī",
+  "definition": "像河水一样流个不停。形容行人、车马等连续不断。",
+  "note": "",
+  "memoryTip": "行人、车辆、道路！",
+  "confusable": "",
+  "example": "马路上车辆川流不息。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "人多热闹",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "马路上车辆川流不息。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "顾客川流不息。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "万人空巷",
+  "pinyin": "wàn rén kōng xiàng",
+  "pinyinRaw": "wànrénkōngxiàng",
+  "definition": "家家户户的人都从巷子里出来了。形容庆祝、欢迎等盛况。",
+  "note": "",
+  "memoryTip": "庆祝！欢迎！（大家都出来了）。",
+  "confusable": "",
+  "example": "庆祝活动万人空巷。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "人多热闹",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "庆祝活动万人空巷。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "比赛当天万人空巷。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "人头攒动",
+  "pinyin": "rén tóu cuán dòng",
+  "pinyinRaw": "réntóucuándòng",
+  "definition": "人很多，拥挤移动。",
+  "note": "",
+  "memoryTip": "人多，拥挤。",
+  "confusable": "",
+  "example": "广场上人头攒动。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "人多热闹",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "广场上人头攒动。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "展会现场人头攒动。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "摩肩接踵",
+  "pinyin": "mó jiān jiē zhǒng",
+  "pinyinRaw": "mójiānjiēzhǒng",
+  "definition": "肩碰肩，脚碰脚。形容人很多，很拥挤。",
+  "note": "",
+  "memoryTip": "肩碰肩脚碰脚，人多拥挤。",
+  "confusable": "",
+  "example": "庙会上摩肩接踵。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "人多热闹",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "庙会上摩肩接踵。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "街上摩肩接踵，水泄不通。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "人山人海",
+  "pinyin": "rén shān rén hǎi",
+  "pinyinRaw": "rénshānrénhǎi",
+  "definition": "形容人聚集得非常多。",
+  "note": "",
+  "memoryTip": "比“人头攒动”程度更重！",
+  "confusable": "",
+  "example": "演唱会现场人山人海。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "人多热闹",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "演唱会现场人山人海。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "景区人山人海。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "洛阳纸贵",
+  "pinyin": "luò yáng zhǐ guì",
+  "pinyinRaw": "luòyángzhǐguì",
+  "definition": "洛阳的纸价因抢购而上涨。比喻著作有价值，流传广。",
+  "note": "",
+  "memoryTip": "著作有价值，流传广。",
+  "confusable": "",
+  "example": "他的新书一出版便洛阳纸贵。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "人多热闹",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的新书一出版便洛阳纸贵。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "佳作问世，洛阳纸贵。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "车水马龙",
+  "pinyin": "chē shuǐ mǎ lóng",
+  "pinyinRaw": "chēshuǐmǎlóng",
+  "definition": "车像流水，马像游龙。形容车马来往不断，非常热闹。",
+  "note": "",
+  "memoryTip": "车马来往不断，非常热闹。",
+  "confusable": "",
+  "example": "街上车水马龙。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "人多热闹",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "街上车水马龙。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "城市车水马龙，热闹非凡。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "参差不齐",
+  "pinyin": "cēn cī bù qí",
+  "pinyinRaw": "cēncībùqí",
+  "definition": "长短、高低不齐。形容不一致。",
+  "note": "",
+  "memoryTip": "不一致！",
+  "confusable": "",
+  "example": "水平参差不齐。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "好坏掺杂",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "水平参差不齐。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "质量参差不齐。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "泥沙俱下",
+  "pinyin": "ní shā jù xià",
+  "pinyinRaw": "níshājùxià",
+  "definition": "泥土和沙子都随水冲下来。比喻好坏混杂在一起。",
+  "note": "",
+  "memoryTip": "好的坏的掺杂在一起！（人和物都可）。",
+  "confusable": "",
+  "example": "网络信息泥沙俱下。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "好坏掺杂",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "网络信息泥沙俱下。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "泥沙俱下，鱼龙混杂。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "良莠不齐",
+  "pinyin": "liáng yǒu bù qí",
+  "pinyinRaw": "liángyǒubùqí",
+  "definition": "好苗和野草混杂。比喻好人坏人混杂在一起。",
+  "note": "",
+  "memoryTip": "一般指人、物都可！好的坏的掺杂在一起。",
+  "confusable": "",
+  "example": "队伍良莠不齐。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "好坏掺杂",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "队伍良莠不齐。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "产品质量良莠不齐。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "鱼龙混杂",
+  "pinyin": "yú lóng hùn zá",
+  "pinyinRaw": "yúlónghùnzá",
+  "definition": "鱼和龙混杂。比喻好人坏人混杂在一起。",
+  "note": "",
+  "memoryTip": "一般指人！（语义无别的选项时也可指物）。",
+  "confusable": "",
+  "example": "市场上鱼龙混杂。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "好坏掺杂",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "市场上鱼龙混杂。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "网络鱼龙混杂，要擦亮眼睛。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "鱼目混珠",
+  "pinyin": "yú mù hùn zhū",
+  "pinyinRaw": "yúmùhùnzhū",
+  "definition": "拿鱼眼睛冒充珍珠。比喻以假乱真、以次充好。",
+  "note": "",
+  "memoryTip": "以假乱真，以次充好！",
+  "confusable": "",
+  "example": "不法商家鱼目混珠。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "好坏掺杂",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不法商家鱼目混珠。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "谨防鱼目混珠。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "滥竽充数",
+  "pinyin": "làn yú chōng shù",
+  "pinyinRaw": "lànyúchōngshù",
+  "definition": "不会吹竽的人混在乐队里充数。比喻没有真才实学的人混在其中充数。",
+  "note": "",
+  "memoryTip": "混班子！",
+  "confusable": "",
+  "example": "不能滥竽充数，要有真本事。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "好坏掺杂",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能滥竽充数，要有真本事。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "滥竽充数终究会露馅。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "买椟还珠",
+  "pinyin": "mǎi dú huán zhū",
+  "pinyinRaw": "mǎidúhuánzhū",
+  "definition": "买下木匣，退还珍珠。比喻取舍失当，没有眼光。",
+  "note": "",
+  "memoryTip": "取舍失当！没有眼光不识货！",
+  "confusable": "",
+  "example": "只重形式不重内容是买椟还珠。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "好坏掺杂",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "只重形式不重内容是买椟还珠。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不识货的人买椟还珠。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "有目共睹",
+  "pinyin": "yǒu mù gòng dǔ",
+  "pinyinRaw": "yǒumùgòngdǔ",
+  "definition": "人人都看得见。形容极其明显。",
+  "note": "",
+  "memoryTip": "一般是积极语境！能看得到的东西。",
+  "confusable": "",
+  "example": "生态环境改善有目共睹。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "好坏掺杂",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "生态环境改善有目共睹。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "成绩有目共睹。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "蔚然成风",
+  "pinyin": "wèi rán chéng fēng",
+  "pinyinRaw": "wèiránchéngfēng",
+  "definition": "事情逐渐发展盛行，形成良好风气。",
+  "note": "",
+  "memoryTip": "积极的事情！（全民阅读、低碳出行、创新创造等）。",
+  "confusable": "蔚然成风（好事成风）vs 靡然成风（坏事成风）。",
+  "example": "全民阅读蔚然成风。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "全民阅读蔚然成风。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "低碳出行蔚然成风。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "靡然成风",
+  "pinyin": "mǐ rán chéng fēng",
+  "pinyinRaw": "mǐránchéngfēng",
+  "definition": "群起仿效，形成风气（多指不好的）。",
+  "note": "",
+  "memoryTip": "消极的事情！（奢靡浪费、拉帮结派、偷税漏税等）。",
+  "confusable": "",
+  "example": "奢靡浪费不可靡然成风。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "奢靡浪费不可靡然成风。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "拉帮结派一度靡然成风。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "风靡一时",
+  "pinyin": "fēng mǐ yī shí",
+  "pinyinRaw": "fēngmǐyīshí",
+  "definition": "在一个时期内非常流行。",
+  "note": "",
+  "memoryTip": "侧重一段时间！",
+  "confusable": "",
+  "example": "这首歌曾风靡一时。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这首歌曾风靡一时。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "风靡一时的潮流。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "如雷贯耳",
+  "pinyin": "rú léi guàn ěr",
+  "pinyinRaw": "rúléiguàněr",
+  "definition": "名声大得像雷声传进耳朵。形容名声很大。",
+  "note": "",
+  "memoryTip": "名声大。",
+  "confusable": "",
+  "example": "他的大名如雷贯耳。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他的大名如雷贯耳。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "贯彻落实“如臂使指、如影随形、如雷贯耳”的要求。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "炙手可热",
+  "pinyin": "zhì shǒu kě rè",
+  "pinyinRaw": "zhìshǒukěrè",
+  "definition": "手一挨近就感到热。比喻气焰权势很大。",
+  "note": "",
+  "memoryTip": "气焰权势大或者很火。",
+  "confusable": "",
+  "example": "他当时炙手可热。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他当时炙手可热。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "炙手可热的人物。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "名噪一时",
+  "pinyin": "míng zào yī shí",
+  "pinyinRaw": "míngzàoyīshí",
+  "definition": "在一个时期内名声很大。",
+  "note": "",
+  "memoryTip": "一时名声大。",
+  "confusable": "",
+  "example": "他当年名噪一时。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他当年名噪一时。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "名噪一时的作品。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "闻名遐迩",
+  "pinyin": "wén míng xiá ěr",
+  "pinyinRaw": "wénmíngxiáěr",
+  "definition": "远近闻名。",
+  "note": "",
+  "memoryTip": "远近闻名！",
+  "confusable": "",
+  "example": "这座古城闻名遐迩。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这座古城闻名遐迩。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "闻名遐迩的特产。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "煊赫一时",
+  "pinyin": "xuān hè yī shí",
+  "pinyinRaw": "xuānhèyīshí",
+  "definition": "一段时期内威势很盛。多含贬义。",
+  "note": "",
+  "memoryTip": "一段时期内威势很盛！贬义。",
+  "confusable": "",
+  "example": "他煊赫一时，最终落马。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他煊赫一时，最终落马。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "煊赫一时的权贵。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "趋之若鹜",
+  "pinyin": "qū zhī ruò wù",
+  "pinyinRaw": "qūzhīruòwù",
+  "definition": "像鸭子一样成群跑过去。比喻很多人争相追逐。",
+  "note": "",
+  "memoryTip": "趋附！（现在有时非贬义）。",
+  "confusable": "",
+  "example": "众人对热门岗位趋之若鹜。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "众人对热门岗位趋之若鹜。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不必对名利趋之若鹜。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "大行其道",
+  "pinyin": "dà xíng qí dào",
+  "pinyinRaw": "dàxíngqídào",
+  "definition": "某种风气、思潮盛行。中性，多含贬义。",
+  "note": "",
+  "memoryTip": "一种风尚！中性，多贬义。",
+  "confusable": "",
+  "example": "浮夸之风大行其道。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "浮夸之风大行其道。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "新技术大行其道。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "甚嚣尘上",
+  "pinyin": "shèn xiāo chén shàng",
+  "pinyinRaw": "shènxiāochénshàng",
+  "definition": "形容对某事议论纷纷。中性，多含贬义。",
+  "note": "",
+  "memoryTip": "中性词，多贬义。",
+  "confusable": "",
+  "example": "错误言论甚嚣尘上。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "错误言论甚嚣尘上。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "一时议论纷纷，甚嚣尘上。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "过江之鲫",
+  "pinyin": "guò jiāng zhī jì",
+  "pinyinRaw": "guòjiāngzhījì",
+  "definition": "形容赶时髦的人很多，盲目跟风。",
+  "note": "",
+  "memoryTip": "盲目跟风！（如过江之鲫）。",
+  "confusable": "",
+  "example": "跟风者如过江之鲫。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "跟风者如过江之鲫。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "追逐热点者如过江之鲫。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "声名鹊起",
+  "pinyin": "shēng míng què qǐ",
+  "pinyinRaw": "shēngmíngquèqǐ",
+  "definition": "名声迅速提高。",
+  "note": "",
+  "memoryTip": "出名快！",
+  "confusable": "",
+  "example": "他凭借新作声名鹊起。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他凭借新作声名鹊起。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "青年才俊声名鹊起。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "名声大噪",
+  "pinyin": "míng shēng dà zào",
+  "pinyinRaw": "míngshēngdàzào",
+  "definition": "名声广为传播。",
+  "note": "",
+  "memoryTip": "字面意思，没有“快”那个意思。",
+  "confusable": "",
+  "example": "这部影片让他名声大噪。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "流行名声",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这部影片让他名声大噪。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "企业因此名声大噪。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "以讹传讹",
+  "pinyin": "yǐ é chuán é",
+  "pinyinRaw": "yǐéchuáné",
+  "definition": "把本来错误的话越传越错。",
+  "note": "",
+  "memoryTip": "传播错误！",
+  "confusable": "",
+  "example": "谣言以讹传讹。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "谣言以讹传讹。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "不能以讹传讹。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "无孔不入",
+  "pinyin": "wú kǒng bú rù",
+  "pinyinRaw": "wúkǒngbúrù",
+  "definition": "有空子就钻。形容渗透到各个角落。",
+  "note": "",
+  "memoryTip": "有空子就钻！",
+  "confusable": "",
+  "example": "诈骗手段无孔不入。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "诈骗手段无孔不入。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "广告无孔不入。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "铺天盖地",
+  "pinyin": "pū tiān gài dì",
+  "pinyinRaw": "pūtiāngàidì",
+  "definition": "形容来势猛、声势大。中性。",
+  "note": "",
+  "memoryTip": "中性！来势猛、声势大。",
+  "confusable": "",
+  "example": "宣传铺天盖地。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "宣传铺天盖地。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "大雪铺天盖地。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "道听途说",
+  "pinyin": "dào tīng tú shuō",
+  "pinyinRaw": "dàotīngtúshuō",
+  "definition": "路上听来的传闻。指没有根据的传闻。",
+  "note": "",
+  "memoryTip": "没根据的传闻！",
+  "confusable": "",
+  "example": "不能相信道听途说。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不能相信道听途说。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "道听途说不足为凭。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "街谈巷议",
+  "pinyin": "jiē tán xiàng yì",
+  "pinyinRaw": "jiētánxiàngyì",
+  "definition": "大街小巷里人们的议论。",
+  "note": "",
+  "memoryTip": "大街小巷都在谈论。",
+  "confusable": "",
+  "example": "这件事成了街谈巷议的话题。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这件事成了街谈巷议的话题。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "街谈巷议，众说纷纭。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "稗官野史",
+  "pinyin": "bài guān yě shǐ",
+  "pinyinRaw": "bàiguānyěshǐ",
+  "definition": "指非官方的、记载逸闻琐事的史书。",
+  "note": "",
+  "memoryTip": "野史！",
+  "confusable": "",
+  "example": "这些传闻多见于稗官野史。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这些传闻多见于稗官野史。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "正史之外的稗官野史。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "逸闻轶事",
+  "pinyin": "yì wén yì shì",
+  "pinyinRaw": "yìwényìshì",
+  "definition": "世人不大知道的传闻趣事。",
+  "note": "",
+  "memoryTip": "八卦！",
+  "confusable": "",
+  "example": "名人的逸闻轶事。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "名人的逸闻轶事。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他讲了许多逸闻轶事。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "脍炙人口",
+  "pinyin": "kuài zhì rén kǒu",
+  "pinyinRaw": "kuàizhìrénkǒu",
+  "definition": "美味人人爱吃。比喻好的诗文等被人人传诵。",
+  "note": "",
+  "memoryTip": "民歌、诗词大家都能传诵。",
+  "confusable": "",
+  "example": "这首诗脍炙人口。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这首诗脍炙人口。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "脍炙人口的经典之作。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "津津乐道",
+  "pinyin": "jīn jīn lè dào",
+  "pinyinRaw": "jīnjīnlèdào",
+  "definition": "很有兴趣地谈论。",
+  "note": "",
+  "memoryTip": "大家爱说！说个没完。",
+  "confusable": "",
+  "example": "这段历史令人津津乐道。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这段历史令人津津乐道。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "人们津津乐道于他的成功。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "喜闻乐见",
+  "pinyin": "xǐ wén lè jiàn",
+  "pinyinRaw": "xǐwénlèjiàn",
+  "definition": "喜欢听，乐意看。形容很受欢迎。",
+  "note": "",
+  "memoryTip": "文艺、体育等！群众喜闻乐见。",
+  "confusable": "",
+  "example": "群众喜闻乐见的文化活动。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "群众喜闻乐见的文化活动。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "喜闻乐见的文艺作品。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "深入人心",
+  "pinyin": "shēn rù rén xīn",
+  "pinyinRaw": "shēnrùrénxīn",
+  "definition": "道理、思想等被大家深刻理解和接受。",
+  "note": "",
+  "memoryTip": "一般说理念（人类命运共同体理念深入人心）。",
+  "confusable": "",
+  "example": "人类命运共同体理念深入人心。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "传播传闻",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "人类命运共同体理念深入人心。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "节约意识深入人心。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "烟消云散",
+  "pinyin": "yān xiāo yún sàn",
+  "pinyinRaw": "yānxiāoyúnsàn",
+  "definition": "像烟一样消失。比喻事物消失净尽。",
+  "note": "",
+  "memoryTip": "抽象的！压力、情绪、烦恼、焦虑。",
+  "confusable": "",
+  "example": "烦恼烟消云散。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "烦恼烟消云散。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "疑虑烟消云散。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "灰飞烟灭",
+  "pinyin": "huī fēi yān miè",
+  "pinyinRaw": "huīfēiyānmiè",
+  "definition": "像灰一样飞散。比喻彻底消失。",
+  "note": "",
+  "memoryTip": "消失了！",
+  "confusable": "",
+  "example": "旧势力灰飞烟灭。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "旧势力灰飞烟灭。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "瞬间灰飞烟灭。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "化为乌有",
+  "pinyin": "huà wéi wū yǒu",
+  "pinyinRaw": "huàwéiwūyǒu",
+  "definition": "变得什么都没有。",
+  "note": "",
+  "memoryTip": "归零！归零。",
+  "confusable": "",
+  "example": "心血化为乌有。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "心血化为乌有。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "财富瞬间化为乌有。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "子虚乌有",
+  "pinyin": "zǐ xū wū yǒu",
+  "pinyinRaw": "zǐxūwūyǒu",
+  "definition": "虚构的、不存在的事情。",
+  "note": "",
+  "memoryTip": "虚构！不存在。",
+  "confusable": "",
+  "example": "这些说法纯属子虚乌有。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这些说法纯属子虚乌有。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "子虚乌有的事。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "稍纵即逝",
+  "pinyin": "shāo zòng jí shì",
+  "pinyinRaw": "shāozòngjíshì",
+  "definition": "稍微放松就消失了。形容时间、机会等容易失去。",
+  "note": "",
+  "memoryTip": "纵！机会不把握就很快消失。",
+  "confusable": "",
+  "example": "机会稍纵即逝。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "机会稍纵即逝。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "时光稍纵即逝。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "昙花一现",
+  "pinyin": "tán huā yī xiàn",
+  "pinyinRaw": "tánhuāyīxiàn",
+  "definition": "昙花开放时间很短。比喻事物出现后很快消失。",
+  "note": "",
+  "memoryTip": "出现时间极短！又没了！",
+  "confusable": "",
+  "example": "辉煌如昙花一现。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "辉煌如昙花一现。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "昙花一现的网红。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "销声匿迹",
+  "pinyin": "xiāo shēng nì jì",
+  "pinyinRaw": "xiāoshēngnìjì",
+  "definition": "隐藏起来，不公开露面。",
+  "note": "",
+  "memoryTip": "藏起来！",
+  "confusable": "",
+  "example": "他从此销声匿迹。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他从此销声匿迹。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "该物种一度销声匿迹。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "偃旗息鼓",
+  "pinyin": "yǎn qí xī gǔ",
+  "pinyinRaw": "yǎnqíxīgǔ",
+  "definition": "放倒旗子，停止敲鼓。比喻停止行动。",
+  "note": "",
+  "memoryTip": "停止！消停了！老实了。",
+  "confusable": "",
+  "example": "争论终于偃旗息鼓。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "争论终于偃旗息鼓。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "对方偃旗息鼓，不再纠缠。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "无影无踪",
+  "pinyin": "wú yǐng wú zōng",
+  "pinyinRaw": "wúyǐngwúzōng",
+  "definition": "一点踪影也没有。",
+  "note": "",
+  "memoryTip": "没踪影，字面意思。",
+  "confusable": "",
+  "example": "小偷逃得无影无踪。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "小偷逃得无影无踪。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "转眼消失得无影无踪。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "死灰复燃",
+  "pinyin": "sǐ huī fù rán",
+  "pinyinRaw": "sǐhuīfùrán",
+  "definition": "熄灭的灰重新燃烧。比喻已消失的坏事物又重新活跃。",
+  "note": "",
+  "memoryTip": "诈尸！坏的事物又出现。",
+  "confusable": "",
+  "example": "不良风气死灰复燃。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "不良风气死灰复燃。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "旧习俗死灰复燃。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "卷土重来",
+  "pinyin": "juǎn tǔ chóng lái",
+  "pinyinRaw": "juǎntǔchónglái",
+  "definition": "卷起尘土再来。比喻失败后重新振作再来。",
+  "note": "",
+  "memoryTip": "战败的一方，积蓄力量又出现！",
+  "confusable": "",
+  "example": "对手卷土重来。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "对手卷土重来。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "失败后卷土重来。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "沉渣泛起",
+  "pinyin": "chén zhā fàn qǐ",
+  "pinyinRaw": "chénzhāfànqǐ",
+  "definition": "沉在水底的渣滓又浮起来。比喻已消失的腐朽事物又重新出现。",
+  "note": "",
+  "memoryTip": "腐朽、陈旧、已绝迹的不好的东西又出现（军国主义沉渣泛起）。",
+  "confusable": "",
+  "example": "军国主义沉渣泛起。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "军国主义沉渣泛起。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "沉渣泛起，值得警惕。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "土崩瓦解",
+  "pinyin": "tǔ bēng wǎ jiě",
+  "pinyinRaw": "tǔbēngwǎjiě",
+  "definition": "像土崩塌、瓦破碎一样。比喻彻底崩溃。",
+  "note": "",
+  "memoryTip": "程度更重！彻底垮台（某种势力、思想观念）。",
+  "confusable": "",
+  "example": "旧势力土崩瓦解。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "旧势力土崩瓦解。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他的理论土崩瓦解。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "分崩离析",
+  "pinyin": "fēn bēng lí xī",
+  "pinyinRaw": "fēnbēnglíxī",
+  "definition": "分裂崩溃，离散解体。形容国家、集团等分裂。",
+  "note": "",
+  "memoryTip": "前苏联！国家、集团分裂。",
+  "confusable": "",
+  "example": "帝国分崩离析。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "消失重现",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "帝国分崩离析。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "联盟分崩离析。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "毋庸置疑",
+  "pinyin": "wú yōng zhì yí",
+  "pinyinRaw": "wúyōngzhìyí",
+  "definition": "不必怀疑。",
+  "note": "",
+  "memoryTip": "不用怀疑（毋=无）。",
+  "confusable": "",
+  "example": "这是毋庸置疑的事实。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "这是毋庸置疑的事实。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他的能力毋庸置疑。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "显而易见",
+  "pinyin": "xiǎn ér yì jiàn",
+  "pinyinRaw": "xiǎnéryìjiàn",
+  "definition": "形容事情很明显，容易看清楚。",
+  "note": "",
+  "memoryTip": "看！很明显。",
+  "confusable": "",
+  "example": "问题显而易见。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "问题显而易见。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "效果显而易见。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不言而喻",
+  "pinyin": "bù yán ér yù",
+  "pinyinRaw": "bùyánéryù",
+  "definition": "不用说就能明白。",
+  "note": "",
+  "memoryTip": "不说（言）而喻（明白）！",
+  "confusable": "",
+  "example": "道理不言而喻。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "道理不言而喻。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "结果不言而喻。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "昭然若揭",
+  "pinyin": "zhāo rán ruò jiē",
+  "pinyinRaw": "zhāoránruòjiē",
+  "definition": "真相大白，完全显露。多含贬义。",
+  "note": "",
+  "memoryTip": "多含贬义（美国双标嘴脸昭然若揭）。",
+  "confusable": "",
+  "example": "其野心昭然若揭。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "其野心昭然若揭。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "美国双标嘴脸昭然若揭。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "彰明较著",
+  "pinyin": "zhāng míng jiào zhù",
+  "pinyinRaw": "zhāngmíngjiàozhù",
+  "definition": "非常明显。四个字都是明显的意思。",
+  "note": "",
+  "memoryTip": "明显！四个字都是明显的意思。",
+  "confusable": "",
+  "example": "成绩彰明较著。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "成绩彰明较著。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "成效彰明较著。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "大张旗鼓",
+  "pinyin": "dà zhāng qí gǔ",
+  "pinyinRaw": "dàzhāngqígǔ",
+  "definition": "大规模地摆开阵势。形容声势浩大。",
+  "note": "",
+  "memoryTip": "声势浩大。",
+  "confusable": "",
+  "example": "大张旗鼓地宣传。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "大张旗鼓地宣传。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "大张旗鼓地开展活动。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "语焉不详",
+  "pinyin": "yǔ yān bù xiáng",
+  "pinyinRaw": "yǔyānbùxiáng",
+  "definition": "提到了但说得不详细。",
+  "note": "",
+  "memoryTip": "提到了但不详细！",
+  "confusable": "",
+  "example": "报告中对此语焉不详。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "报告中对此语焉不详。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "说法语焉不详。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "讳莫如深",
+  "pinyin": "huì mò rú shēn",
+  "pinyinRaw": "huìmòrúshēn",
+  "definition": "隐瞒得很紧，不肯说。",
+  "note": "",
+  "memoryTip": "隐藏不说！事情隐瞒得很紧！",
+  "confusable": "",
+  "example": "他对这件事讳莫如深。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他对这件事讳莫如深。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "当事人讳莫如深。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "暗度陈仓",
+  "pinyin": "àn dù chén cāng",
+  "pinyinRaw": "àndùchéncāng",
+  "definition": "暗中进行某种活动。",
+  "note": "",
+  "memoryTip": "暗中进行某种活动。",
+  "confusable": "",
+  "example": "明修栈道，暗度陈仓。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "明修栈道，暗度陈仓。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "他暗度陈仓，另有所图。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "word": "不露声色",
+  "pinyin": "bú lù shēng sè",
+  "pinyinRaw": "búlùshēngsè",
+  "definition": "内心活动不从脸色和言语中流露出来。",
+  "note": "",
+  "memoryTip": "字面意思（不表露）。",
+  "confusable": "",
+  "example": "他不露声色地观察。",
+  "exampleSource": "参考示例",
+  "exampleUrl": "",
+  "tags": "明显含糊",
+  "source": "builtin",
+  "examples": [
+   {
+    "text": "他不露声色地观察。",
+    "source": "参考示例",
+    "url": ""
+   },
+   {
+    "text": "心中惊讶，却不露声色。",
+    "source": "参考示例",
+    "url": ""
+   }
+  ]
  }
 ];
