@@ -35,6 +35,7 @@
     async function load() {
       const kw = document.getElementById("lib-kw").value;
       const field = document.getElementById("lib-field").value;
+      document.getElementById("lib-list").innerHTML = U.spinner("正在加载…");
       let list;
       if (filter === "fav") list = await DB.favWords();
       else if (filter === "wrong") list = await DB.wrongWords();

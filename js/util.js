@@ -54,5 +54,10 @@
     return a;
   };
 
+  // 加载动画（旋转圈 + 提示文字）
+  U.spinner = function (text) {
+    return `<div class="loading"><div class="spinner"></div><div class="small">${U.escapeHtml(text || "正在加载…")}</div></div>`;
+  };
+
   window.U = U;
 })();

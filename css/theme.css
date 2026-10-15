@@ -297,6 +297,25 @@ a { color: var(--primary); }
 button { transition: background .15s, opacity .15s, transform .1s; }
 button:active { transform: scale(.97); }
 
+/* 加载动画（旋转圈） */
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 48px 0;
+  color: var(--text-sub);
+}
+.spinner {
+  width: 34px;
+  height: 34px;
+  border: 3px solid var(--border);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin .8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
 /* 用户系统开启「减少动态效果」时关闭动画 */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }

@@ -58,6 +58,7 @@
     }
 
     // 全新开始（或换模式）
+    document.getElementById("study-body").innerHTML = U.spinner("正在准备题目…");
     const queue = mode === "review"
       ? await DB.dueQueue()
       : (mode === "wrong"
@@ -81,12 +82,14 @@
     renderQuestion();
 
     async function renderQuestion() {
+      const body = document.getElementById("study-body");
       const q = App.study.queue;
       const idx = App.study.idx;
+      body.innerHTML = U.spinner("正在出题…");
       if (idx >= q.length) {
         App.study.queue = [];
         saveStudy();
-        document.getElementById("study-body").innerHTML =
+        body.innerHTML =
           `<div class="card center">
              <p style="font-size:18px">🎉 本轮学习完成，做得很棒！</p>
              <button class="block" onclick="App.go('home')">返回首页</button>
@@ -94,7 +97,6 @@
         return;
       }
       const w = q[idx];
-      const body = document.getElementById("study-body");
       const correct = (w.definition || "").trim() || "（暂无释义）";
 
       // 准备干扰项（其它词的释义），缓存到本题对象上

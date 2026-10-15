@@ -13,7 +13,7 @@
           <span class="spacer"></span>
           <span class="small">词语详情</span>
         </div>
-        <div id="detail-body"><div class="center small" style="margin-top:40px">加载中…</div></div>
+        <div id="detail-body">${U.spinner("加载中…")}</div>
       </div>`;
 
     // 左右滑动/上下翻页时，按方向滑入新词
