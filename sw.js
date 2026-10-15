@@ -1,5 +1,5 @@
 /* 巧记词汇 Service Worker：静态资源缓存优先，支持离线打开。 */
-const CACHE = "qiaoji-v26";
+const CACHE = "qiaoji-v27";
 
 const ASSETS = [
   "./",
@@ -45,7 +45,7 @@ self.addEventListener("fetch", (e) => {
 
   // 网络优先：在线时始终拿最新内容，失败再回退缓存（保证离线可用、更新及时）
   e.respondWith(
-    fetch(e.request).then((res) => {
+    fetch(e.request, { cache: "no-store" }).then((res) => {
       if (res && res.status === 200) {
         const copy = res.clone();
         caches.open(CACHE).then((c) => c.put(e.request, copy));
