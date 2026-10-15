@@ -164,10 +164,14 @@
               <div class="head">❌ 回答错误，绿色是正确答案</div>
               <div>释义：${U.escapeHtml(correct)}</div>
               <button class="block" style="margin-top:10px" id="btn-next">下一题 →</button>
-              <button class="block secondary" style="margin-top:8px" id="btn-view">查看详细内容（记忆方法 / 易混淆辨析）</button>`;
+              <button class="block secondary" style="margin-top:8px" id="btn-view">查看详细内容（记忆方法 / 易混淆辨析）</button>
+              <button class="block secondary" style="margin-top:8px" id="btn-ask-ai">🤖 问AI · 帮我理解这个词</button>`;
             document.getElementById("btn-next").onclick = () => renderQuestion();
             document.getElementById("btn-view").onclick = () =>
               App.go("detail", { id: w.id, fromStudy: true });
+            document.getElementById("btn-ask-ai").onclick = function() {
+              AI.show(w);
+            };
           }
         }).catch((e) => {
           w._answered = false;

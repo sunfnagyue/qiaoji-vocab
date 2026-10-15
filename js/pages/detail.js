@@ -88,6 +88,7 @@
           <button class="secondary grow" id="btn-edit">✏️ 编辑</button>
           <button class="danger grow" id="btn-del">🗑 删除</button>
         </div>
+        <button class="block primary" style="margin-top:8px" id="btn-ai">🤖 AI助手 · 不懂就问</button>
         ${fromLibrary ? `
         <div class="row" style="margin-top:10px">
           <button class="secondary grow" id="btn-prev" ${hasPrev ? "" : "disabled"}>← 上一个</button>
@@ -121,6 +122,8 @@
         alert("操作失败：" + (e.message || e.rawMessage || ""));
       }
     };
+
+    document.getElementById("btn-ai").onclick = function() { AI.show(w); };
 
     document.getElementById("btn-edit").onclick = () => App.go("edit", { id: w.id, fromStudy: fromStudy });
 
