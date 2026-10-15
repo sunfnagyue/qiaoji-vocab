@@ -243,16 +243,44 @@
     return enabledWords();
   };
 
-  // 随机干扰项（其它词的释义）
+  // 干扰项：优先取当前词「易混淆辨析」里提到的近义词释义，不足再随机打乱其它词补齐（避免固定）
   DB.randomDistractors = async function (excludeId, n) {
     n = n || 3;
     const list = await enabledWords();
+    const byName = {};
+    for (const w of list) byName[w.word] = w;
+    const current = list.find((w) => w.id === excludeId);
+    const correct = current ? (current.definition || "").trim() : "";
     const pool = [];
-    for (const w of list) {
-      if (w.id === excludeId) continue;
+    const seen = new Set();
+
+    function pushDef(w) {
+      if (!w) return;
       const d = (w.definition || "").trim();
-      if (d && d.length >= 4 && pool.indexOf(d) < 0) pool.push(d);
-      if (pool.length >= n) break;
+      if (!d || d === correct || seen.has(d)) return;
+      seen.add(d);
+      pool.push(d);
+    }
+
+    // 1) 优先：从易混淆辨析文本解析词名（词后跟括号/顿号/分隔符），取这些词的释义
+    if (current && current.confusable) {
+      const names = (current.confusable.match(/[一-龥]{2,8}(?=[（(、／/=＝])/g) || []);
+      for (const name of names) {
+        if (name === current.word) continue;
+        pushDef(byName[name]);
+        if (pool.length >= n) return pool;
+      }
+    }
+
+    // 2) 不足：随机打乱其它词补齐
+    const others = list.filter((w) => w.id !== excludeId);
+    for (let i = others.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [others[i], others[j]] = [others[j], others[i]];
+    }
+    for (const w of others) {
+      pushDef(w);
+      if (pool.length >= n) return pool;
     }
     return pool;
   };
@@ -494,6 +522,29 @@
       });
     }
     await DB.setSetting(KEY, "2");
+  };
+
+  // 老用户已有词库：把内置词库新增的「易混淆辨析」补进对应词条（只更新原来为空的）
+  DB.enrichConfusable = async function () {
+    const KEY = "confusable_v";
+    if ((await DB.getSetting(KEY, "0")) === "1") return;
+    const d = await post(Object.assign({}, auth(), {
+      s: "App.Table.FreeQuery",
+      model_name: WORD,
+      where: [["uid", "=", uid()], ["src", "=", "builtin"]],
+      perpage: 10000,
+    }));
+    const byWord = {};
+    (d.list || []).forEach((r) => { byWord[r.word] = r; });
+    for (const t of BUILTIN_TERMS) {
+      if (!t.confusable) continue;
+      const row = byWord[t.word];
+      if (!row) continue;
+      // 只补原本为空的，避免覆盖用户手动修改
+      if (row.confusable && String(row.confusable).trim()) continue;
+      await DB.updateWord(row.id, { confusable: t.confusable });
+    }
+    await DB.setSetting(KEY, "1");
   };
 
   // 老用户已有词库：把内置词库中新增加的词补进账号（按 word 去重，可重复运行）
