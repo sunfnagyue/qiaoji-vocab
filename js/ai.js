@@ -6,7 +6,7 @@ var AI = {};
 // API 地址（硅基流动）
 AI.apiUrl = 'https://api.siliconflow.cn/v1/chat/completions';
 // 免费、快、中文好的模型
-AI.model = 'Qwen/Qwen2.5-7B-Instruct';
+AI.model = 'Qwen/Qwen3-8B';
 
 AI.history = [];
 AI.word = null;
