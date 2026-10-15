@@ -1,5 +1,5 @@
 /* 巧记词汇 Service Worker：静态资源缓存优先，支持离线打开。 */
-const CACHE = "qiaoji-v22";
+const CACHE = "qiaoji-v23";
 
 const ASSETS = [
   "./",

@@ -82,6 +82,7 @@
 
   DB.logout = async function () {
     localStorage.removeItem(LS_USER);
+    invalidateCache();
   };
 
   // ---------- 字段映射 ----------
@@ -154,8 +155,19 @@
     return out;
   }
 
-  // 取当前用户全部词条（按 id 升序）
-  async function fetchAll() {
+  // 全量词表内存缓存：学习/浏览过程中复用，避免每道题都全量拉取（「下一题卡顿」的根因）
+  const WORDS_TTL = 3 * 60 * 1000; // 3 分钟
+  let _wordsCache = null;          // { at, list }
+
+  function invalidateCache() { _wordsCache = null; }
+
+  // 取当前用户全部词条（按 id 升序）。opts.fresh 强制联网，否则命中缓存直接返回。
+  async function fetchAll(opts) {
+    opts = opts || {};
+    if (!opts.fresh && _wordsCache && _wordsCache.uid === uid() &&
+        (Date.now() - _wordsCache.at < WORDS_TTL)) {
+      return _wordsCache.list;
+    }
     const d = await post(Object.assign({}, auth(), {
       s: "App.Table.FreeQuery",
       model_name: WORD,
@@ -163,11 +175,13 @@
       perpage: 10000,
       page: 1,
     }));
-    return (d.list || []).map(recordToWord);
+    const list = (d.list || []).map(recordToWord);
+    _wordsCache = { at: Date.now(), uid: uid(), list: list };
+    return list;
   }
 
-  async function enabledWords() {
-    const all = await fetchAll();
+  async function enabledWords(opts) {
+    const all = await fetchAll(opts);
     return all.filter((w) => w.enabled);
   }
 
@@ -183,6 +197,7 @@
       model_name: WORD,
       data: store,
     }));
+    invalidateCache();
     return d.id;
   };
 
@@ -196,6 +211,10 @@
       where: [["id", "=", id], ["uid", "=", uid()]],
       data: store,
     }));
+    // 仅内容字段改动才失效缓存；纯复习进度更新（答题）不清缓存，保证学习全程流畅
+    const contentKeys = ["word", "pinyin", "pinyinRaw", "definition", "note", "memoryTip",
+      "confusable", "example", "exampleSource", "exampleUrl", "tags", "enabled", "examples"];
+    if (contentKeys.some((k) => fields[k] !== undefined)) invalidateCache();
   };
 
   DB.deleteWord = async function (id) {
@@ -301,7 +320,7 @@
   // 待复习队列（learning/reviewing 且已到期）
   DB.dueQueue = async function (limit) {
     const now = Date.now();
-    let list = (await enabledWords())
+    let list = (await enabledWords({ fresh: true }))
       .filter((w) => (w.status === "learning" || w.status === "reviewing") && w.dueAt && w.dueAt <= now)
       .sort((a, b) => (a.dueAt || 0) - (b.dueAt || 0));
     if (limit) list = list.slice(0, limit);
@@ -310,7 +329,7 @@
 
   // 新词队列
   DB.newQueue = async function (limit) {
-    let list = (await enabledWords())
+    let list = (await enabledWords({ fresh: true }))
       .filter((w) => w.status === "new")
       .sort((a, b) => a.id - b.id);
     if (limit) list = list.slice(0, limit);
@@ -319,7 +338,7 @@
 
   // 计数
   DB.counts = async function () {
-    const words = await enabledWords();
+    const words = await enabledWords({ fresh: true });
     const now = Date.now();
     let nNew = 0, nDue = 0, nLearning = 0, nMastered = 0, nFav = 0, nWrong = 0;
     words.forEach((w) => {
@@ -336,12 +355,12 @@
 
   // ---------- 收藏 / 错题 ----------
   DB.favWords = async function () {
-    return (await enabledWords()).filter((w) => w.fav);
+    return (await enabledWords({ fresh: true })).filter((w) => w.fav);
   };
 
   // 错题：答错过且尚未掌握，按最近答错时间排序
   DB.wrongWords = async function () {
-    return (await enabledWords())
+    return (await enabledWords({ fresh: true }))
       .filter((w) => w.wrongCount > 0 && w.status !== "mastered")
       .sort((a, b) => (b.lastWrongAt || 0) - (a.lastWrongAt || 0));
   };
