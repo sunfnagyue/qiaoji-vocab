@@ -161,10 +161,15 @@ AI.ask = async function () {
     } else if (resp.status === 401) {
       AI.saveKey('');
       AI.addBubble('ai', 'API Key 无效，已清除。请点右上角 ⚙ 重新填入正确的 Key。');
-    } else if (data && data.error) {
-      AI.addBubble('ai', '出错了：' + (data.error.message || JSON.stringify(data.error)));
     } else {
-      AI.addBubble('ai', '请求失败，请稍后重试');
+      // 把服务端返回的真实错误显示出来（硅基流动的错误用 message 字段）
+      var msg = '';
+      if (data && data.message) msg = data.message;
+      else if (data && data.error && data.error.message) msg = data.error.message;
+      else if (data && data.error) msg = JSON.stringify(data.error);
+      else if (data && data.code) msg = '错误码 ' + data.code;
+      else msg = 'HTTP ' + resp.status;
+      AI.addBubble('ai', '出错了：' + msg);
     }
 
   } catch (err) {
